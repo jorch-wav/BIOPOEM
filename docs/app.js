@@ -7,6 +7,8 @@ class BioPoem {
         this.currentModalPoem = null;
         this.modalImages = [];
         this.currentImageIndex = 0;
+        // Detect if this is the public GitHub Pages version
+        this.isPublicPage = window.location.hostname.includes('github.io');
         // Backend API configuration
         this.apiUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
             ? 'http://localhost:5000/api'
@@ -15,8 +17,25 @@ class BioPoem {
     }
 
     async init() {
+        // Configure page based on environment
+        if (this.isPublicPage) {
+            document.getElementById('page-title').textContent = 'BioPoem Gallery';
+            document.title = 'BioPoem Gallery';
+            // Hide rated filter button
+            const ratedBtn = document.querySelector('[data-filter="rated"]');
+            if (ratedBtn) ratedBtn.style.display = 'none';
+            // Hide stats section
+            const stats = document.querySelector('.stats');
+            if (stats) stats.style.display = 'none';
+        } else {
+            document.getElementById('page-title').textContent = 'BioPoem Dev Page';
+            document.title = 'BioPoem Dev Page';
+        }
+        
         await this.loadPoems();
-        await this.loadAllRatings();
+        if (!this.isPublicPage) {
+            await this.loadAllRatings();
+        }
         this.setupEventListeners();
         this.renderPoems();
         this.updateStats();
@@ -88,12 +107,8 @@ class BioPoem {
         const userRating = this.getUserRating(poem.id);
         const themeDisplay = this.getThemeDisplayName(poem.theme);
         
-        return `
-            <div class="poem-card" data-id="${poem.id}">
-                <img src="${poem.image}" alt="${poem.title}" class="poem-image" onclick="window.app.openPoemModal('${poem.id}')">
-                <div class="poem-info">
-                    <div class="poem-date">${this.formatDate(poem.date)}</div>
-                    <span class="poem-theme ${poem.theme}">${themeDisplay}</span>
+        // On public page, hide rating system
+        const ratingSystemHTML = this.isPublicPage ? '' : `
                     <div class="rating-system">
                         <button class="rating-btn like-btn ${userRating === 'like' ? 'active' : ''}" data-id="${poem.id}" data-type="like" title="Rate this poem" aria-label="Like poem">
                             <span>👍</span>
@@ -112,9 +127,19 @@ class BioPoem {
                             <button class="comment-submit" data-id="${poem.id}">Submit Rating</button>
                             <button class="comment-cancel" data-id="${poem.id}">Cancel</button>
                         </div>
-                    </div>
+                    </div>`;
+        
+        const commentsPreviewHTML = this.isPublicPage ? '' : this.createCommentsPreview(poem.id, ratings);
+        
+        return `
+            <div class="poem-card" data-id="${poem.id}">
+                <img src="${poem.image}" alt="${poem.title}" class="poem-image" onclick="window.app.openPoemModal('${poem.id}')">
+                <div class="poem-info">
+                    <div class="poem-date">${this.formatDate(poem.date)}</div>
+                    <span class="poem-theme ${poem.theme}">${themeDisplay}</span>
+                    ${ratingSystemHTML}
                 </div>
-                ${this.createCommentsPreview(poem.id, ratings)}
+                ${commentsPreviewHTML}
             </div>
         `;
     }
