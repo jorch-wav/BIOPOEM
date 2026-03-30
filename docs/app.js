@@ -708,3 +708,20 @@ document.addEventListener('keydown', (e) => {
         }
     }
 });
+
+// Header slideshow
+(function() {
+    const images = document.querySelectorAll('.slideshow-image');
+    if (images.length === 0) return;
+    
+    let currentIndex = 0;
+    
+    function nextSlide() {
+        images[currentIndex].classList.remove('active');
+        currentIndex = (currentIndex + 1) % images.length;
+        images[currentIndex].classList.add('active');
+    }
+    
+    // Change image every 4 seconds
+    setInterval(nextSlide, 4000);
+})();
