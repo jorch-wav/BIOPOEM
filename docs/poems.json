@@ -36,6 +36,24 @@
     ]
   },
   {
+    "id": "2026-03-30T20:00:00_waiting_for_rain",
+    "title": "Waiting For Rain",
+    "date": "2026-03-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/30/waiting_for_rain_visual/20260330_32pt_poem_waiting_for_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/30/waiting_for_rain_visual/20260330_24pt_footnote_waiting_for_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/30/waiting_for_rain_visual/20260330_prompt_waiting_for_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-03-29T20:00:00_function_calling_water",
     "title": "Function Calling Water",
     "date": "2026-03-29T20:00:00",
