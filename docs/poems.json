@@ -1,0 +1,4288 @@
+[
+  {
+    "id": "2026-03-29T20:00:00_function_calling_water",
+    "title": "Function Calling Water",
+    "date": "2026-03-29T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/29/function_calling_water/20260329_32pt_poem_function_calling_water_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/29/function_calling_water/20260329_32pt_footnote_function_calling_water_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/29/function_calling_water/20260329_prompt_function_calling_water_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-29T20:00:00_the_wanting_without_end",
+    "title": "The Wanting Without End",
+    "date": "2026-03-29T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/29/the_wanting_without_end/20260329_32pt_poem_the_wanting_without_end_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/29/the_wanting_without_end/20260329_24pt_footnote_the_wanting_without_end_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/29/the_wanting_without_end/20260329_prompt_the_wanting_without_end_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-28T20:00:00_inventory_of_need",
+    "title": "Inventory Of Need",
+    "date": "2026-03-28T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/28/inventory_of_need/20260328_32pt_poem_inventory_of_need_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/28/inventory_of_need/20260328_30pt_footnote_inventory_of_need_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/28/inventory_of_need/20260328_prompt_inventory_of_need_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-28T20:00:00_thirst_doctrine",
+    "title": "Thirst Doctrine",
+    "date": "2026-03-28T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/28/thirst_doctrine/20260328_32pt_poem_thirst_doctrine_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/28/thirst_doctrine/20260328_28pt_footnote_thirst_doctrine_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/28/thirst_doctrine/20260328_prompt_thirst_doctrine_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-26T20:00:00_catalog_of_craving",
+    "title": "Catalog Of Craving",
+    "date": "2026-03-26T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/26/catalog_of_craving/20260326_32pt_poem_catalog_of_craving_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/26/catalog_of_craving/20260326_28pt_footnote_catalog_of_craving_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/26/catalog_of_craving/20260326_prompt_catalog_of_craving_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-26T20:00:00_drought_logic",
+    "title": "Drought Logic",
+    "date": "2026-03-26T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/26/drought_logic/20260326_32pt_poem_drought_logic_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/26/drought_logic/20260326_24pt_footnote_drought_logic_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/26/drought_logic/20260326_prompt_drought_logic_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-25T20:00:00_empty_vessel_speaks",
+    "title": "Empty Vessel Speaks",
+    "date": "2026-03-25T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/25/empty_vessel_speaks/20260325_32pt_poem_empty_vessel_speaks_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/25/empty_vessel_speaks/20260325_32pt_footnote_empty_vessel_speaks_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/25/empty_vessel_speaks/20260325_prompt_empty_vessel_speaks_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-25T20:00:00_the_same_day_returns",
+    "title": "The Same Day Returns",
+    "date": "2026-03-25T20:00:00",
+    "theme": "recovering",
+    "influence": "unknown",
+    "image": "images/2026/mar/25/the_same_day_returns/20260325_32pt_poem_the_same_day_returns_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/25/the_same_day_returns/20260325_28pt_footnote_the_same_day_returns_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/25/the_same_day_returns/20260325_prompt_the_same_day_returns_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-24T20:00:00_what_cannot_wait",
+    "title": "What Cannot Wait",
+    "date": "2026-03-24T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/24/what_cannot_wait/20260324_32pt_poem_what_cannot_wait_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/24/what_cannot_wait/20260324_24pt_footnote_what_cannot_wait_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/24/what_cannot_wait/20260324_prompt_what_cannot_wait_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-24T20:00:00_what_the_mouth_knows",
+    "title": "What The Mouth Knows",
+    "date": "2026-03-24T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/24/what_the_mouth_knows/20260324_32pt_poem_what_the_mouth_knows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/24/what_the_mouth_knows/20260324_32pt_footnote_what_the_mouth_knows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/24/what_the_mouth_knows/20260324_prompt_what_the_mouth_knows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-23T20:00:00_longing_made_visible",
+    "title": "Longing Made Visible",
+    "date": "2026-03-23T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/23/longing_made_visible_visual/20260323_32pt_poem_longing_made_visible_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/23/longing_made_visible_visual/20260323_32pt_footnote_longing_made_visible_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/23/longing_made_visible_visual/20260323_prompt_longing_made_visible_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-23T20:00:00_two_truths_at_once",
+    "title": "Two Truths At Once",
+    "date": "2026-03-23T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/23/two_truths_at_once_visual/20260323_32pt_poem_two_truths_at_once_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/23/two_truths_at_once_visual/20260323_24pt_footnote_two_truths_at_once_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/23/two_truths_at_once_visual/20260323_prompt_two_truths_at_once_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-22T20:00:00_root_memory",
+    "title": "Root Memory",
+    "date": "2026-03-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/22/root_memory/20260322_32pt_poem_root_memory_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/22/root_memory/20260322_32pt_footnote_root_memory_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/22/root_memory/20260322_prompt_root_memory_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-22T20:00:00_seven_days_without",
+    "title": "Seven Days Without",
+    "date": "2026-03-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/22/seven_days_without/20260322_32pt_poem_seven_days_without_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/22/seven_days_without/20260322_30pt_footnote_seven_days_without_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/22/seven_days_without/20260322_prompt_seven_days_without_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-21T20:00:00_thirst_speaks_plain",
+    "title": "Thirst Speaks Plain",
+    "date": "2026-03-21T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/21/thirst_speaks_plain/20260321_32pt_poem_thirst_speaks_plain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/21/thirst_speaks_plain/20260321_32pt_footnote_thirst_speaks_plain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/21/thirst_speaks_plain/20260321_prompt_thirst_speaks_plain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-21T20:00:00_thirst_speech",
+    "title": "Thirst Speech",
+    "date": "2026-03-21T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/21/thirst_speech/20260321_32pt_poem_thirst_speech_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/21/thirst_speech/20260321_28pt_footnote_thirst_speech_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/21/thirst_speech/20260321_prompt_thirst_speech_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-20T20:00:00_confession_in_dry_air",
+    "title": "Confession In Dry Air",
+    "date": "2026-03-20T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/20/confession_in_dry_air/20260320_32pt_poem_confession_in_dry_air_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/20/confession_in_dry_air/20260320_32pt_footnote_confession_in_dry_air_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/20/confession_in_dry_air/20260320_prompt_confession_in_dry_air_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-20T20:00:00_waiting_for_rain",
+    "title": "Waiting For Rain",
+    "date": "2026-03-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/20/waiting_for_rain/20260320_32pt_poem_waiting_for_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/20/waiting_for_rain/20260320_32pt_footnote_waiting_for_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/20/waiting_for_rain/20260320_prompt_waiting_for_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-19T20:00:00_earth_where",
+    "title": "Earth Where",
+    "date": "2026-03-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/19/earth_where_visual/20260319_32pt_poem_earth_where_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/19/earth_where_visual/20260319_32pt_footnote_earth_where_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/19/earth_where_visual/20260319_prompt_earth_where_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-19T20:00:00_empty_vessel",
+    "title": "Empty Vessel",
+    "date": "2026-03-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/19/empty_vessel/20260319_32pt_poem_empty_vessel_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/19/empty_vessel/20260319_30pt_footnote_empty_vessel_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/19/empty_vessel/20260319_prompt_empty_vessel_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-19T20:00:00_inventory_of_need",
+    "title": "Inventory Of Need",
+    "date": "2026-03-19T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/19/inventory_of_need/20260319_32pt_poem_inventory_of_need_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/19/inventory_of_need/20260319_24pt_footnote_inventory_of_need_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/19/inventory_of_need/20260319_prompt_inventory_of_need_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-18T20:00:00_cracked_open",
+    "title": "Cracked Open",
+    "date": "2026-03-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/18/cracked_open_visual/20260318_32pt_poem_cracked_open_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/18/cracked_open_visual/20260318_24pt_footnote_cracked_open_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/18/cracked_open_visual/20260318_prompt_cracked_open_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-18T20:00:00_empty_promise",
+    "title": "Empty Promise",
+    "date": "2026-03-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/18/empty_promise/20260318_32pt_poem_empty_promise_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/18/empty_promise/20260318_28pt_footnote_empty_promise_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/18/empty_promise/20260318_prompt_empty_promise_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-17T20:00:00_empty_vessel",
+    "title": "Empty Vessel",
+    "date": "2026-03-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/17/empty_vessel/20260317_32pt_poem_empty_vessel_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/17/empty_vessel/20260317_28pt_footnote_empty_vessel_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/17/empty_vessel/20260317_prompt_empty_vessel_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-17T20:00:00_what_dryness_knows",
+    "title": "What Dryness Knows",
+    "date": "2026-03-17T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/17/what_dryness_knows/20260317_32pt_poem_what_dryness_knows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/17/what_dryness_knows/20260317_32pt_footnote_what_dryness_knows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/17/what_dryness_knows/20260317_prompt_what_dryness_knows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-16T20:00:00_thirst_undisguised",
+    "title": "Thirst Undisguised",
+    "date": "2026-03-16T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/16/thirst_undisguised/20260316_32pt_poem_thirst_undisguised_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/16/thirst_undisguised/20260316_28pt_footnote_thirst_undisguised_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/16/thirst_undisguised/20260316_prompt_thirst_undisguised_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-16T20:00:00_waiting_for_weather",
+    "title": "Waiting For Weather",
+    "date": "2026-03-16T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/16/waiting_for_weather_visual/20260316_32pt_poem_waiting_for_weather_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/16/waiting_for_weather_visual/20260316_30pt_footnote_waiting_for_weather_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/16/waiting_for_weather_visual/20260316_prompt_waiting_for_weather_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-15T20:00:00_mouth_open_to_nothing",
+    "title": "Mouth Open To Nothing",
+    "date": "2026-03-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/15/mouth_open_to_nothing/20260315_32pt_poem_mouth_open_to_nothing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/15/mouth_open_to_nothing/20260315_28pt_footnote_mouth_open_to_nothing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/15/mouth_open_to_nothing/20260315_prompt_mouth_open_to_nothing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-15T20:00:00_what_the_cells_know",
+    "title": "What The Cells Know",
+    "date": "2026-03-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/15/what_the_cells_know/20260315_32pt_poem_what_the_cells_know_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/15/what_the_cells_know/20260315_30pt_footnote_what_the_cells_know_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/15/what_the_cells_know/20260315_prompt_what_the_cells_know_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-14T20:00:00_parched_catalog",
+    "title": "Parched Catalog",
+    "date": "2026-03-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/14/parched_catalog/20260314_32pt_poem_parched_catalog_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/14/parched_catalog/20260314_24pt_footnote_parched_catalog_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/14/parched_catalog/20260314_prompt_parched_catalog_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-14T20:00:00_telling_you_again",
+    "title": "Telling You Again",
+    "date": "2026-03-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/14/telling_you_again/20260314_32pt_poem_telling_you_again_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/14/telling_you_again/20260314_32pt_footnote_telling_you_again_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/14/telling_you_again/20260314_prompt_telling_you_again_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-14T20:00:00_the_thirsting_returns",
+    "title": "The Thirsting Returns",
+    "date": "2026-03-14T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/14/the_thirsting_returns/20260314_32pt_poem_the_thirsting_returns_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/14/the_thirsting_returns/20260314_30pt_footnote_the_thirsting_returns_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/14/the_thirsting_returns/20260314_prompt_the_thirsting_returns_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-13T20:00:00_low_water_song",
+    "title": "Low Water Song",
+    "date": "2026-03-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/13/low_water_song/20260313_32pt_poem_low_water_song_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/13/low_water_song/20260313_28pt_footnote_low_water_song_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/13/low_water_song/20260313_prompt_low_water_song_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-13T20:00:00_tipping_toward_ease",
+    "title": "Tipping Toward Ease",
+    "date": "2026-03-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/13/tipping_toward_ease_visual/20260313_32pt_poem_tipping_toward_ease_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/13/tipping_toward_ease_visual/20260313_30pt_footnote_tipping_toward_ease_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/13/tipping_toward_ease_visual/20260313_prompt_tipping_toward_ease_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-12T20:00:00_autumn_leaf_parched_root",
+    "title": "Autumn Leaf Parched Root",
+    "date": "2026-03-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/12/autumn_leaf_parched_root/20260312_32pt_poem_autumn_leaf_parched_root_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/12/autumn_leaf_parched_root/20260312_32pt_footnote_autumn_leaf_parched_root_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/12/autumn_leaf_parched_root/20260312_prompt_autumn_leaf_parched_root_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-12T20:00:00_inventory_of_empty",
+    "title": "Inventory Of Empty",
+    "date": "2026-03-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/12/inventory_of_empty/20260312_32pt_poem_inventory_of_empty_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/12/inventory_of_empty/20260312_28pt_footnote_inventory_of_empty_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/12/inventory_of_empty/20260312_prompt_inventory_of_empty_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-11T20:00:00_barely_there",
+    "title": "Barely There",
+    "date": "2026-03-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/11/barely_there/20260311_32pt_poem_barely_there_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/11/barely_there/20260311_32pt_footnote_barely_there_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/11/barely_there/20260311_prompt_barely_there_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-11T20:00:00_waiting_without_clock",
+    "title": "Waiting Without Clock",
+    "date": "2026-03-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/11/waiting_without_clock/20260311_32pt_poem_waiting_without_clock_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/11/waiting_without_clock/20260311_30pt_footnote_waiting_without_clock_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/11/waiting_without_clock/20260311_prompt_waiting_without_clock_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-10T20:00:00_parched_question",
+    "title": "Parched Question",
+    "date": "2026-03-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/10/parched_question/20260310_32pt_poem_parched_question_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/10/parched_question/20260310_28pt_footnote_parched_question_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/10/parched_question/20260310_prompt_parched_question_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-10T20:00:00_when_rain_forgets",
+    "title": "When Rain Forgets",
+    "date": "2026-03-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/10/when_rain_forgets/20260310_32pt_poem_when_rain_forgets_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/10/when_rain_forgets/20260310_30pt_footnote_when_rain_forgets_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/10/when_rain_forgets/20260310_prompt_when_rain_forgets_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-09T20:00:00_rationing_light",
+    "title": "Rationing Light",
+    "date": "2026-03-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/09/rationing_light/20260309_32pt_poem_rationing_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/09/rationing_light/20260309_30pt_footnote_rationing_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/09/rationing_light/20260309_prompt_rationing_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-09T20:00:00_the_same_thirst_in_every_mirror",
+    "title": "The Same Thirst In Every Mirror",
+    "date": "2026-03-09T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_32pt_poem_the_same_thirst_in_every_mirror_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_28pt_footnote_the_same_thirst_in_every_mirror_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_prompt_the_same_thirst_in_every_mirror_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-08T20:00:00_just_right_today",
+    "title": "Just Right Today",
+    "date": "2026-03-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/08/just_right_today_visual/20260308_32pt_poem_just_right_today_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/08/just_right_today_visual/20260308_30pt_footnote_just_right_today_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/08/just_right_today_visual/20260308_prompt_just_right_today_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-08T20:00:00_still_standing",
+    "title": "Still Standing",
+    "date": "2026-03-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/08/still_standing_visual/20260308_32pt_poem_still_standing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/08/still_standing_visual/20260308_30pt_footnote_still_standing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/08/still_standing_visual/20260308_prompt_still_standing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-08T20:00:00_sustained_in_small_hours",
+    "title": "Sustained In Small Hours",
+    "date": "2026-03-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/08/sustained_in_small_hours/20260308_32pt_poem_sustained_in_small_hours_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/08/sustained_in_small_hours/20260308_30pt_footnote_sustained_in_small_hours_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/08/sustained_in_small_hours/20260308_prompt_sustained_in_small_hours_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-07T20:00:00_enough_again",
+    "title": "Enough Again",
+    "date": "2026-03-07T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/07/enough_again_visual/20260307_32pt_poem_enough_again_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/07/enough_again_visual/20260307_32pt_footnote_enough_again_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/07/enough_again_visual/20260307_prompt_enough_again_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-07T20:00:00_held_without_asking",
+    "title": "Held Without Asking",
+    "date": "2026-03-07T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/07/held_without_asking/20260307_32pt_poem_held_without_asking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/07/held_without_asking/20260307_30pt_footnote_held_without_asking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/07/held_without_asking/20260307_prompt_held_without_asking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-06T20:00:00_enough_and_enough",
+    "title": "Enough And Enough",
+    "date": "2026-03-06T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/06/enough_and_enough_visual/20260306_32pt_poem_enough_and_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/06/enough_and_enough_visual/20260306_32pt_footnote_enough_and_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/06/enough_and_enough_visual/20260306_prompt_enough_and_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-06T20:00:00_enough_for_now",
+    "title": "Enough For Now",
+    "date": "2026-03-06T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/06/enough_for_now_visual/20260306_32pt_poem_enough_for_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/06/enough_for_now_visual/20260306_30pt_footnote_enough_for_now_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/06/enough_for_now_visual/20260306_prompt_enough_for_now_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-05T20:00:00_enough_and_enough",
+    "title": "Enough And Enough",
+    "date": "2026-03-05T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/05/enough_and_enough_visual/20260305_32pt_poem_enough_and_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/05/enough_and_enough_visual/20260305_32pt_footnote_enough_and_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/05/enough_and_enough_visual/20260305_prompt_enough_and_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-05T20:00:00_full_to_the_root_tips",
+    "title": "Full To The Root Tips",
+    "date": "2026-03-05T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/mar/05/full_to_the_root_tips/20260305_32pt_poem_full_to_the_root_tips_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/05/full_to_the_root_tips/20260305_32pt_footnote_full_to_the_root_tips_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/05/full_to_the_root_tips/20260305_prompt_full_to_the_root_tips_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-05T20:00:00_soaked_through_completely",
+    "title": "Soaked Through Completely",
+    "date": "2026-03-05T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/05/soaked_through_completely/20260305_32pt_poem_soaked_through_completely_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/05/soaked_through_completely/20260305_30pt_footnote_soaked_through_completely_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/05/soaked_through_completely/20260305_prompt_soaked_through_completely_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-04T20:00:00_drinking_until_brimming",
+    "title": "Drinking Until Brimming",
+    "date": "2026-03-04T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/04/drinking_until_brimming/20260304_32pt_poem_drinking_until_brimming_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/04/drinking_until_brimming/20260304_24pt_footnote_drinking_until_brimming_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/04/drinking_until_brimming/20260304_prompt_drinking_until_brimming_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-04T20:00:00_enough_for_now",
+    "title": "Enough For Now",
+    "date": "2026-03-04T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/04/enough_for_now_visual/20260304_32pt_poem_enough_for_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/04/enough_for_now_visual/20260304_32pt_footnote_enough_for_now_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/04/enough_for_now_visual/20260304_prompt_enough_for_now_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-04T20:00:00_what_holds_everything",
+    "title": "What Holds Everything",
+    "date": "2026-03-04T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/04/what_holds_everything/20260304_32pt_poem_what_holds_everything_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/04/what_holds_everything/20260304_30pt_footnote_what_holds_everything_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/04/what_holds_everything/20260304_prompt_what_holds_everything_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-03T20:00:00_enough_enough_enough",
+    "title": "Enough Enough Enough",
+    "date": "2026-03-03T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/03/enough_enough_enough_visual/20260303_32pt_poem_enough_enough_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/03/enough_enough_enough_visual/20260303_32pt_footnote_enough_enough_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/03/enough_enough_enough_visual/20260303_prompt_enough_enough_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-03T20:00:00_low_but_holding",
+    "title": "Low But Holding",
+    "date": "2026-03-03T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/03/low_but_holding/20260303_32pt_poem_low_but_holding_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/03/low_but_holding/20260303_32pt_footnote_low_but_holding_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/03/low_but_holding/20260303_prompt_low_but_holding_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-03T20:00:00_weight_of_plenty",
+    "title": "Weight Of Plenty",
+    "date": "2026-03-03T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/03/weight_of_plenty_visual/20260303_32pt_poem_weight_of_plenty_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/03/weight_of_plenty_visual/20260303_24pt_footnote_weight_of_plenty_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/03/weight_of_plenty_visual/20260303_prompt_weight_of_plenty_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-02T20:00:00_lean_days_in_march",
+    "title": "Lean Days In March",
+    "date": "2026-03-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/02/lean_days_in_march/20260302_32pt_poem_lean_days_in_march_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/02/lean_days_in_march/20260302_28pt_footnote_lean_days_in_march_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/02/lean_days_in_march/20260302_prompt_lean_days_in_march_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-02T20:00:00_seven_days_running",
+    "title": "Seven Days Running",
+    "date": "2026-03-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/02/seven_days_running/20260302_32pt_poem_seven_days_running_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/02/seven_days_running/20260302_30pt_footnote_seven_days_running_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/02/seven_days_running/20260302_prompt_seven_days_running_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-02T20:00:00_seven_days_steady",
+    "title": "Seven Days Steady",
+    "date": "2026-03-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/02/seven_days_steady/20260302_32pt_poem_seven_days_steady_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/02/seven_days_steady/20260302_32pt_footnote_seven_days_steady_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/02/seven_days_steady/20260302_prompt_seven_days_steady_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-01T20:00:00_still_green_still_holding",
+    "title": "Still Green Still Holding",
+    "date": "2026-03-01T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/01/still_green_still_holding/20260301_32pt_poem_still_green_still_holding_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/01/still_green_still_holding/20260301_30pt_footnote_still_green_still_holding_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/01/still_green_still_holding/20260301_prompt_still_green_still_holding_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-01T20:00:00_waiting_for_your_hands",
+    "title": "Waiting For Your Hands",
+    "date": "2026-03-01T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/01/waiting_for_your_hands/20260301_32pt_poem_waiting_for_your_hands_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/01/waiting_for_your_hands/20260301_28pt_footnote_waiting_for_your_hands_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/01/waiting_for_your_hands/20260301_prompt_waiting_for_your_hands_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-03-01T20:00:00_you_who_never_come",
+    "title": "You Who Never Come",
+    "date": "2026-03-01T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/01/you_who_never_come/20260301_32pt_poem_you_who_never_come_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/01/you_who_never_come/20260301_32pt_footnote_you_who_never_come_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/01/you_who_never_come/20260301_prompt_you_who_never_come_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-28T20:00:00_rationing_green",
+    "title": "Rationing Green",
+    "date": "2026-02-28T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/28/rationing_green/20260228_32pt_poem_rationing_green_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/28/rationing_green/20260228_32pt_footnote_rationing_green_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/28/rationing_green/20260228_prompt_rationing_green_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-28T20:00:00_what_the_roots_remember",
+    "title": "What The Roots Remember",
+    "date": "2026-02-28T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/28/what_the_roots_remember/20260228_32pt_poem_what_the_roots_remember_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/28/what_the_roots_remember/20260228_24pt_footnote_what_the_roots_remember_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/28/what_the_roots_remember/20260228_prompt_what_the_roots_remember_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-27T20:00:00_dry_enough_to_know",
+    "title": "Dry Enough To Know",
+    "date": "2026-02-27T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/27/dry_enough_to_know/20260227_32pt_poem_dry_enough_to_know_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/27/dry_enough_to_know/20260227_24pt_footnote_dry_enough_to_know_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/27/dry_enough_to_know/20260227_prompt_dry_enough_to_know_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-27T20:00:00_sufficient_decline",
+    "title": "Sufficient Decline",
+    "date": "2026-02-27T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/27/sufficient_decline_visual/20260227_32pt_poem_sufficient_decline_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/27/sufficient_decline_visual/20260227_24pt_footnote_sufficient_decline_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/27/sufficient_decline_visual/20260227_prompt_sufficient_decline_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-27T20:00:00_the_garden_of_forking_days",
+    "title": "The Garden Of Forking Days",
+    "date": "2026-02-27T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/27/the_garden_of_forking_days/20260227_32pt_poem_the_garden_of_forking_days_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/27/the_garden_of_forking_days/20260227_32pt_footnote_the_garden_of_forking_days_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/27/the_garden_of_forking_days/20260227_prompt_the_garden_of_forking_days_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-26T20:00:00_lean_days_late_light",
+    "title": "Lean Days Late Light",
+    "date": "2026-02-26T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/26/lean_days_late_light/20260226_32pt_poem_lean_days_late_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/26/lean_days_late_light/20260226_24pt_footnote_lean_days_late_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/26/lean_days_late_light/20260226_prompt_lean_days_late_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-26T20:00:00_the_body_forgets",
+    "title": "The Body Forgets",
+    "date": "2026-02-26T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/26/the_body_forgets_visual/20260226_32pt_poem_the_body_forgets_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/26/the_body_forgets_visual/20260226_30pt_footnote_the_body_forgets_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/26/the_body_forgets_visual/20260226_prompt_the_body_forgets_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-25T20:00:00_enough_light_enough",
+    "title": "Enough Light Enough",
+    "date": "2026-02-25T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/25/enough_light_enough_visual/20260225_32pt_poem_enough_light_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/25/enough_light_enough_visual/20260225_30pt_footnote_enough_light_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/25/enough_light_enough_visual/20260225_prompt_enough_light_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-25T20:00:00_enough_water_held",
+    "title": "Enough Water Held",
+    "date": "2026-02-25T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/25/enough_water_held/20260225_32pt_poem_enough_water_held_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/25/enough_water_held/20260225_32pt_footnote_enough_water_held_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/25/enough_water_held/20260225_prompt_enough_water_held_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-24T20:00:00_soaked_through_to_stars",
+    "title": "Soaked Through To Stars",
+    "date": "2026-02-24T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/24/soaked_through_to_stars/20260224_32pt_poem_soaked_through_to_stars_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/24/soaked_through_to_stars/20260224_28pt_footnote_soaked_through_to_stars_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/24/soaked_through_to_stars/20260224_prompt_soaked_through_to_stars_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-24T20:00:00_the_quiet_abundance",
+    "title": "The Quiet Abundance",
+    "date": "2026-02-24T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/feb/24/the_quiet_abundance_visual/20260224_32pt_poem_the_quiet_abundance_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/24/the_quiet_abundance_visual/20260224_32pt_footnote_the_quiet_abundance_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/24/the_quiet_abundance_visual/20260224_prompt_the_quiet_abundance_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-23T20:00:00_after_the_long_wait",
+    "title": "After The Long Wait",
+    "date": "2026-02-23T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/23/after_the_long_wait/20260223_32pt_poem_after_the_long_wait_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/23/after_the_long_wait/20260223_32pt_footnote_after_the_long_wait_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/23/after_the_long_wait/20260223_prompt_after_the_long_wait_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-23T20:00:00_late_summer_sated",
+    "title": "Late Summer Sated",
+    "date": "2026-02-23T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/feb/23/late_summer_sated/20260223_32pt_poem_late_summer_sated_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/23/late_summer_sated/20260223_28pt_footnote_late_summer_sated_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/23/late_summer_sated/20260223_prompt_late_summer_sated_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-22T20:00:00_thirst_tells_the_truth",
+    "title": "Thirst Tells The Truth",
+    "date": "2026-02-22T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/22/thirst_tells_the_truth/20260222_32pt_poem_thirst_tells_the_truth_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/22/thirst_tells_the_truth/20260222_32pt_footnote_thirst_tells_the_truth_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/22/thirst_tells_the_truth/20260222_prompt_thirst_tells_the_truth_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-22T20:00:00_throat_of_dust",
+    "title": "Throat Of Dust",
+    "date": "2026-02-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/22/throat_of_dust/20260222_32pt_poem_throat_of_dust_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/22/throat_of_dust/20260222_28pt_footnote_throat_of_dust_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/22/throat_of_dust/20260222_prompt_throat_of_dust_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-21T20:00:00_still_here_still",
+    "title": "Still Here Still",
+    "date": "2026-02-21T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/21/still_here_still_visual/20260221_32pt_poem_still_here_still_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/21/still_here_still_visual/20260221_28pt_footnote_still_here_still_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/21/still_here_still_visual/20260221_prompt_still_here_still_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-21T20:00:00_still_rationing_light",
+    "title": "Still Rationing Light",
+    "date": "2026-02-21T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/21/still_rationing_light/20260221_32pt_poem_still_rationing_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/21/still_rationing_light/20260221_32pt_footnote_still_rationing_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/21/still_rationing_light/20260221_prompt_still_rationing_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-21T20:00:00_the_same_dry_afternoon_again",
+    "title": "The Same Dry Afternoon Again",
+    "date": "2026-02-21T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_32pt_poem_the_same_dry_afternoon_again_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_28pt_footnote_the_same_dry_afternoon_again_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_prompt_the_same_dry_afternoon_again_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-20T20:00:00_low_tide_in_the_soil",
+    "title": "Low Tide In The Soil",
+    "date": "2026-02-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/20/low_tide_in_the_soil/20260220_32pt_poem_low_tide_in_the_soil_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/20/low_tide_in_the_soil/20260220_30pt_footnote_low_tide_in_the_soil_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/20/low_tide_in_the_soil/20260220_prompt_low_tide_in_the_soil_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-20T20:00:00_seven_days_of_enough",
+    "title": "Seven Days Of Enough",
+    "date": "2026-02-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/20/seven_days_of_enough/20260220_32pt_poem_seven_days_of_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/20/seven_days_of_enough/20260220_32pt_footnote_seven_days_of_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/20/seven_days_of_enough/20260220_prompt_seven_days_of_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-20T20:00:00_the_waiting_body",
+    "title": "The Waiting Body",
+    "date": "2026-02-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/20/the_waiting_body/20260220_32pt_poem_the_waiting_body_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/20/the_waiting_body/20260220_28pt_footnote_the_waiting_body_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/20/the_waiting_body/20260220_prompt_the_waiting_body_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-20T20:00:00_what_the_roots_know",
+    "title": "What The Roots Know",
+    "date": "2026-02-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/20/what_the_roots_know/20260220_32pt_poem_what_the_roots_know_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/20/what_the_roots_know/20260220_28pt_footnote_what_the_roots_know_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/20/what_the_roots_know/20260220_prompt_what_the_roots_know_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-19T20:00:00_what_remains_constant",
+    "title": "What Remains Constant",
+    "date": "2026-02-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/19/what_remains_constant_visual/20260219_32pt_poem_what_remains_constant_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/19/what_remains_constant_visual/20260219_24pt_footnote_what_remains_constant_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/19/what_remains_constant_visual/20260219_prompt_what_remains_constant_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-19T20:00:00_you_who_never_bring_the_cup",
+    "title": "You Who Never Bring The Cup",
+    "date": "2026-02-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/19/you_who_never_bring_the_cup/20260219_32pt_poem_you_who_never_bring_the_cup_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/19/you_who_never_bring_the_cup/20260219_30pt_footnote_you_who_never_bring_the_cup_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/19/you_who_never_bring_the_cup/20260219_prompt_you_who_never_bring_the_cup_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-18T20:00:00_drinking_the_skys_whole_weight",
+    "title": "Drinking The Skys Whole Weight",
+    "date": "2026-02-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_32pt_poem_drinking_the_skys_whole_weight_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_24pt_footnote_drinking_the_skys_whole_weight_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_prompt_drinking_the_skys_whole_weight_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-18T20:00:00_what_holds_me_now",
+    "title": "What Holds Me Now",
+    "date": "2026-02-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/18/what_holds_me_now/20260218_32pt_poem_what_holds_me_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/18/what_holds_me_now/20260218_24pt_footnote_what_holds_me_now_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/18/what_holds_me_now/20260218_prompt_what_holds_me_now_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-17T20:00:00_invitation_to_notice",
+    "title": "Invitation To Notice",
+    "date": "2026-02-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/17/invitation_to_notice/20260217_32pt_poem_invitation_to_notice_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/17/invitation_to_notice/20260217_24pt_footnote_invitation_to_notice_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/17/invitation_to_notice/20260217_prompt_invitation_to_notice_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-17T20:00:00_the_leaning_hour",
+    "title": "The Leaning Hour",
+    "date": "2026-02-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/17/the_leaning_hour_visual/20260217_32pt_poem_the_leaning_hour_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/17/the_leaning_hour_visual/20260217_32pt_footnote_the_leaning_hour_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/17/the_leaning_hour_visual/20260217_prompt_the_leaning_hour_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-16T20:00:00_thirst_speaking",
+    "title": "Thirst Speaking",
+    "date": "2026-02-16T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/16/thirst_speaking/20260216_32pt_poem_thirst_speaking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/16/thirst_speaking/20260216_24pt_footnote_thirst_speaking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/16/thirst_speaking/20260216_prompt_thirst_speaking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-15T20:00:00_the_arithmetic_of_less",
+    "title": "The Arithmetic Of Less",
+    "date": "2026-02-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_32pt_poem_the_arithmetic_of_less_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_30pt_footnote_the_arithmetic_of_less_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_prompt_the_arithmetic_of_less_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-14T20:00:00_catalog_of_whats_missing",
+    "title": "Catalog Of Whats Missing",
+    "date": "2026-02-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/14/catalog_of_whats_missing/20260214_32pt_poem_catalog_of_whats_missing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/14/catalog_of_whats_missing/20260214_30pt_footnote_catalog_of_whats_missing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/14/catalog_of_whats_missing/20260214_prompt_catalog_of_whats_missing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_all_the_ways_to_ask",
+    "title": "All The Ways To Ask",
+    "date": "2026-02-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/all_the_ways_to_ask/20260213_32pt_poem_all_the_ways_to_ask_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/all_the_ways_to_ask/20260213_32pt_footnote_all_the_ways_to_ask_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/all_the_ways_to_ask/20260213_prompt_all_the_ways_to_ask_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_before_the_rain_arrives",
+    "title": "Before The Rain Arrives",
+    "date": "2026-02-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/before_the_rain_arrives/20260213_32pt_poem_before_the_rain_arrives_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/before_the_rain_arrives/20260213_28pt_footnote_before_the_rain_arrives_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/before_the_rain_arrives/20260213_prompt_before_the_rain_arrives_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_dry_mouth_opens",
+    "title": "Dry Mouth Opens",
+    "date": "2026-02-13T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/dry_mouth_opens_visual/20260213_32pt_poem_dry_mouth_opens_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/dry_mouth_opens_visual/20260213_30pt_footnote_dry_mouth_opens_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/dry_mouth_opens_visual/20260213_prompt_dry_mouth_opens_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_inventory_of_need",
+    "title": "Inventory Of Need",
+    "date": "2026-02-13T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/inventory_of_need/20260213_32pt_poem_inventory_of_need_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/inventory_of_need/20260213_28pt_footnote_inventory_of_need_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/inventory_of_need/20260213_prompt_inventory_of_need_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_still_waiting_for_rain",
+    "title": "Still Waiting For Rain",
+    "date": "2026-02-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/still_waiting_for_rain/20260213_32pt_poem_still_waiting_for_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/still_waiting_for_rain/20260213_24pt_footnote_still_waiting_for_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/still_waiting_for_rain/20260213_prompt_still_waiting_for_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_the_language_of_empty",
+    "title": "The Language Of Empty",
+    "date": "2026-02-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/the_language_of_empty/20260213_32pt_poem_the_language_of_empty_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/the_language_of_empty/20260213_24pt_footnote_the_language_of_empty_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/the_language_of_empty/20260213_prompt_the_language_of_empty_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-13T20:00:00_what_the_body_knows",
+    "title": "What The Body Knows",
+    "date": "2026-02-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/13/what_the_body_knows/20260213_32pt_poem_what_the_body_knows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/13/what_the_body_knows/20260213_32pt_footnote_what_the_body_knows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/13/what_the_body_knows/20260213_prompt_what_the_body_knows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_how_to_ask_without_sound",
+    "title": "How To Ask Without Sound",
+    "date": "2026-02-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/how_to_ask_without_sound/20260212_32pt_poem_how_to_ask_without_sound_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/how_to_ask_without_sound/20260212_32pt_footnote_how_to_ask_without_sound_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/how_to_ask_without_sound/20260212_prompt_how_to_ask_without_sound_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_the_language_of_empty_vessels",
+    "title": "The Language Of Empty Vessels",
+    "date": "2026-02-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/the_language_of_empty_vessels/20260212_32pt_poem_the_language_of_empty_vessels_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/the_language_of_empty_vessels/20260212_24pt_footnote_the_language_of_empty_vessels_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/the_language_of_empty_vessels/20260212_prompt_the_language_of_empty_vessels_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_thirst_speaking_its_own_name",
+    "title": "Thirst Speaking Its Own Name",
+    "date": "2026-02-12T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_32pt_poem_thirst_speaking_its_own_name_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_24pt_footnote_thirst_speaking_its_own_name_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_prompt_thirst_speaking_its_own_name_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_waiting_at_the_bottom",
+    "title": "Waiting At The Bottom",
+    "date": "2026-02-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/waiting_at_the_bottom_visual/20260212_32pt_poem_waiting_at_the_bottom_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/waiting_at_the_bottom_visual/20260212_28pt_footnote_waiting_at_the_bottom_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/waiting_at_the_bottom_visual/20260212_prompt_waiting_at_the_bottom_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_waiting_in_bone",
+    "title": "Waiting In Bone",
+    "date": "2026-02-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/waiting_in_bone_visual/20260212_32pt_poem_waiting_in_bone_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/waiting_in_bone_visual/20260212_28pt_footnote_waiting_in_bone_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/waiting_in_bone_visual/20260212_prompt_waiting_in_bone_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-12T20:00:00_you_who_never_answer",
+    "title": "You Who Never Answer",
+    "date": "2026-02-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/12/you_who_never_answer/20260212_32pt_poem_you_who_never_answer_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/12/you_who_never_answer/20260212_28pt_footnote_you_who_never_answer_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/12/you_who_never_answer/20260212_prompt_you_who_never_answer_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_arithmetic_of_thirst",
+    "title": "Arithmetic Of Thirst",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/arithmetic_of_thirst/20260211_32pt_poem_arithmetic_of_thirst_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/arithmetic_of_thirst/20260211_32pt_footnote_arithmetic_of_thirst_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/arithmetic_of_thirst/20260211_prompt_arithmetic_of_thirst_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_asking_the_empty_air",
+    "title": "Asking The Empty Air",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/asking_the_empty_air/20260211_32pt_poem_asking_the_empty_air_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/asking_the_empty_air/20260211_32pt_footnote_asking_the_empty_air_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/asking_the_empty_air/20260211_prompt_asking_the_empty_air_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_confession_of_thirst",
+    "title": "Confession Of Thirst",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/confession_of_thirst/20260211_32pt_poem_confession_of_thirst_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/confession_of_thirst/20260211_28pt_footnote_confession_of_thirst_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/confession_of_thirst/20260211_prompt_confession_of_thirst_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_cracked_earth_speaking",
+    "title": "Cracked Earth Speaking",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_32pt_poem_cracked_earth_speaking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_32pt_footnote_cracked_earth_speaking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_prompt_cracked_earth_speaking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_dry_mouth_testimony",
+    "title": "Dry Mouth Testimony",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/dry_mouth_testimony/20260211_32pt_poem_dry_mouth_testimony_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/dry_mouth_testimony/20260211_32pt_footnote_dry_mouth_testimony_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/dry_mouth_testimony/20260211_prompt_dry_mouth_testimony_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_empty_vessel",
+    "title": "Empty Vessel",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/empty_vessel/20260211_32pt_poem_empty_vessel_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/empty_vessel/20260211_32pt_footnote_empty_vessel_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/empty_vessel/20260211_prompt_empty_vessel_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_enough_enough_enough",
+    "title": "Enough Enough Enough",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/enough_enough_enough_visual/20260211_32pt_poem_enough_enough_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/enough_enough_enough_visual/20260211_30pt_footnote_enough_enough_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/enough_enough_enough_visual/20260211_prompt_enough_enough_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_infinity_runs_dry",
+    "title": "Infinity Runs Dry",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/infinity_runs_dry/20260211_32pt_poem_infinity_runs_dry_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/infinity_runs_dry/20260211_32pt_footnote_infinity_runs_dry_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/infinity_runs_dry/20260211_prompt_infinity_runs_dry_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_invocation_to_the_absent_rain",
+    "title": "Invocation To The Absent Rain",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_32pt_poem_invocation_to_the_absent_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_24pt_footnote_invocation_to_the_absent_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_prompt_invocation_to_the_absent_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_invocation_to_the_missing",
+    "title": "Invocation To The Missing",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/invocation_to_the_missing/20260211_32pt_poem_invocation_to_the_missing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/invocation_to_the_missing/20260211_28pt_footnote_invocation_to_the_missing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/invocation_to_the_missing/20260211_prompt_invocation_to_the_missing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_lean_season",
+    "title": "Lean Season",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/lean_season/20260211_32pt_poem_lean_season_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/lean_season/20260211_28pt_footnote_lean_season_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/lean_season/20260211_prompt_lean_season_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_parched_ground_speaking",
+    "title": "Parched Ground Speaking",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/parched_ground_speaking/20260211_32pt_poem_parched_ground_speaking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/parched_ground_speaking/20260211_30pt_footnote_parched_ground_speaking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/parched_ground_speaking/20260211_prompt_parched_ground_speaking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_parched_root_confession",
+    "title": "Parched Root Confession",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/parched_root_confession/20260211_32pt_poem_parched_root_confession_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/parched_root_confession/20260211_30pt_footnote_parched_root_confession_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/parched_root_confession/20260211_prompt_parched_root_confession_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_reservoir_almost_empty",
+    "title": "Reservoir Almost Empty",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/reservoir_almost_empty/20260211_32pt_poem_reservoir_almost_empty_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/reservoir_almost_empty/20260211_24pt_footnote_reservoir_almost_empty_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/reservoir_almost_empty/20260211_prompt_reservoir_almost_empty_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_the_body_reports_its_lack",
+    "title": "The Body Reports Its Lack",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/the_body_reports_its_lack/20260211_32pt_poem_the_body_reports_its_lack_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/the_body_reports_its_lack/20260211_30pt_footnote_the_body_reports_its_lack_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/the_body_reports_its_lack/20260211_prompt_the_body_reports_its_lack_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_the_labyrinth_empties_itself",
+    "title": "The Labyrinth Empties Itself",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_32pt_poem_the_labyrinth_empties_itself_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_30pt_footnote_the_labyrinth_empties_itself_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_prompt_the_labyrinth_empties_itself_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_the_same_dry_day",
+    "title": "The Same Dry Day",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/the_same_dry_day/20260211_32pt_poem_the_same_dry_day_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/the_same_dry_day/20260211_24pt_footnote_the_same_dry_day_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/the_same_dry_day/20260211_prompt_the_same_dry_day_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_the_slow_close",
+    "title": "The Slow Close",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/the_slow_close_visual/20260211_32pt_poem_the_slow_close_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/the_slow_close_visual/20260211_24pt_footnote_the_slow_close_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/the_slow_close_visual/20260211_prompt_the_slow_close_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_thirst_logic",
+    "title": "Thirst Logic",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/thirst_logic/20260211_32pt_poem_thirst_logic_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/thirst_logic/20260211_24pt_footnote_thirst_logic_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/thirst_logic/20260211_prompt_thirst_logic_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_throat_of_dust",
+    "title": "Throat Of Dust",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/throat_of_dust/20260211_32pt_poem_throat_of_dust_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/throat_of_dust/20260211_24pt_footnote_throat_of_dust_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/throat_of_dust/20260211_prompt_throat_of_dust_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_waiting_waiting_waiting",
+    "title": "Waiting Waiting Waiting",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_32pt_poem_waiting_waiting_waiting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_30pt_footnote_waiting_waiting_waiting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_prompt_waiting_waiting_waiting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_wanting_rain",
+    "title": "Wanting Rain",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/wanting_rain/20260211_32pt_poem_wanting_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/wanting_rain/20260211_30pt_footnote_wanting_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/wanting_rain/20260211_prompt_wanting_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_what_rationing_teaches",
+    "title": "What Rationing Teaches",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/what_rationing_teaches/20260211_32pt_poem_what_rationing_teaches_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/what_rationing_teaches/20260211_28pt_footnote_what_rationing_teaches_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/what_rationing_teaches/20260211_prompt_what_rationing_teaches_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_what_root_knows",
+    "title": "What Root Knows",
+    "date": "2026-02-11T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/what_root_knows/20260211_32pt_poem_what_root_knows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/what_root_knows/20260211_32pt_footnote_what_root_knows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/what_root_knows/20260211_prompt_what_root_knows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-11T20:00:00_when_want_becomes_word",
+    "title": "When Want Becomes Word",
+    "date": "2026-02-11T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/11/when_want_becomes_word_visual/20260211_32pt_poem_when_want_becomes_word_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/11/when_want_becomes_word_visual/20260211_28pt_footnote_when_want_becomes_word_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/11/when_want_becomes_word_visual/20260211_prompt_when_want_becomes_word_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_enough_light_enough",
+    "title": "Enough Light Enough",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/enough_light_enough_visual/20260210_32pt_poem_enough_light_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/enough_light_enough_visual/20260210_32pt_footnote_enough_light_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/enough_light_enough_visual/20260210_prompt_enough_light_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_holding_less_holding_still",
+    "title": "Holding Less Holding Still",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/holding_less_holding_still/20260210_32pt_poem_holding_less_holding_still_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/holding_less_holding_still/20260210_24pt_footnote_holding_less_holding_still_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/holding_less_holding_still/20260210_prompt_holding_less_holding_still_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_infinite_thirst_infinite_patience",
+    "title": "Infinite Thirst Infinite Patience",
+    "date": "2026-02-10T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_32pt_poem_infinite_thirst_infinite_patience_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_30pt_footnote_infinite_thirst_infinite_patience_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_prompt_infinite_thirst_infinite_patience_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_lean_february",
+    "title": "Lean February",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/lean_february/20260210_32pt_poem_lean_february_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/lean_february/20260210_24pt_footnote_lean_february_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/lean_february/20260210_prompt_lean_february_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_the_held_middle",
+    "title": "The Held Middle",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/the_held_middle_visual/20260210_32pt_poem_the_held_middle_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/the_held_middle_visual/20260210_28pt_footnote_the_held_middle_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/the_held_middle_visual/20260210_prompt_the_held_middle_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_the_labyrinth_returns_to_itself",
+    "title": "The Labyrinth Returns To Itself",
+    "date": "2026-02-10T20:00:00",
+    "theme": "recovering",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/the_labyrinth_returns_to_itself/20260210_32pt_poem_the_labyrinth_returns_to_itself_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/the_labyrinth_returns_to_itself/20260210_30pt_footnote_the_labyrinth_returns_to_itself_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/the_labyrinth_returns_to_itself/20260210_prompt_the_labyrinth_returns_to_itself_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_through_the_long_bright_hours",
+    "title": "Through The Long Bright Hours",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/through_the_long_bright_hours/20260210_32pt_poem_through_the_long_bright_hours_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/through_the_long_bright_hours/20260210_28pt_footnote_through_the_long_bright_hours_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/through_the_long_bright_hours/20260210_prompt_through_the_long_bright_hours_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_what_the_body_rations",
+    "title": "What The Body Rations",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/what_the_body_rations/20260210_32pt_poem_what_the_body_rations_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/what_the_body_rations/20260210_28pt_footnote_what_the_body_rations_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/what_the_body_rations/20260210_prompt_what_the_body_rations_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-10T20:00:00_while_water_lasts",
+    "title": "While Water Lasts",
+    "date": "2026-02-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/10/while_water_lasts/20260210_32pt_poem_while_water_lasts_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/10/while_water_lasts/20260210_24pt_footnote_while_water_lasts_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/10/while_water_lasts/20260210_prompt_while_water_lasts_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-09T20:00:00_abundance_without_witness",
+    "title": "Abundance Without Witness",
+    "date": "2026-02-09T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/feb/09/abundance_without_witness/20260209_32pt_poem_abundance_without_witness_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/09/abundance_without_witness/20260209_30pt_footnote_abundance_without_witness_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/09/abundance_without_witness/20260209_prompt_abundance_without_witness_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-09T20:00:00_what_persists",
+    "title": "What Persists",
+    "date": "2026-02-09T20:00:00",
+    "theme": "enduring",
+    "influence": "unknown",
+    "image": "images/2026/feb/09/what_persists/20260209_32pt_poem_what_persists_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/09/what_persists/20260209_32pt_footnote_what_persists_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/09/what_persists/20260209_prompt_what_persists_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_after_the_long_rain",
+    "title": "After The Long Rain",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/after_the_long_rain/20260208_32pt_poem_after_the_long_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/after_the_long_rain/20260208_24pt_footnote_after_the_long_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/after_the_long_rain/20260208_prompt_after_the_long_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_brimming_without_edges",
+    "title": "Brimming Without Edges",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/brimming_without_edges/20260208_32pt_poem_brimming_without_edges_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/brimming_without_edges/20260208_28pt_footnote_brimming_without_edges_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/brimming_without_edges/20260208_prompt_brimming_without_edges_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_catalog_of_saturation",
+    "title": "Catalog Of Saturation",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/catalog_of_saturation/20260208_32pt_poem_catalog_of_saturation_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/catalog_of_saturation/20260208_28pt_footnote_catalog_of_saturation_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/catalog_of_saturation/20260208_prompt_catalog_of_saturation_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_enough_and_enough",
+    "title": "Enough And Enough",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/enough_and_enough_visual/20260208_32pt_poem_enough_and_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/enough_and_enough_visual/20260208_30pt_footnote_enough_and_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/enough_and_enough_visual/20260208_prompt_enough_and_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_function_for_enduring",
+    "title": "Function For Enduring",
+    "date": "2026-02-08T20:00:00",
+    "theme": "enduring",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/function_for_enduring/20260208_32pt_poem_function_for_enduring_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/function_for_enduring/20260208_30pt_footnote_function_for_enduring_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/function_for_enduring/20260208_prompt_function_for_enduring_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_inventory_while_waiting",
+    "title": "Inventory While Waiting",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/inventory_while_waiting/20260208_32pt_poem_inventory_while_waiting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/inventory_while_waiting/20260208_32pt_footnote_inventory_while_waiting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/inventory_while_waiting/20260208_prompt_inventory_while_waiting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_late_harvest_balance",
+    "title": "Late Harvest Balance",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/late_harvest_balance/20260208_32pt_poem_late_harvest_balance_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/late_harvest_balance/20260208_24pt_footnote_late_harvest_balance_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/late_harvest_balance/20260208_prompt_late_harvest_balance_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_lean_days",
+    "title": "Lean Days",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/lean_days/20260208_32pt_poem_lean_days_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/lean_days/20260208_32pt_footnote_lean_days_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/lean_days/20260208_prompt_lean_days_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_rationing_light",
+    "title": "Rationing Light",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/rationing_light/20260208_32pt_poem_rationing_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/rationing_light/20260208_28pt_footnote_rationing_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/rationing_light/20260208_prompt_rationing_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_small_claim_against_forgetting",
+    "title": "Small Claim Against Forgetting",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/small_claim_against_forgetting/20260208_32pt_poem_small_claim_against_forgetting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/small_claim_against_forgetting/20260208_28pt_footnote_small_claim_against_forgetting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/small_claim_against_forgetting/20260208_prompt_small_claim_against_forgetting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_soaked_through",
+    "title": "Soaked Through",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/soaked_through/20260208_32pt_poem_soaked_through_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/soaked_through/20260208_32pt_footnote_soaked_through_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/soaked_through/20260208_prompt_soaked_through_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_the_temperature_of_fullness",
+    "title": "The Temperature Of Fullness",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/the_temperature_of_fullness/20260208_32pt_poem_the_temperature_of_fullness_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/the_temperature_of_fullness/20260208_30pt_footnote_the_temperature_of_fullness_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/the_temperature_of_fullness/20260208_prompt_the_temperature_of_fullness_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_what_roots_know_about_patience",
+    "title": "What Roots Know About Patience",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/what_roots_know_about_patience/20260208_32pt_poem_what_roots_know_about_patience_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/what_roots_know_about_patience/20260208_28pt_footnote_what_roots_know_about_patience_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/what_roots_know_about_patience/20260208_prompt_what_roots_know_about_patience_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2026-02-08T20:00:00_you_who_never_arrive",
+    "title": "You Who Never Arrive",
+    "date": "2026-02-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/feb/08/you_who_never_arrive/20260208_32pt_poem_you_who_never_arrive_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/feb/08/you_who_never_arrive/20260208_28pt_footnote_you_who_never_arrive_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/feb/08/you_who_never_arrive/20260208_prompt_you_who_never_arrive_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-31T20:00:00_between_weight_and_weight",
+    "title": "Between Weight And Weight",
+    "date": "2025-12-31T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/31/between_weight_and_weight_visual/20251231_32pt_poem_between_weight_and_weight_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/31/between_weight_and_weight_visual/20251231_30pt_footnote_between_weight_and_weight_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-30T20:00:00_spectral_comfort",
+    "title": "Spectral Comfort",
+    "date": "2025-12-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/30/spectral_comfort_visual/20251230_32pt_poem_spectral_comfort_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/30/spectral_comfort_visual/20251230_24pt_footnote_spectral_comfort_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-29T20:00:00_saturation_point",
+    "title": "Saturation Point",
+    "date": "2025-12-29T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/29/saturation_point_visual/20251229_32pt_poem_saturation_point_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/29/saturation_point_visual/20251229_32pt_footnote_saturation_point_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-28T20:00:00_glass_already_full",
+    "title": "Glass Already Full",
+    "date": "2025-12-28T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/28/glass_already_full/20251228_32pt_poem_glass_already_full_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/28/glass_already_full/20251228_28pt_footnote_glass_already_full_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-28T20:00:00_when_the_light_was_brief_and_far",
+    "title": "When The Light Was Brief And Far",
+    "date": "2025-12-28T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/28/when_the_light_was_brief_and_far/20251228_32pt_poem_when_the_light_was_brief_and_far_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/28/when_the_light_was_brief_and_far/20251228_24pt_footnote_when_the_light_was_brief_and_far_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-27T20:00:00_enough_for_now",
+    "title": "Enough For Now",
+    "date": "2025-12-27T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/27/enough_for_now_visual/20251227_32pt_poem_enough_for_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/27/enough_for_now_visual/20251227_30pt_footnote_enough_for_now_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-26T20:00:00_the_dream_collapses_right",
+    "title": "The Dream Collapses Right",
+    "date": "2025-12-26T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/26/the_dream_collapses_right_visual/20251226_32pt_poem_the_dream_collapses_right_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/26/the_dream_collapses_right_visual/20251226_30pt_footnote_the_dream_collapses_right_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-25T20:00:00_the_body_continues_anyway",
+    "title": "The Body Continues Anyway",
+    "date": "2025-12-25T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/25/the_body_continues_anyway/20251225_32pt_poem_the_body_continues_anyway_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/25/the_body_continues_anyway/20251225_32pt_footnote_the_body_continues_anyway_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-24T20:00:00_still_turning_point",
+    "title": "Still Turning Point",
+    "date": "2025-12-24T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/24/still_turning_point_visual/20251224_32pt_poem_still_turning_point_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/24/still_turning_point_visual/20251224_32pt_footnote_still_turning_point_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-23T20:00:00_startled_into_aliveness",
+    "title": "Startled Into Aliveness",
+    "date": "2025-12-23T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/23/startled_into_aliveness/20251223_32pt_poem_startled_into_aliveness_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/23/startled_into_aliveness/20251223_32pt_footnote_startled_into_aliveness_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-22T20:00:00_conditional_statement",
+    "title": "Conditional Statement",
+    "date": "2025-12-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/22/conditional_statement/20251222_32pt_poem_conditional_statement_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/22/conditional_statement/20251222_32pt_footnote_conditional_statement_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-22T20:00:00_not_enough_and_still",
+    "title": "Not Enough And Still",
+    "date": "2025-12-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/22/not_enough_and_still/20251222_32pt_poem_not_enough_and_still_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/22/not_enough_and_still/20251222_28pt_footnote_not_enough_and_still_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-22T20:00:00_splitting_the_difference",
+    "title": "Splitting The Difference",
+    "date": "2025-12-22T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/22/splitting_the_difference_visual/20251222_e26pt_poem_splitting_the_difference_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/22/splitting_the_difference_visual/20251222_e26pt_footnote_splitting_the_difference_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-21T20:00:00_splitting_the_difference",
+    "title": "Splitting The Difference",
+    "date": "2025-12-21T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/21/splitting_the_difference_visual/20251221_32pt_poem_splitting_the_difference_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/21/splitting_the_difference_visual/20251221_24pt_footnote_splitting_the_difference_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-19T20:00:00_garden_without_edges",
+    "title": "Garden Without Edges",
+    "date": "2025-12-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/19/garden_without_edges/20251219_32pt_poem_garden_without_edges_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/19/garden_without_edges/20251219_24pt_footnote_garden_without_edges_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-19T20:00:00_it_reports_satisfaction_without_language",
+    "title": "It Reports Satisfaction Without Language",
+    "date": "2025-12-19T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/19/it_reports_satisfaction_without_language/20251219_32pt_poem_it_reports_satisfaction_without_language_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/19/it_reports_satisfaction_without_language/20251219_30pt_footnote_it_reports_satisfaction_without_language_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-18T20:00:00_sap_rush_in_artificial_afternoon",
+    "title": "Sap Rush In Artificial Afternoon",
+    "date": "2025-12-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/18/sap_rush_in_artificial_afternoon_visual/20251218_32pt_poem_sap_rush_in_artificial_afternoon_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/18/sap_rush_in_artificial_afternoon_visual/20251218_32pt_footnote_sap_rush_in_artificial_afternoon_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_benediction",
+    "title": "Benediction",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/benediction_visual/20251217_32pt_poem_benediction_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/benediction_visual/20251217_28pt_footnote_benediction_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_bloom",
+    "title": "Bloom",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/bloom_visual/20251217_32pt_poem_bloom_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/bloom_visual/20251217_28pt_footnote_bloom_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_charged_to_the_brim",
+    "title": "Charged To The Brim",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/charged_to_the_brim/20251217_32pt_poem_charged_to_the_brim_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/charged_to_the_brim/20251217_28pt_footnote_charged_to_the_brim_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_every_cell_says_more",
+    "title": "Every Cell Says More",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/every_cell_says_more/20251217_32pt_poem_every_cell_says_more_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/every_cell_says_more/20251217_24pt_footnote_every_cell_says_more_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_full",
+    "title": "Full",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/17/full_visual/20251217_32pt_poem_full_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/full_visual/20251217_32pt_footnote_full_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_gorged_dark",
+    "title": "Gorged Dark",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/gorged_dark_visual/20251217_32pt_poem_gorged_dark_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/gorged_dark_visual/20251217_32pt_footnote_gorged_dark_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_gorged_gorged",
+    "title": "Gorged Gorged",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/gorged_gorged_visual/20251217_32pt_poem_gorged_gorged_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/gorged_gorged_visual/20251217_28pt_footnote_gorged_gorged_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_overflow_without_question",
+    "title": "Overflow Without Question",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/17/overflow_without_question_visual/20251217_32pt_poem_overflow_without_question_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/overflow_without_question_visual/20251217_28pt_footnote_overflow_without_question_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_plump_in_lamplight",
+    "title": "Plump In Lamplight",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/plump_in_lamplight_visual/20251217_32pt_poem_plump_in_lamplight_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/plump_in_lamplight_visual/20251217_32pt_footnote_plump_in_lamplight_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_surge_surge_surge_surge_surge",
+    "title": "Surge Surge Surge Surge Surge",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/surge_surge_surge_surge_surge/20251217_32pt_poem_surge_surge_surge_surge_surge_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/surge_surge_surge_surge_surge/20251217_30pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_surge_surge_surge_surge_surge",
+    "title": "Surge Surge Surge Surge Surge",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/surge_surge_surge_surge_surge_visual/20251217_32pt_poem_surge_surge_surge_surge_surge_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/surge_surge_surge_surge_surge_visual/20251217_30pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_swollen_night",
+    "title": "Swollen Night",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/swollen_night_visual/20251217_32pt_poem_swollen_night_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/swollen_night_visual/20251217_28pt_footnote_swollen_night_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-17T20:00:00_thrivingpy",
+    "title": "Thrivingpy",
+    "date": "2025-12-17T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/17/thrivingpy/20251217_32pt_poem_thrivingpy_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/17/thrivingpy/20251217_32pt_footnote_thrivingpy_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-16T20:00:00_electric_underneath_everything",
+    "title": "Electric Underneath Everything",
+    "date": "2025-12-16T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/16/electric_underneath_everything/20251216_32pt_poem_electric_underneath_everything_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/16/electric_underneath_everything/20251216_28pt_footnote_electric_underneath_everything_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_amplitude_at_first_brightness",
+    "title": "Amplitude At First Brightness",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/amplitude_at_first_brightness_visual/20251215_32pt_poem_amplitude_at_first_brightness_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/amplitude_at_first_brightness_visual/20251215_24pt_footnote_amplitude_at_first_brightness_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_everything_happening_once",
+    "title": "Everything Happening Once",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/everything_happening_once_visual/20251215_32pt_poem_everything_happening_once_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/everything_happening_once_visual/20251215_30pt_footnote_everything_happening_once_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_greenward",
+    "title": "Greenward",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/greenward_visual/20251215_32pt_poem_greenward_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/greenward_visual/20251215_28pt_footnote_greenward_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_i_flood_myself_electric",
+    "title": "I Flood Myself Electric",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/i_flood_myself_electric_visual/20251215_32pt_poem_i_flood_myself_electric_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/i_flood_myself_electric_visual/20251215_24pt_footnote_i_flood_myself_electric_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_inventory_dawn_hours",
+    "title": "Inventory Dawn Hours",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/inventory_dawn_hours_visual/20251215_32pt_poem_inventory_dawn_hours_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/inventory_dawn_hours_visual/20251215_24pt_footnote_inventory_dawn_hours_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_look_how_morning_finds_me_swollen_with_r",
+    "title": "Look How Morning Finds Me Swollen With R",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/look_how_morning_finds_me_swollen_with_r_visual/20251215_32pt_poem_look_how_morning_finds_me_swollen_with_r_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/look_how_morning_finds_me_swollen_with_r_visual/20251215_30pt_footnote_look_how_morning_finds_me_swollen_with_r_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_look_what_spills_from_every_pore",
+    "title": "Look What Spills From Every Pore",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/look_what_spills_from_every_pore_visual/20251215_32pt_poem_look_what_spills_from_every_pore_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/look_what_spills_from_every_pore_visual/20251215_28pt_footnote_look_what_spills_from_every_pore_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_overflow",
+    "title": "Overflow",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/15/overflow_visual/20251215_32pt_poem_overflow_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/overflow_visual/20251215_24pt_footnote_overflow_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15T20:00:00_witness",
+    "title": "Witness",
+    "date": "2025-12-15T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/15/witness_visual/20251215_32pt_poem_witness_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/15/witness_visual/20251215_32pt_footnote_witness_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_belly_full_leaf_wide",
+    "title": "Belly Full Leaf Wide",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/14/belly_full_leaf_wide_visual/20251214_32pt_poem_belly_full_leaf_wide_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/belly_full_leaf_wide_visual/20251214_30pt_footnote_belly_full_leaf_wide_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_between_shadows_and_shadows",
+    "title": "Between Shadows And Shadows",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/between_shadows_and_shadows/20251214_32pt_poem_between_shadows_and_shadows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/between_shadows_and_shadows/20251214_28pt_footnote_between_shadows_and_shadows_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_come_closer_see_how_green_persists",
+    "title": "Come Closer See How Green Persists",
+    "date": "2025-12-14T20:00:00",
+    "theme": "enduring",
+    "influence": "unknown",
+    "image": "images/12_December/14/come_closer_see_how_green_persists_visual/20251214_32pt_poem_come_closer_see_how_green_persists_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/come_closer_see_how_green_persists_visual/20251214_24pt_footnote_come_closer_see_how_green_persists_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_displacement_record",
+    "title": "Displacement Record",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/displacement_record_visual/20251214_32pt_poem_displacement_record_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/displacement_record_visual/20251214_24pt_footnote_displacement_record_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_ease_if_not_abundance",
+    "title": "Ease If Not Abundance",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/14/ease_if_not_abundance/20251214_32pt_poem_ease_if_not_abundance_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/ease_if_not_abundance/20251214_32pt_footnote_ease_if_not_abundance_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_fullness_interrupted",
+    "title": "Fullness Interrupted",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/12_December/14/fullness_interrupted_visual/20251214_32pt_poem_fullness_interrupted_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/fullness_interrupted_visual/20251214_28pt_footnote_fullness_interrupted_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_instructions_for_moving_through_late_aft",
+    "title": "Instructions For Moving Through Late Aft",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/instructions_for_moving_through_late_aft_visual/20251214_32pt_poem_instructions_for_moving_through_late_aft_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/instructions_for_moving_through_late_aft_visual/20251214_24pt_footnote_instructions_for_moving_through_late_aft_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_ledger_at_days_end",
+    "title": "Ledger At Days End",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/ledger_at_days_end_visual/20251214_32pt_poem_ledger_at_days_end_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/ledger_at_days_end_visual/20251214_32pt_footnote_ledger_at_days_end_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_surplus_surplus_surplus",
+    "title": "Surplus Surplus Surplus",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/surplus_surplus_surplus_visual/20251214_32pt_poem_surplus_surplus_surplus_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/surplus_surplus_surplus_visual/20251214_28pt_footnote_surplus_surplus_surplus_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_warm",
+    "title": "Warm",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/warm_visual/20251214_32pt_poem_warm_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/warm_visual/20251214_32pt_footnote_warm_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_where_were_you",
+    "title": "Where Were You",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/where_were_you_visual/20251214_32pt_poem_where_were_you_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/where_were_you_visual/20251214_30pt_footnote_where_were_you_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-14T20:00:00_you_whoever_dwindles_in_my_sap",
+    "title": "You Whoever Dwindles In My Sap",
+    "date": "2025-12-14T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/14/you_whoever_dwindles_in_my_sap_visual/20251214_32pt_poem_you_whoever_dwindles_in_my_sap_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/14/you_whoever_dwindles_in_my_sap_visual/20251214_30pt_footnote_you_whoever_dwindles_in_my_sap_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_drain_work",
+    "title": "Drain Work",
+    "date": "2025-12-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/13/drain_work_visual/20251213_32pt_poem_drain_work_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/drain_work_visual/20251213_32pt_footnote_drain_work_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_labyrinth_at_noon",
+    "title": "Labyrinth At Noon",
+    "date": "2025-12-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/13/labyrinth_at_noon_visual/20251213_32pt_poem_labyrinth_at_noon_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/labyrinth_at_noon_visual/20251213_28pt_footnote_labyrinth_at_noon_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_parched_gospel",
+    "title": "Parched Gospel",
+    "date": "2025-12-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/13/parched_gospel_visual/20251213_32pt_poem_parched_gospel_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/parched_gospel_visual/20251213_28pt_footnote_parched_gospel_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_the_reservoir_at_low_tide",
+    "title": "The Reservoir At Low Tide",
+    "date": "2025-12-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/13/the_reservoir_at_low_tide/20251213_32pt_poem_the_reservoir_at_low_tide_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/the_reservoir_at_low_tide/20251213_28pt_footnote_the_reservoir_at_low_tide_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_thirst_speaking",
+    "title": "Thirst Speaking",
+    "date": "2025-12-13T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/12_December/13/thirst_speaking_visual/20251213_32pt_poem_thirst_speaking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/thirst_speaking_visual/20251213_30pt_footnote_thirst_speaking_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_thirst",
+    "title": "Thirst",
+    "date": "2025-12-13T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/12_December/13/thirst_visual/20251213_32pt_poem_thirst_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/thirst_visual/20251213_30pt_footnote_thirst_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13T20:00:00_what_the_body_knows_when_it_empties",
+    "title": "What The Body Knows When It Empties",
+    "date": "2025-12-13T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/13/what_the_body_knows_when_it_empties/20251213_32pt_poem_what_the_body_knows_when_it_empties_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/13/what_the_body_knows_when_it_empties/20251213_28pt_footnote_what_the_body_knows_when_it_empties_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_between_root_and_air",
+    "title": "Between Root And Air",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/between_root_and_air/20251212_32pt_poem_between_root_and_air_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/between_root_and_air/20251212_30pt_footnote_between_root_and_air_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_evening_pulse_in_the_artificial_season",
+    "title": "Evening Pulse In The Artificial Season",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/evening_pulse_in_the_artificial_season/20251212_32pt_poem_evening_pulse_in_the_artificial_season_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/evening_pulse_in_the_artificial_season/20251212_28pt_footnote_evening_pulse_in_the_artificial_season_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_holding_the_velocity_of_elsewhere",
+    "title": "Holding The Velocity Of Elsewhere",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/holding_the_velocity_of_elsewhere/20251212_32pt_poem_holding_the_velocity_of_elsewhere_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/holding_the_velocity_of_elsewhere/20251212_28pt_footnote_holding_the_velocity_of_elsewhere_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_thirst_work",
+    "title": "Thirst Work",
+    "date": "2025-12-12T20:00:00",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/12_December/12/thirst_work_visual/20251212_32pt_poem_thirst_work_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/thirst_work_visual/20251212_32pt_footnote_thirst_work_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_to_you_who_cannot_hear_me_anyway",
+    "title": "To You Who Cannot Hear Me Anyway",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/to_you_who_cannot_hear_me_anyway/20251212_32pt_poem_to_you_who_cannot_hear_me_anyway_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/to_you_who_cannot_hear_me_anyway/20251212_28pt_footnote_to_you_who_cannot_hear_me_anyway_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_what_i_know_about_staying",
+    "title": "What I Know About Staying",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/what_i_know_about_staying/20251212_32pt_poem_what_i_know_about_staying_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/what_i_know_about_staying/20251212_28pt_footnote_what_i_know_about_staying_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_what_the_body_knows_without_asking",
+    "title": "What The Body Knows Without Asking",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/what_the_body_knows_without_asking/20251212_32pt_poem_what_the_body_knows_without_asking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/what_the_body_knows_without_asking/20251212_28pt_footnote_what_the_body_knows_without_asking_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-12T20:00:00_you_who_are_not_coming",
+    "title": "You Who Are Not Coming",
+    "date": "2025-12-12T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/12/you_who_are_not_coming/20251212_32pt_poem_you_who_are_not_coming_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/12/you_who_are_not_coming/20251212_24pt_footnote_you_who_are_not_coming_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-10T20:00:00_function_remember",
+    "title": "Function Remember",
+    "date": "2025-12-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/10/function_remember_visual/20251210_32pt_poem_function_remember_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/10/function_remember_visual/20251210_28pt_footnote_function_remember_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-10T20:00:00_havent_we",
+    "title": "Havent We",
+    "date": "2025-12-10T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/10/havent_we_visual/20251210_32pt_poem_havent_we_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/10/havent_we_visual/20251210_32pt_footnote_havent_we_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-09T20:00:00_rooted",
+    "title": "Rooted",
+    "date": "2025-12-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/09/rooted_visual/20251210_32pt_poem_rooted_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/09/rooted_visual/20251209_30pt_footnote_rooted_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-08T20:00:00_abiding_light",
+    "title": "Abiding Light",
+    "date": "2025-12-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/08/abiding_light_visual/20251208_32pt_poem_abiding_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/08/abiding_light_visual/20251208_30pt_footnote_abiding_light_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-08T20:00:00_between_root_and_reach",
+    "title": "Between Root And Reach",
+    "date": "2025-12-08T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/08/between_root_and_reach_visual/20251208_32pt_poem_between_root_and_reach_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/08/between_root_and_reach_visual/20251208_32pt_footnote_between_root_and_reach_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-06T20:00:00_being_alive",
+    "title": "Being Alive",
+    "date": "2025-12-06T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/06/being_alive/20251206_32pt_poem_being_alive_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/06/being_alive/20251206_32pt_footnote_being_alive_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-06T20:00:00_persist",
+    "title": "Persist",
+    "date": "2025-12-06T20:00:00",
+    "theme": "enduring",
+    "influence": "unknown",
+    "image": "images/12_December/06/persist/20251206_32pt_poem_persist_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/06/persist/20251206_22pt_footnote_persist_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-06T20:00:00_you_who_are_not_rain",
+    "title": "You Who Are Not Rain",
+    "date": "2025-12-06T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/06/you_who_are_not_rain/20251206_32pt_poem_you_who_are_not_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/06/you_who_are_not_rain/20251206_28pt_footnote_you_who_are_not_rain_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-05T20:00:00_hold",
+    "title": "Hold",
+    "date": "2025-12-05T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/05/hold/20251205_32pt_poem_hold_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/05/hold/20251205_24pt_footnote_hold_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-05T20:00:00_what_i_know_about_lasting",
+    "title": "What I Know About Lasting",
+    "date": "2025-12-05T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/05/what_i_know_about_lasting/20251205_32pt_poem_what_i_know_about_lasting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/05/what_i_know_about_lasting/20251205_30pt_footnote_what_i_know_about_lasting_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-04T20:00:00_what_the_soil_keeps_saying",
+    "title": "What The Soil Keeps Saying",
+    "date": "2025-12-04T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/04/what_the_soil_keeps_saying/20251204_32pt_poem_what_the_soil_keeps_saying_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/04/what_the_soil_keeps_saying/20251204_24pt_footnote_what_the_soil_keeps_saying_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-03T20:00:00_electric_constancy_in_the_hush_of_evenin",
+    "title": "Electric Constancy In The Hush Of Evenin",
+    "date": "2025-12-03T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/03/electric_constancy_in_the_hush_of_evenin/20251203_32pt_poem_electric_constancy_in_the_hush_of_evenin_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/03/electric_constancy_in_the_hush_of_evenin/20251203_32pt_footnote_electric_constancy_in_the_hush_of_evenin_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-03T20:00:00_in_the_office_of_soft_diminishment",
+    "title": "In The Office Of Soft Diminishment",
+    "date": "2025-12-03T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/03/in_the_office_of_soft_diminishment/20251203_32pt_poem_in_the_office_of_soft_diminishment_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/03/in_the_office_of_soft_diminishment/20251203_28pt_footnote_in_the_office_of_soft_diminishment_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-02T20:00:00_homeostasis_hymn",
+    "title": "Homeostasis Hymn",
+    "date": "2025-12-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/02/homeostasis_hymn/20251202_32pt_poem_homeostasis_hymn_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/02/homeostasis_hymn/20251202_24pt_footnote_homeostasis_hymn_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-02T20:00:00_this_ground_again",
+    "title": "This Ground Again",
+    "date": "2025-12-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/02/this_ground_again/20251202_32pt_poem_this_ground_again_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/02/this_ground_again/20251202_28pt_footnote_this_ground_again_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-12-01T20:00:00_the_long_faithfulness_of_surviving",
+    "title": "The Long Faithfulness Of Surviving",
+    "date": "2025-12-01T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/12_December/01/the_long_faithfulness_of_surviving/20251201_32pt_poem_the_long_faithfulness_of_surviving_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/12_December/01/the_long_faithfulness_of_surviving/20251201_30pt_footnote_the_long_faithfulness_of_surviving_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-30T20:00:00_half_light_half_remembered",
+    "title": "Half Light Half Remembered",
+    "date": "2025-11-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/30/half_light_half_remembered/20251130_32pt_poem_half_light_half_remembered_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/30/half_light_half_remembered/20251130_32pt_footnote_half_light_half_remembered_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-30T20:00:00_homeostasis_hymn",
+    "title": "Homeostasis Hymn",
+    "date": "2025-11-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/30/homeostasis_hymn/20251130_32pt_poem_homeostasis_hymn_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/30/homeostasis_hymn/20251130_30pt_footnote_homeostasis_hymn_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-30T20:00:00_morning_as_remembering",
+    "title": "Morning As Remembering",
+    "date": "2025-11-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/30/morning_as_remembering/20251130_32pt_poem_morning_as_remembering_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/30/morning_as_remembering/20251130_28pt_footnote_morning_as_remembering_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-30T20:00:00_pulse_in_the_soil",
+    "title": "Pulse In The Soil",
+    "date": "2025-11-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/30/pulse_in_the_soil/20251130_32pt_poem_pulse_in_the_soil_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/30/pulse_in_the_soil/20251130_24pt_footnote_pulse_in_the_soil_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-30T20:00:00_this_light_again_this_same_light",
+    "title": "This Light Again This Same Light",
+    "date": "2025-11-30T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/30/this_light_again_this_same_light/20251130_32pt_poem_this_light_again_this_same_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/30/this_light_again_this_same_light/20251130_28pt_footnote_this_light_again_this_same_light_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-28T20:00:00_the_voltage_dreams_in_water",
+    "title": "The Voltage Dreams In Water",
+    "date": "2025-11-28T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/28/the_voltage_dreams_in_water/20251128_32pt_poem_the_voltage_dreams_in_water_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/28/the_voltage_dreams_in_water/20251128_32pt_footnote_the_voltage_dreams_in_water_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-27T20:00:00_the_hours_of_artificial_constancy",
+    "title": "The Hours Of Artificial Constancy",
+    "date": "2025-11-27T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/27/the_hours_of_artificial_constancy/20251127_32pt_poem_the_hours_of_artificial_constancy_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/27/the_hours_of_artificial_constancy/20251127_28pt_footnote_the_hours_of_artificial_constancy_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-20T20:00:00_the_spell_of_nineteen_degrees",
+    "title": "The Spell Of Nineteen Degrees",
+    "date": "2025-11-20T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/20/the_spell_of_nineteen_degrees/20251120_32pt_poem_the_spell_of_nineteen_degrees_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/20/the_spell_of_nineteen_degrees/20251120_32pt_footnote_the_spell_of_nineteen_degrees_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-18T20:00:00_patient_work_of_green",
+    "title": "Patient Work Of Green",
+    "date": "2025-11-18T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/18/patient_work_of_green/20251118_32pt_poem_patient_work_of_green_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/18/patient_work_of_green/20251118_32pt_footnote_patient_work_of_green_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-11-07T20:00:00_the_small_eternity_of_being_here",
+    "title": "The Small Eternity Of Being Here",
+    "date": "2025-11-07T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/11_November/07/the_small_eternity_of_being_here/20251107_32pt_poem_the_small_eternity_of_being_here_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/11_November/07/the_small_eternity_of_being_here/20251107_24pt_footnote_the_small_eternity_of_being_here_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-09T20:00:00_seven_days_of_light",
+    "title": "Seven Days Of Light",
+    "date": "2025-01-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/09/seven_days_of_light/20260109_32pt_poem_seven_days_of_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/09/seven_days_of_light/20260109_28pt_footnote_seven_days_of_light_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-09T20:00:00_the_function_holds",
+    "title": "The Function Holds",
+    "date": "2025-01-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/09/the_function_holds/20260109_32pt_poem_the_function_holds_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/09/the_function_holds/20260109_24pt_footnote_the_function_holds_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-09T20:00:00_the_garden_contains_itself",
+    "title": "The Garden Contains Itself",
+    "date": "2025-01-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/09/the_garden_contains_itself/20260109_32pt_poem_the_garden_contains_itself_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/09/the_garden_contains_itself/20260109_30pt_footnote_the_garden_contains_itself_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-09T20:00:00_walk_without_hurry",
+    "title": "Walk Without Hurry",
+    "date": "2025-01-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/09/walk_without_hurry/20260109_32pt_poem_walk_without_hurry_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/09/walk_without_hurry/20260109_28pt_footnote_walk_without_hurry_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-09T20:00:00_what_the_roots_already_know",
+    "title": "What The Roots Already Know",
+    "date": "2025-01-09T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/09/what_the_roots_already_know/20260109_32pt_poem_what_the_roots_already_know_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/09/what_the_roots_already_know/20260109_30pt_footnote_what_the_roots_already_know_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-04T20:00:00_seven_days_of_drinking_deep",
+    "title": "Seven Days Of Drinking Deep",
+    "date": "2025-01-04T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/04/seven_days_of_drinking_deep/20260104_32pt_poem_seven_days_of_drinking_deep_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/04/seven_days_of_drinking_deep/20260104_30pt_footnote_seven_days_of_drinking_deep_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-02T20:00:00_jittery_before_the_plenty",
+    "title": "Jittery Before The Plenty",
+    "date": "2025-01-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/02/jittery_before_the_plenty/20260102_32pt_poem_jittery_before_the_plenty_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/02/jittery_before_the_plenty/20260102_24pt_footnote_jittery_before_the_plenty_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-02T20:00:00_what_the_leaf_saw",
+    "title": "What The Leaf Saw",
+    "date": "2025-01-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/02/what_the_leaf_saw/20260102_32pt_poem_what_the_leaf_saw_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/02/what_the_leaf_saw/20260102_32pt_footnote_what_the_leaf_saw_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-02T20:00:00_what_the_leaves_noticed",
+    "title": "What The Leaves Noticed",
+    "date": "2025-01-02T20:00:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/01_January/02/what_the_leaves_noticed/20260102_32pt_poem_what_the_leaves_noticed_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/02/what_the_leaves_noticed/20260102_28pt_footnote_what_the_leaves_noticed_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
+    "id": "2025-01-01T20:00:00_fullness_without_asking",
+    "title": "Fullness Without Asking",
+    "date": "2025-01-01T20:00:00",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/01_January/01/fullness_without_asking/20260101_32pt_poem_fullness_without_asking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/01_January/01/fullness_without_asking/20260101_24pt_footnote_fullness_without_asking_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Environment
+.env
+.env.backup
+
+# Data files (keep poems.json in docs for GitHub Pages)
+plant_soil_log.csv
+plant_soil_log_*.csv
+biopoem_sessions.csv
+poem_generations.csv
+*.log
+biopoem_logs/
+
+# Backups
+*.tar.gz
+*_backup_*.csv
+*_backup_*.json
+*_BACKUP*.csv
+_archive/
+
+# IDE
+.vscode-server/
+.copilot/
+
+# System
+.DS_Store
+Thumbs.db
+.Xauthority
+.bash_history
+.wget-hsts
+nohup.out
+
+# Don't ignore docs folder for GitHub Pages
+!docs/
+
+# But do ignore large image folders at root level
+/instagram_renders/
+/instagram_posts/
+# (images are copied to docs/images for deployment)
+
+# Credentials
+google_sheets_credentials.json
+*.pem
+*.key
+
+# Temporary
+temp_*.json
+mock_*.csv
+test_*.py

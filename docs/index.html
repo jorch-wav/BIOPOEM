@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BioPoem Dev Page</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-text">
+                <h1>BioPoem Dev Page</h1>
+                <p class="subtitle">A living houseplant (<em>Peperomia magnoliifolia</em>) generates daily poetry from sensor readings. Each poem translates soil moisture, temperature, light, humidity, and atmospheric pressure into metaphorical language through a custom poetry engine—250+ hand-crafted metaphors that help us feel what the houseplant experiences.</p>
+            </div>
+            <img src="plant.jpg" alt="Houseplant" class="header-image" onerror="this.style.display='none'">
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="filters">
+            <button class="filter-btn active" data-filter="all">All Poems</button>
+            <button class="filter-btn" data-filter="rated">Rated</button>
+            <button class="filter-btn" data-filter="thirsting">Dry</button>
+            <button class="filter-btn" data-filter="enduring">Low</button>
+            <button class="filter-btn" data-filter="sustained">Comfortable</button>
+            <button class="filter-btn" data-filter="sated">Wet</button>
+            <button class="filter-btn" data-filter="recovering">Bouncing Back</button>
+        </section>
+
+        <section class="stats">
+            <div class="stat-item">
+                <span class="stat-number" id="total-poems">0</span>
+                <span class="stat-label">Poems Generated</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="days-running">0</span>
+                <span class="stat-label">Days Running</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-number" id="total-interactions">0</span>
+                <span class="stat-label">Community Ratings</span>
+            </div>
+        </section>
+
+        <div id="gallery" class="poem-grid">
+            <!-- Poems will be loaded here dynamically -->
+        </div>
+
+        <div id="loading" class="loading">Loading poems...</div>
+        <div id="no-results" class="no-results" style="display: none;">No poems found for this filter.</div>
+    </main>
+
+    <!-- Modal for poem details -->
+    <div id="poemModal" class="modal">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 id="modal-title"></h2>
+                <div class="modal-meta">
+                    <span id="modal-date"></span>
+                    <span id="modal-theme"></span>
+                </div>
+            </div>
+            
+            <div class="image-viewer">
+                <img id="modal-image" class="viewer-image" src="" alt="">
+                <button class="image-nav prev" onclick="previousImage()">‹</button>
+                <button class="image-nav next" onclick="nextImage()">›</button>
+                <div class="image-label" id="modal-image-label"></div>
+                <div class="image-counter" id="modal-counter"></div>
+            </div>
+            
+            <!-- Comments section -->
+            <div class="modal-comments" id="modal-comments" style="display: none;">
+                <h3>Community Feedback</h3>
+                <div id="modal-comments-list"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>BioPoem © 2024-2026 Jorge Arreola</p>
+            <p>An exercise in poetry and creative coding</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

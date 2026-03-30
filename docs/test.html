@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Poems JSON</title>
+</head>
+<body>
+    <h1>Testing Gallery Data Load</h1>
+    <div id="status">Loading...</div>
+    <div id="results"></div>
+    
+    <script>
+        async function test() {
+            const statusDiv = document.getElementById('status');
+            const resultsDiv = document.getElementById('results');
+            
+            try {
+                const response = await fetch('poems.json');
+                const poems = await response.json();
+                
+                statusDiv.innerHTML = `<strong>✓ Success!</strong> Loaded ${poems.length} poems`;
+                
+                resultsDiv.innerHTML = `
+                    <h2>First Poem:</h2>
+                    <pre>${JSON.stringify(poems[0], null, 2)}</pre>
+                    <h2>First 3 Poem Titles:</h2>
+                    <ul>
+                        ${poems.slice(0, 3).map(p => `<li>${p.title} (${p.theme})</li>`).join('')}
+                    </ul>
+                `;
+            } catch (error) {
+                statusDiv.innerHTML = `<strong>✗ Error:</strong> ${error.message}`;
+                resultsDiv.innerHTML = `<pre>${error.stack}</pre>`;
+            }
+        }
+        
+        test();
+    </script>
+</body>
+</html>

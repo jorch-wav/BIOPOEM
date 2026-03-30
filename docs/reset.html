@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reset Gallery Data</title>
+    <style>
+        body {
+            font-family: system-ui, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #0a0a0a;
+            color: #fff;
+        }
+        button {
+            background: #4caf50;
+            color: #0a0a0a;
+            border: none;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 4px;
+            margin: 10px 5px;
+        }
+        button:hover {
+            opacity: 0.9;
+        }
+        .status {
+            margin-top: 20px;
+            padding: 15px;
+            background: #1a1a1a;
+            border-radius: 4px;
+        }
+        a {
+            color: #4caf50;
+        }
+    </style>
+</head>
+<body>
+    <h1>🔧 Gallery Reset Tool</h1>
+    <p>If the gallery isn't showing poems, this tool can help reset it.</p>
+    
+    <button onclick="clearAll()">Clear All LocalStorage</button>
+    <button onclick="viewData()">View Current Data</button>
+    
+    <div class="status" id="status"></div>
+    
+    <p><a href="index.html">← Back to Gallery</a></p>
+    
+    <script>
+        function clearAll() {
+            localStorage.removeItem('biopoem_ratings');
+            localStorage.removeItem('biopoem_user_ratings');
+            localStorage.removeItem('biopoem_user_id');
+            
+            document.getElementById('status').innerHTML = `
+                <strong>✓ Cleared!</strong><br>
+                - biopoem_ratings<br>
+                - biopoem_user_ratings<br>
+                - biopoem_user_id<br>
+                <br>
+                <a href="index.html">Go to gallery →</a>
+            `;
+        }
+        
+        function viewData() {
+            const ratings = localStorage.getItem('biopoem_ratings');
+            const userRatings = localStorage.getItem('biopoem_user_ratings');
+            const userId = localStorage.getItem('biopoem_user_id');
+            
+            document.getElementById('status').innerHTML = `
+                <strong>Current LocalStorage Data:</strong><br><br>
+                <strong>biopoem_ratings:</strong><br>
+                <pre style="overflow-x: auto;">${ratings || '(empty)'}</pre><br>
+                <strong>biopoem_user_ratings:</strong><br>
+                <pre style="overflow-x: auto;">${userRatings || '(empty)'}</pre><br>
+                <strong>biopoem_user_id:</strong><br>
+                <pre>${userId || '(empty)'}</pre>
+            `;
+        }
+    </script>
+</body>
+</html>
