@@ -30,23 +30,19 @@ class BioPoem {
         } else {
             document.getElementById('page-title').textContent = 'BioPoem Dev Page';
             document.title = 'BioPoem Dev Page';
-            // Show admin controls on dev page
-            const adminControls = document.getElementById('admin-controls');
-            if (adminControls) adminControls.style.display = 'block';
+            // Show analyze button on dev page
+            const analyzeBtn = document.getElementById('analyze-btn');
+            if (analyzeBtn) analyzeBtn.style.display = 'inline-block';
         }
         
         await this.loadPoems();
         if (!this.isPublicPage) {
             await this.loadAllRatings();
+            this.setupAdminControls();
         }
         this.setupEventListeners();
         this.renderPoems();
         this.updateStats();
-        
-        // Setup admin controls after everything is loaded
-        if (!this.isPublicPage) {
-            this.setupAdminControls();
-        }
     }
 
     async loadPoems() {
