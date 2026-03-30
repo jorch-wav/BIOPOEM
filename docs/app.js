@@ -30,6 +30,9 @@ class BioPoem {
         } else {
             document.getElementById('page-title').textContent = 'BioPoem Dev Page';
             document.title = 'BioPoem Dev Page';
+            // Show admin controls on dev page
+            const adminControls = document.getElementById('admin-controls');
+            if (adminControls) adminControls.style.display = 'block';
         }
         
         await this.loadPoems();
@@ -39,6 +42,11 @@ class BioPoem {
         this.setupEventListeners();
         this.renderPoems();
         this.updateStats();
+        
+        // Setup admin controls after everything is loaded
+        if (!this.isPublicPage) {
+            this.setupAdminControls();
+        }
     }
 
     async loadPoems() {
@@ -582,6 +590,84 @@ class BioPoem {
             year: 'numeric', 
             month: 'short', 
             day: 'numeric' 
+        });
+    }
+
+    setupAdminControls() {
+        const analyzeBtn = document.getElementById('analyze-btn');
+        const resultsDiv = document.getElementById('analysis-results');
+        
+        if (!analyzeBtn) return;
+        
+        analyzeBtn.addEventListener('click', async () => {
+            analyzeBtn.disabled = true;
+            analyzeBtn.textContent = '⏳ Analyzing feedback...';
+            resultsDiv.innerHTML = '<p class="analyzing">Running analysis script...</p>';
+            
+            try {
+                const response = await fetch(`${this.apiUrl}/analyze-feedback`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                
+                if (data.success) {
+                    const analysis = data.analysis;
+                    const lowRated = analysis.low_rated_count || 0;
+                    const recommendations = analysis.recommendations || [];
+                    
+                    let html = `
+                        <div class="analysis-success">
+                            <h3>✅ Analysis Complete!</h3>
+                            <div class="analysis-stats">
+                                <p><strong>${analysis.poems_analyzed}</strong> poems analyzed</p>
+                                <p><strong>${analysis.total_ratings || 0}</strong> total ratings</p>
+                                <p><strong>${analysis.total_comments || 0}</strong> comments received</p>
+                                <p><strong>${lowRated}</strong> poems with negative feedback</p>
+                            </div>
+                    `;
+                    
+                    if (recommendations.length > 0) {
+                        html += `
+                            <h4>📝 Recommendations Sent to AI:</h4>
+                            <ul class="recommendations-list">
+                        `;
+                        recommendations.forEach(rec => {
+                            const action = rec.action || rec;
+                            const details = rec.details || '';
+                            html += `<li><strong>${action}</strong>${details ? ': ' + details : ''}</li>`;
+                        });
+                        html += `
+                            </ul>
+                            <p class="note">✨ The poetry engine will use these recommendations on the next poem generation. Press 'G' in biopoem_launch.py to generate a new poem.</p>
+                        `;
+                    } else {
+                        html += `
+                            <p class="no-issues">✨ No repetition patterns detected - poems are varied!</p>
+                        `;
+                    }
+                    
+                    html += `</div>`;
+                    resultsDiv.innerHTML = html;
+                } else {
+                    resultsDiv.innerHTML = `
+                        <div class="analysis-error">
+                            <h3>❌ Analysis Failed</h3>
+                            <p>${data.error}</p>
+                        </div>
+                    `;
+                }
+            } catch (error) {
+                resultsDiv.innerHTML = `
+                    <div class="analysis-error">
+                        <h3>❌ Request Failed</h3>
+                        <p>${error.message}</p>
+                        <p class="hint">Make sure the backend is running: <code>python3 gallery_backend.py</code></p>
+                    </div>
+                `;
+            }
+            
+            analyzeBtn.disabled = false;
+            analyzeBtn.textContent = '📊 Analyze Feedback & Update AI';
         });
     }
 }
