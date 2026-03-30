@@ -48,8 +48,23 @@ class BioPoem {
     async loadPoems() {
         try {
             const response = await fetch('poems.json');
-            this.poems = await response.json();
-            console.log(`Loaded ${this.poems.length} poems`);
+            let poems = await response.json();
+            
+            // Filter poems for public page - only show from March 30, 2026 onwards
+            if (this.isPublicPage) {
+                const cutoffDate = '2026-03-30';
+                const originalCount = poems.length;
+                poems = poems.filter(poem => {
+                    // Parse poem date (format: 2026-03-30T20:00:00)
+                    const poemDate = poem.date.split('T')[0]; // Get just YYYY-MM-DD
+                    return poemDate >= cutoffDate;
+                });
+                console.log(`Public page: Showing ${poems.length} of ${originalCount} poems (from ${cutoffDate} onwards)`);
+            } else {
+                console.log(`Dev page: Loaded all ${poems.length} poems`);
+            }
+            
+            this.poems = poems;
         } catch (error) {
             console.error('Error loading poems:', error);
             document.getElementById('loading').textContent = 'Error loading poems. Please try again later.';
