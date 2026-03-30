@@ -18,6 +18,20 @@
     ]
   },
   {
+    "id": "2026-03-30T20:00:00_persistence_in_small_hours",
+    "title": "Persistence In Small Hours",
+    "date": "2026-03-30T20:00:00",
+    "theme": "enduring",
+    "influence": "unknown",
+    "image": "images/2026/mar/30/persistence_in_small_hours/20260330_32pt_poem_persistence_in_small_hours_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/30/persistence_in_small_hours/20260330_24pt_footnote_persistence_in_small_hours_dark.jpg",
+        "label": "Sensor Summary"
+      }
+    ]
+  },
+  {
     "id": "2026-03-30T20:00:00_seven_days_of_perfect_nothing",
     "title": "Seven Days Of Perfect Nothing",
     "date": "2026-03-30T20:00:00",
