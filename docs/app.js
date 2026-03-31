@@ -20,10 +20,9 @@ class BioPoem {
         // Dev page: localhost OR custom-domain/dev.html OR github.io (temporary during migration)
         this.isPublicPage = (isCustomDomain || isGitHubPages) && !isDevPath && !isLocalhost;
         
-        // Backend API configuration
-        this.apiUrl = isLocalhost
-            ? 'http://localhost:5000/api'
-            : 'http://192.168.0.242:5000/api';
+        // Backend API configuration via Cloudflare Tunnel (HTTPS)
+        // Works from anywhere - phone, computer, etc.
+        this.apiUrl = 'https://biopoem-api.jorgearreola.com/api';
         this.init();
     }
 
