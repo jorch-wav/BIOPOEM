@@ -38,7 +38,7 @@ class BioPoem {
             const stats = document.querySelector('.stats');
             if (stats) stats.style.display = 'none';
         } else {
-            document.getElementById('page-title').textContent = 'BioPoem Dev Page';
+            // Dev page - title already has badge in HTML, don't override it
             document.title = 'BioPoem Dev Page';
             // Show analyze button on dev page
             const analyzeBtn = document.getElementById('analyze-btn');
