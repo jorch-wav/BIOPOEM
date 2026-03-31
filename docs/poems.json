@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-03-31T20:00:10_drinking_until_full",
+    "title": "Drinking Until Full",
+    "date": "2026-03-31T20:00:10",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/mar/31/drinking_until_full/20260331_32pt_poem_drinking_until_full_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/31/drinking_until_full/20260331_32pt_footnote_drinking_until_full_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/31/drinking_until_full/20260331_prompt_drinking_until_full_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-03-31T17:28:55_enough_enough",
     "title": "Enough Enough",
     "date": "2026-03-31T17:28:55",
