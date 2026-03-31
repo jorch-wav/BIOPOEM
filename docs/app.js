@@ -7,10 +7,21 @@ class BioPoem {
         this.currentModalPoem = null;
         this.modalImages = [];
         this.currentImageIndex = 0;
-        // Detect if this is the public GitHub Pages version
-        this.isPublicPage = window.location.hostname.includes('github.io');
+        // Detect if this is the public page or dev page
+        // Public: biopoem.jorgearreola.com or jorch-wav.github.io/BIOPOEM (root/index.html)
+        // Dev: biopoem.jorgearreola.com/dev.html or localhost
+        const hostname = window.location.hostname;
+        const pathname = window.location.pathname;
+        const isDevPath = pathname.includes('dev.html');
+        const isCustomDomain = hostname.includes('jorgearreola.com');
+        const isGitHubPages = hostname.includes('github.io');
+        const isLocalhost = hostname === 'localhost' || hostname === '127.0.0.1' || hostname === '192.168.0.242';
+        
+        // Dev page: localhost OR custom-domain/dev.html OR github.io (temporary during migration)
+        this.isPublicPage = (isCustomDomain || isGitHubPages) && !isDevPath && !isLocalhost;
+        
         // Backend API configuration
-        this.apiUrl = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+        this.apiUrl = isLocalhost
             ? 'http://localhost:5000/api'
             : 'http://192.168.0.242:5000/api';
         this.init();
