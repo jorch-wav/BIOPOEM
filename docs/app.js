@@ -20,9 +20,7 @@ class BioPoem {
         // Dev page: localhost OR custom-domain/dev.html OR github.io (temporary during migration)
         this.isPublicPage = (isCustomDomain || isGitHubPages) && !isDevPath && !isLocalhost;
         
-        // Backend API configuration and feedback availability
-        // Feedback only works when accessing via localhost (same machine as Pi)
-        this.feedbackEnabled = isLocalhost;
+        // Backend API configuration
         this.apiUrl = isLocalhost
             ? 'http://localhost:5000/api'
             : 'http://192.168.0.242:5000/api';
@@ -43,11 +41,9 @@ class BioPoem {
         } else {
             document.getElementById('page-title').textContent = 'BioPoem Dev Page';
             document.title = 'BioPoem Dev Page';
-            // Show analyze button on dev page (only if feedback is available)
+            // Show analyze button on dev page
             const analyzeBtn = document.getElementById('analyze-btn');
-            if (analyzeBtn && this.feedbackEnabled) {
-                analyzeBtn.style.display = 'inline-block';
-            }
+            if (analyzeBtn) analyzeBtn.style.display = 'inline-block';
         }
         
         await this.loadPoems();
@@ -141,9 +137,8 @@ class BioPoem {
         const userRating = this.getUserRating(poem.id);
         const themeDisplay = this.getThemeDisplayName(poem.theme);
         
-        // On public page or when feedback is disabled, hide rating system
-        const showRatings = !this.isPublicPage && this.feedbackEnabled;
-        const ratingSystemHTML = showRatings ? `
+        // On public page, hide rating system
+        const ratingSystemHTML = this.isPublicPage ? '' : `
                     <div class="rating-system">
                         <button class="rating-btn like-btn ${userRating === 'like' ? 'active' : ''}" data-id="${poem.id}" data-type="like" title="Rate this poem" aria-label="Like poem">
                             <span>👍</span>
@@ -162,9 +157,9 @@ class BioPoem {
                             <button class="comment-submit" data-id="${poem.id}">Submit Rating</button>
                             <button class="comment-cancel" data-id="${poem.id}">Cancel</button>
                         </div>
-                    </div>` : '';
+                    </div>`;
         
-        const commentsPreviewHTML = showRatings ? this.createCommentsPreview(poem.id, ratings) : '';
+        const commentsPreviewHTML = this.isPublicPage ? '' : this.createCommentsPreview(poem.id, ratings);
         
         return `
             <div class="poem-card" data-id="${poem.id}">
@@ -376,13 +371,6 @@ class BioPoem {
             return;
         }
         
-        // Check if feedback is available (only on localhost)
-        if (!this.feedbackEnabled) {
-            alert('Feedback submission requires local network access.\n\nTo rate poems, please access the gallery from:\nhttp://192.168.0.242:8000/dev.html');
-            this.closeCommentForm(poemId);
-            return;
-        }
-        
         const userId = this.getUserId();
         
         try {
@@ -470,11 +458,6 @@ class BioPoem {
     }
 
     async loadAllRatings() {
-        // Only load ratings if feedback is enabled (on localhost)
-        if (!this.feedbackEnabled) {
-            return;
-        }
-        
         // Load ratings for all poems from backend
         const loadPromises = this.poems.map(poem => this.loadRating(poem.id));
         await Promise.all(loadPromises);
@@ -568,12 +551,6 @@ class BioPoem {
     async loadModalComments(poemId) {
         const commentsSection = document.getElementById('modal-comments');
         const commentsList = document.getElementById('modal-comments-list');
-        
-        // Hide comments if feedback is not available
-        if (!this.feedbackEnabled) {
-            commentsSection.style.display = 'none';
-            return;
-        }
         
         try {
             const response = await fetch(`${this.apiUrl}/feedback/${poemId}`);
