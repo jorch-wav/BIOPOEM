@@ -1196,14 +1196,72 @@ class App:
                 import traceback
                 traceback.print_exc()
     
-    def _update_gallery(self):
-        """Update the web gallery with the latest poem and auto-deploy to GitHub"""
+    def _update_gallery(self, latest_poem_folder=None):
+        """Update the web gallery with the latest poem and auto-deploy to GitHub
+        
+        Args:
+            latest_poem_folder: Optional name of the specific poem folder that was just created
+        """
         try:
             import subprocess
             import shutil
             from datetime import datetime
+            import time
             
-            # Step 1: Regenerate full gallery JSON
+            # Step 1: Copy images FIRST (before regenerating JSON)
+            # This ensures the images are in place when gallery JSON references them
+            now = datetime.now()
+            year = now.strftime('%Y')
+            month = now.strftime('%b').lower()
+            day = now.strftime('%d')
+            
+            source_path = f"instagram_posts/{year}/{month}/{day}"
+            dest_path = f"docs/images/{year}/{month}/{day}"
+            
+            if os.path.exists(source_path):
+                print(f"[DEBUG] Copying images from {source_path} to {dest_path}...")
+                try:
+                    # Create destination directory
+                    os.makedirs(dest_path, exist_ok=True)
+                    
+                    # If we know the specific folder, only copy that one
+                    # Otherwise copy all folders (for retroactive updates)
+                    folders_to_copy = []
+                    if latest_poem_folder:
+                        # Wait briefly to ensure Instagram render finished writing files
+                        time.sleep(0.5)
+                        src_folder = os.path.join(source_path, latest_poem_folder)
+                        if os.path.exists(src_folder):
+                            folders_to_copy = [latest_poem_folder]
+                            print(f"[DEBUG] Copying specific folder: {latest_poem_folder}")
+                        else:
+                            print(f"[DEBUG] Warning: Latest folder not found: {src_folder}")
+                            # Fall back to copying all
+                            folders_to_copy = [f for f in os.listdir(source_path) if os.path.isdir(os.path.join(source_path, f))]
+                    else:
+                        # Copy all folders in today's date
+                        folders_to_copy = [f for f in os.listdir(source_path) if os.path.isdir(os.path.join(source_path, f))]
+                    
+                    # Copy folders
+                    for poem_folder in folders_to_copy:
+                        src_folder = os.path.join(source_path, poem_folder)
+                        dst_folder = os.path.join(dest_path, poem_folder)
+                        if os.path.isdir(src_folder):
+                            if os.path.exists(dst_folder):
+                                shutil.rmtree(dst_folder)
+                            shutil.copytree(src_folder, dst_folder)
+                            print(f"[DEBUG]   ✓ Copied {poem_folder}")
+                    
+                    print("[DEBUG] ✅ Images copied to docs folder")
+                except Exception as e:
+                    print(f"[DEBUG] Image copy failed: {e}")
+                    import traceback
+                    traceback.print_exc()
+                    return
+            else:
+                print(f"[DEBUG] No images found at {source_path} to copy")
+            
+            # Step 2: Regenerate full gallery JSON (after images are in place)
             script_path = os.path.join(os.path.dirname(__file__), 'regenerate_full_gallery.py')
             if os.path.exists(script_path):
                 print("[DEBUG] Regenerating full gallery...")
@@ -1221,38 +1279,6 @@ class App:
             else:
                 print(f"[DEBUG] Gallery script not found at {script_path}")
                 return
-            
-            # Step 2: Copy new images to docs/images folder
-            now = datetime.now()
-            year = now.strftime('%Y')
-            month = now.strftime('%b').lower()
-            day = now.strftime('%d')
-            
-            source_path = f"instagram_posts/{year}/{month}/{day}"
-            dest_path = f"docs/images/{year}/{month}/{day}"
-            
-            if os.path.exists(source_path):
-                print(f"[DEBUG] Copying images from {source_path} to {dest_path}...")
-                try:
-                    # Create destination directory
-                    os.makedirs(dest_path, exist_ok=True)
-                    
-                    # Copy all poem folders
-                    for poem_folder in os.listdir(source_path):
-                        src_folder = os.path.join(source_path, poem_folder)
-                        dst_folder = os.path.join(dest_path, poem_folder)
-                        if os.path.isdir(src_folder):
-                            if os.path.exists(dst_folder):
-                                shutil.rmtree(dst_folder)
-                            shutil.copytree(src_folder, dst_folder)
-                            print(f"[DEBUG]   ✓ Copied {poem_folder}")
-                    
-                    print("[DEBUG] ✅ Images copied to docs folder")
-                except Exception as e:
-                    print(f"[DEBUG] Image copy failed: {e}")
-                    return
-            else:
-                print(f"[DEBUG] No images found at {source_path} to copy")
             
             # Step 3: Auto-commit and push to GitHub (background process)
             print("[DEBUG] Auto-deploying to GitHub...")
@@ -1285,18 +1311,17 @@ class App:
                         cwd=os.path.dirname(__file__)
                     )
                     
-                    push_result = subprocess.run(
-                        ['git', 'push'],
-                        capture_output=True,
+                    # Push in background to avoid blocking
+                    print("[DEBUG] Starting background push to GitHub...")
+                    push_result = subprocess.Popen(
+                        ['git', 'push', 'origin', 'master'],
+                        stdout=subprocess.PIPE,
+                        stderr=subprocess.PIPE,
                         text=True,
-                        timeout=30,
                         cwd=os.path.dirname(__file__)
                     )
-                    
-                    if push_result.returncode == 0:
-                        print("[DEBUG] ✅ Auto-deployed to GitHub Pages!")
-                    else:
-                        print(f"[DEBUG] Git push failed: {push_result.stderr}")
+                    # Don't wait for push to complete - it can take a while
+                    print("[DEBUG] ✅ Git push initiated in background (will complete in ~1 minute)")
                 else:
                     print("[DEBUG] No changes to commit")
                     
@@ -2639,8 +2664,9 @@ class App:
                 # Save to file
                 self._save_latest_poem()
                 
-                # Update web gallery
-                self._update_gallery()
+                # Update web gallery with latest folder
+                latest_folder = os.path.basename(poem_folder_path) if 'poem_folder_path' in locals() else None
+                self._update_gallery(latest_poem_folder=latest_folder)
                 
                 # Log to CSV with all generation data
                 if self.poem_logger:
@@ -4697,8 +4723,9 @@ class App:
                 # Save to file
                 self._save_latest_poem()
                 
-                # Update web gallery
-                self._update_gallery()
+                # Update web gallery with latest folder
+                latest_folder = os.path.basename(poem_folder_path) if poem_folder_path else None
+                self._update_gallery(latest_poem_folder=latest_folder)
                 
                 # Log to CSV
                 if self.poem_logger:
