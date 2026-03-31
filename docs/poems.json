@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-03-31T11:18:00_every_mouth_open",
+    "title": "Every Mouth Open",
+    "date": "2026-03-31T11:18:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/mar/31/every_mouth_open/20260331_32pt_poem_every_mouth_open_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/mar/31/every_mouth_open/20260331_28pt_footnote_every_mouth_open_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/mar/31/every_mouth_open/20260331_prompt_every_mouth_open_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-03-30T23:47:03_what_holds_me_now",
     "title": "What Holds Me Now",
     "date": "2026-03-30T23:47:03",
