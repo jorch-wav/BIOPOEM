@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-01T20:00:11_what_holds",
+    "title": "What Holds",
+    "date": "2026-04-01T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/01/what_holds/20260401_32pt_poem_what_holds_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/01/what_holds/20260401_24pt_footnote_what_holds_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/01/what_holds/20260401_prompt_what_holds_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-03-31T20:00:10_drinking_until_full",
     "title": "Drinking Until Full",
     "date": "2026-03-31T20:00:10",
