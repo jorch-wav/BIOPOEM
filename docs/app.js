@@ -635,6 +635,8 @@ class BioPoem {
                     const analysis = data.analysis;
                     const lowRated = analysis.low_rated_count || 0;
                     const recommendations = analysis.recommendations || [];
+                    const handoffReport = data.handoff_report;
+                    const handoffReportPath = data.handoff_report_path;
                     
                     let html = `
                         <div class="analysis-success">
@@ -647,19 +649,36 @@ class BioPoem {
                             </div>
                     `;
                     
+                    // Show handoff report section if available
+                    if (handoffReport) {
+                        html += `
+                            <div class="handoff-report-section">
+                                <h4>🤖 Agent Handoff Report Generated</h4>
+                                <p>A detailed implementation guide has been created for AI agent collaboration.</p>
+                                <p class="report-path"><strong>Location:</strong> <code>${handoffReportPath || 'See below'}</code></p>
+                                <button class="copy-report-btn" id="copy-report-btn" style="margin: 1rem 0; padding: 0.75rem 1.5rem; background: #4a9eff; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: 500;">
+                                    📋 Copy Report to Clipboard
+                                </button>
+                                <details style="margin-top: 1rem;">
+                                    <summary style="cursor: pointer; font-weight: 500; margin-bottom: 0.5rem;">📄 View Full Report</summary>
+                                    <pre class="handoff-report-content" style="background: #1a1a1a; padding: 1rem; border-radius: 4px; overflow-x: auto; max-height: 400px; font-size: 0.85rem; white-space: pre-wrap;">${this.escapeHtml(handoffReport)}</pre>
+                                </details>
+                            </div>
+                        `;
+                    }
+                    
                     if (recommendations.length > 0) {
                         html += `
-                            <h4>📝 Recommendations Sent to AI:</h4>
+                            <h4>📝 Recommendations Summary:</h4>
                             <ul class="recommendations-list">
                         `;
                         recommendations.forEach(rec => {
                             const action = rec.action || rec;
-                            const details = rec.details || '';
-                            html += `<li><strong>${action}</strong>${details ? ': ' + details : ''}</li>`;
+                            html += `<li><strong>${action}</strong></li>`;
                         });
                         html += `
                             </ul>
-                            <p class="note">✨ The poetry engine will use these recommendations on the next poem generation. Press 'G' in biopoem_launch.py to generate a new poem.</p>
+                            <p class="note">💡 Use the handoff report above to implement these changes with an AI agent.</p>
                         `;
                     } else {
                         html += `
@@ -669,6 +688,30 @@ class BioPoem {
                     
                     html += `</div>`;
                     resultsDiv.innerHTML = html;
+                    
+                    // Add copy button functionality
+                    if (handoffReport) {
+                        const copyBtn = document.getElementById('copy-report-btn');
+                        if (copyBtn) {
+                            copyBtn.addEventListener('click', async () => {
+                                try {
+                                    await navigator.clipboard.writeText(handoffReport);
+                                    copyBtn.textContent = '✅ Copied!';
+                                    copyBtn.style.background = '#4caf50';
+                                    setTimeout(() => {
+                                        copyBtn.textContent = '📋 Copy Report to Clipboard';
+                                        copyBtn.style.background = '#4a9eff';
+                                    }, 2000);
+                                } catch (err) {
+                                    console.error('Failed to copy:', err);
+                                    copyBtn.textContent = '❌ Copy failed';
+                                    setTimeout(() => {
+                                        copyBtn.textContent = '📋 Copy Report to Clipboard';
+                                    }, 2000);
+                                }
+                            });
+                        }
+                    }
                 } else {
                     resultsDiv.innerHTML = `
                         <div class="analysis-error">
@@ -688,8 +731,14 @@ class BioPoem {
             }
             
             analyzeBtn.disabled = false;
-            analyzeBtn.textContent = '📊 Analyze Feedback & Update AI';
+            analyzeBtn.textContent = '📊 Analyze Feedback';
         });
+    }
+    
+    escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
     }
 }
 

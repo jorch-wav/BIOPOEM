@@ -286,7 +286,7 @@ def get_stats():
 def trigger_analysis():
     """
     Manually trigger feedback analysis
-    Runs analyze_feedback.py and returns results
+    Runs analyze_feedback.py and returns results including handoff report
     """
     try:
         # Run analysis script
@@ -309,9 +309,28 @@ def trigger_analysis():
         with open(analysis_path, 'r') as f:
             analysis = json.load(f)
         
+        # Find the most recent handoff report
+        handoff_report_path = None
+        handoff_report_content = None
+        
+        memory_session_dir = '/home/biopoem/.vscode-server/data/User/globalStorage/github.copilot-chat/memories/session'
+        if os.path.exists(memory_session_dir):
+            # Find most recent feedback-handoff-*.md file
+            report_files = [f for f in os.listdir(memory_session_dir) if f.startswith('feedback-handoff-') and f.endswith('.md')]
+            if report_files:
+                # Sort by filename (which includes timestamp) and get most recent
+                report_files.sort(reverse=True)
+                handoff_report_path = os.path.join(memory_session_dir, report_files[0])
+                
+                # Read report content
+                with open(handoff_report_path, 'r') as f:
+                    handoff_report_content = f.read()
+        
         return jsonify({
             'success': True,
             'analysis': analysis,
+            'handoff_report': handoff_report_content,
+            'handoff_report_path': handoff_report_path,
             'output': result.stdout
         })
     except subprocess.TimeoutExpired:

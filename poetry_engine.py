@@ -2021,6 +2021,109 @@ class ThemeScorer:
 
 
 # ============================================================================
+# THEME DIVERSITY GOVERNOR
+# ============================================================================
+
+class ThemeDiversityGovernor:
+    """Tracks theme usage and applies diversity penalties to prevent overuse"""
+    
+    def __init__(self, history_file="poem_history.json", history_window=30):
+        """
+        Initialize governor with poem history
+        
+        Args:
+            history_file: Path to poem_history.json
+            history_window: Number of recent poems to analyze (default 30)
+        """
+        self.history_file = Path(history_file)
+        self.history_window = history_window
+        self.history = self._load_history()
+    
+    def _load_history(self):
+        """Load poem generation history"""
+        if self.history_file.exists():
+            with open(self.history_file, 'r') as f:
+                return json.load(f)
+        return {"poems": []}
+    
+    def get_theme_frequency(self, theme):
+        """
+        Calculate how often theme appears in recent poems
+        
+        Args:
+            theme: Theme key to check
+        
+        Returns:
+            float: Frequency (0.0 to 1.0)
+        """
+        recent_poems = self.history.get("poems", [])[-self.history_window:]
+        
+        if not recent_poems:
+            return 0.0
+        
+        theme_count = sum(1 for p in recent_poems if p.get('theme') == theme)
+        return theme_count / len(recent_poems)
+    
+    def get_theme_counts(self):
+        """Get count of each theme in recent poems"""
+        recent_poems = self.history.get("poems", [])[-self.history_window:]
+        counts = {}
+        
+        for poem in recent_poems:
+            theme = poem.get('theme', 'unknown')
+            counts[theme] = counts.get(theme, 0) + 1
+        
+        return counts
+    
+    def apply_diversity_penalty(self, theme_scores):
+        """
+        Apply penalties to overused themes
+        
+        Args:
+            theme_scores: Dict of {theme: score} from ThemeScorer
+        
+        Returns:
+            dict: Modified scores with diversity penalties applied
+        """
+        theme_frequencies = {theme: self.get_theme_frequency(theme) 
+                            for theme in theme_scores.keys()}
+        
+        modified_scores = {}
+        
+        for theme, score in theme_scores.items():
+            freq = theme_frequencies[theme]
+            
+            # Apply penalty if theme exceeds 30% of recent poems
+            if freq > 0.30:
+                penalty_factor = freq - 0.30  # 0.40 freq = 0.10 penalty
+                # Reduce score by penalty (more frequent = bigger reduction)
+                penalty = min(penalty_factor * 2.0, 0.8)  # Max 80% penalty
+                modified_scores[theme] = score * (1 - penalty)
+                
+                if penalty > 0.2:  # Significant penalty
+                    print(f"[DIVERSITY] '{theme}' theme at {freq*100:.0f}% frequency - applying {penalty*100:.0f}% penalty")
+            else:
+                modified_scores[theme] = score
+        
+        return modified_scores
+    
+    def get_diversity_report(self):
+        """Get human-readable diversity report"""
+        counts = self.get_theme_counts()
+        total = sum(counts.values())
+        
+        if total == 0:
+            return "No poems in history"
+        
+        report = f"Theme distribution (last {len(self.history.get('poems', [])[-self.history_window:])} poems):\n"
+        for theme, count in sorted(counts.items(), key=lambda x: x[1], reverse=True):
+            pct = count / total * 100
+            report += f"  {theme}: {count} ({pct:.1f}%)\n"
+        
+        return report
+
+
+# ============================================================================
 # INFLUENCE SELECTOR
 # ============================================================================
 
@@ -2681,6 +2784,9 @@ class DailyPoetryGenerator:
         self.influence_selector = InfluenceSelector(history_file)
         self.prompt_generator = PromptGenerator()
         
+        # Initialize theme diversity governor
+        self.theme_diversity_governor = ThemeDiversityGovernor(history_file=history_file)
+        
         # Initialize repetition prevention
         if REPETITION_PREVENTION_AVAILABLE:
             self.repetition_governor = RepetitionGovernor(history_file='poem_history.json')
@@ -2765,7 +2871,18 @@ class DailyPoetryGenerator:
         # Score themes (pass full_df for memory theme)
         theme_analysis = ThemeScorer.score_all_themes(data_24h, current_reading, full_df)
         
-        # Apply diversity scoring if repetition prevention is enabled
+        # Apply theme diversity penalty to prevent overuse
+        original_scores = theme_analysis["scores"].copy()
+        theme_analysis["scores"] = self.theme_diversity_governor.apply_diversity_penalty(theme_analysis["scores"])
+        
+        # Re-rank themes with diversity-adjusted scores
+        theme_analysis["ranked"] = sorted(theme_analysis["scores"].items(), key=lambda x: x[1], reverse=True)
+        theme_analysis["primary_theme"] = theme_analysis["ranked"][0][0]
+        theme_analysis["primary_score"] = theme_analysis["ranked"][0][1]
+        theme_analysis["secondary_theme"] = theme_analysis["ranked"][1][0] if len(theme_analysis["ranked"]) > 1 else None
+        theme_analysis["secondary_score"] = theme_analysis["ranked"][1][1] if len(theme_analysis["ranked"]) > 1 else 0.0
+        
+        # Apply diversity scoring if repetition prevention is enabled (additional layer)
         if self.repetition_governor:
             # Get diversity scores for all themes
             ranked_themes = theme_analysis["ranked"]

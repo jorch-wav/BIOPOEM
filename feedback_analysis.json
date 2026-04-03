@@ -1,0 +1,448 @@
+{
+  "analysis_date": "2026-04-03T12:58:43.473648",
+  "poems_analyzed": 27,
+  "total_ratings": 26,
+  "total_comments": 29,
+  "low_rated_count": 24,
+  "high_rated_count": 0,
+  "low_rated_poems": [
+    {
+      "id": "2025-12-18T11:28:01_this_ground_again",
+      "title": "This Ground Again",
+      "date": "2025-12-18T11:28:01",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2025-12-28T20:00:07_glass_already_full",
+      "title": "Glass Already Full",
+      "date": "2025-12-28T20:00:07",
+      "theme": "sated",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-10T20:00:49_the_labyrinth_returns_to_itself",
+      "title": "The Labyrinth Returns To Itself",
+      "date": "2026-02-10T20:00:49",
+      "theme": "recovering",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-13T14:24:04_all_the_ways_to_ask",
+      "title": "All The Ways To Ask",
+      "date": "2026-02-13T14:24:04",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-18T20:00:11_what_holds_me_now",
+      "title": "What Holds Me Now",
+      "date": "2026-02-18T20:00:11",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-21T08:31:01_the_same_dry_afternoon_again",
+      "title": "The Same Dry Afternoon Again",
+      "date": "2026-02-21T08:31:01",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 2,
+      "score": -1
+    },
+    {
+      "id": "2026-02-22T20:00:15_thirst_tells_the_truth",
+      "title": "Thirst Tells The Truth",
+      "date": "2026-02-22T20:00:15",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-27T20:00:11_the_garden_of_forking_days",
+      "title": "The Garden Of Forking Days",
+      "date": "2026-02-27T20:00:11",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-02-28T20:00:17_what_the_roots_remember",
+      "title": "What The Roots Remember",
+      "date": "2026-02-28T20:00:17",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-01T20:00:14_still_green_still_holding",
+      "title": "Still Green Still Holding",
+      "date": "2026-03-01T20:00:14",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-02T08:19:31_lean_days_in_march",
+      "title": "Lean Days In March",
+      "date": "2026-03-02T08:19:31",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-08T20:00:19_sustained_in_small_hours",
+      "title": "Sustained In Small Hours",
+      "date": "2026-03-08T20:00:19",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-14T20:00:16_the_thirsting_returns",
+      "title": "The Thirsting Returns",
+      "date": "2026-03-14T20:00:16",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-20T20:00:16_confession_in_dry_air",
+      "title": "Confession In Dry Air",
+      "date": "2026-03-20T20:00:16",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-21T20:00:13_thirst_speaks_plain",
+      "title": "Thirst Speaks Plain",
+      "date": "2026-03-21T20:00:13",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-22T20:00:12_seven_days_without",
+      "title": "Seven Days Without",
+      "date": "2026-03-22T20:00:12",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-25T20:00:18_empty_vessel_speaks",
+      "title": "Empty Vessel Speaks",
+      "date": "2026-03-25T20:00:18",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-26T20:00:22_catalog_of_craving",
+      "title": "Catalog Of Craving",
+      "date": "2026-03-26T20:00:22",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-29T20:00:12_the_wanting_without_end",
+      "title": "The Wanting Without End",
+      "date": "2026-03-29T20:00:12",
+      "theme": "thirsting",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-31T11:18:00_every_mouth_open",
+      "title": "Every Mouth Open",
+      "date": "2026-03-31T11:18:00",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-31T15:54:18_full_to_the_brim",
+      "title": "Full To The Brim",
+      "date": "2026-03-31T15:54:18",
+      "theme": "sated",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-31T16:47:20_waters_edge",
+      "title": "Waters Edge",
+      "date": "2026-03-31T16:47:20",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-03-31T20:00:10_drinking_until_full",
+      "title": "Drinking Until Full",
+      "date": "2026-03-31T20:00:10",
+      "theme": "sated",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    },
+    {
+      "id": "2026-04-01T20:00:11_what_holds",
+      "title": "What Holds",
+      "date": "2026-04-01T20:00:11",
+      "theme": "sustained",
+      "influence": "unknown",
+      "likes": 0,
+      "dislikes": 1,
+      "comments": 1,
+      "score": -1
+    }
+  ],
+  "high_rated_poems": [],
+  "overused_themes": [
+    {
+      "theme": "sustained",
+      "disliked_count": 13
+    },
+    {
+      "theme": "thirsting",
+      "disliked_count": 7
+    },
+    {
+      "theme": "sated",
+      "disliked_count": 3
+    }
+  ],
+  "overused_influences": [
+    {
+      "influence": "unknown",
+      "disliked_count": 24
+    }
+  ],
+  "successful_themes": [],
+  "successful_influences": [],
+  "recommendations": [
+    {
+      "type": "theme_reduction",
+      "target": "sustained",
+      "reason": "Theme 'sustained' appears in 13 low-rated poems",
+      "action": "Reduce 'sustained' theme frequency - appears in 13 low-rated poems. Users mentioned: long, saying, roots",
+      "user_feedback_samples": [
+        "two poems in a row saying my roots drink deep, thats not good. repetition is unn...",
+        "stop saying thing like 'im soaked', 'im drenched' they sound sexual",
+        "Repeating 'my roots' too much"
+      ]
+    },
+    {
+      "type": "influence_rotation",
+      "target": "unknown",
+      "reason": "Influence 'unknown' appears in 24 low-rated poems",
+      "action": "Rotate away from 'unknown' influence temporarily",
+      "user_feedback_samples": [
+        "two poems in a row saying my roots drink deep, thats not good. repetition is unn...",
+        "two poems in a row saying my roots drink deep, thats not good. repetition is unn...",
+        "stop saying thing like 'im soaked', 'im drenched' they sound sexual"
+      ]
+    }
+  ],
+  "negative_feedback_keywords": [
+    {
+      "word": "long",
+      "count": 19
+    },
+    {
+      "word": "poems",
+      "count": 6
+    },
+    {
+      "word": "saying",
+      "count": 5
+    },
+    {
+      "word": "good",
+      "count": 4
+    },
+    {
+      "word": "roots",
+      "count": 3
+    },
+    {
+      "word": "like",
+      "count": 3
+    },
+    {
+      "word": "soaked",
+      "count": 3
+    },
+    {
+      "word": "drenched",
+      "count": 3
+    },
+    {
+      "word": "sexual",
+      "count": 3
+    },
+    {
+      "word": "being",
+      "count": 3
+    },
+    {
+      "word": "feels",
+      "count": 3
+    },
+    {
+      "word": "many",
+      "count": 3
+    },
+    {
+      "word": "drink",
+      "count": 2
+    },
+    {
+      "word": "deep",
+      "count": 2
+    },
+    {
+      "word": "thats",
+      "count": 2
+    }
+  ],
+  "positive_feedback_keywords": [
+    {
+      "word": "perspective",
+      "count": 2
+    },
+    {
+      "word": "great",
+      "count": 1
+    },
+    {
+      "word": "plant",
+      "count": 1
+    },
+    {
+      "word": "interpreted",
+      "count": 1
+    },
+    {
+      "word": "human",
+      "count": 1
+    },
+    {
+      "word": "nice",
+      "count": 1
+    },
+    {
+      "word": "like",
+      "count": 1
+    },
+    {
+      "word": "pseudocode",
+      "count": 1
+    },
+    {
+      "word": "looking",
+      "count": 1
+    },
+    {
+      "word": "good",
+      "count": 1
+    }
+  ],
+  "implementation_status": {
+    "analyzed_date": "2026-04-03T12:58:43.473648",
+    "acted_on_date": "2026-04-03T14:32:00.968040",
+    "implementation_notes": "Implemented 3 priority fixes: (1) Line count validator in api_client.py - validates poems max 15 lines, (2) Theme diversity governor in poetry_engine.py - penalizes overused themes, (3) Added 5 cooldown phrases to VOICE_CONSTRAINTS.py",
+    "status": "implemented",
+    "changes": [
+      {
+        "file": "api_client.py",
+        "change": "Added validate_poem_length() method",
+        "success_criteria": "Next 10 poems: 0 exceed 15 lines"
+      },
+      {
+        "file": "poetry_engine.py",
+        "change": "Added ThemeDiversityGovernor class and integrated in DailyPoetryGenerator",
+        "success_criteria": "Sustained theme <30% of next 30 poems"
+      },
+      {
+        "file": "VOICE_CONSTRAINTS.py",
+        "change": "Added 5 cooldown phrases: I'm drenched, I'm soaked, I'm saturated, my roots hold, my roots know",
+        "success_criteria": "Zero uses of flagged phrases in next 10 poems"
+      }
+    ]
+  }
+}
