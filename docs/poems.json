@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-03T20:00:11_waiting_period",
+    "title": "Waiting Period",
+    "date": "2026-04-03T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/03/waiting_period/20260403_32pt_poem_waiting_period_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/03/waiting_period/20260403_28pt_footnote_waiting_period_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/03/waiting_period/20260403_prompt_waiting_period_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-03T14:50:31_lean_days",
     "title": "Lean Days",
     "date": "2026-04-03T14:50:31",
