@@ -29,6 +29,59 @@ VERSION = "1.6"
 # TIME & SEASONAL CONTEXT HELPERS
 # ============================================================================
 
+class PerspectiveSelector:
+    """Selects narrative perspective mode for variety and reduced repetition"""
+    
+    @staticmethod
+    def select_perspective_mode():
+        """
+        Choose perspective mode for poem generation.
+        
+        5 modes to reduce repetitive plant-specific language while maintaining
+        authentic voice. Different modes naturally use different vocabulary.
+        
+        Returns:
+            tuple: (mode_name, instruction_for_daily, instruction_for_visual)
+        """
+        roll = random.random()
+        
+        if roll < 0.20:
+            # Botanical literal - allows plant-specific language
+            return (
+                "botanical_literal",
+                "You are a plant: roots, leaves, stems. Let botanical imagery surface naturally: growth, photosynthesis, the slow conversation with soil.",
+                "PLANT: roots, leaves, stems, soil, botanical experience"
+            )
+        elif roll < 0.50:
+            # Embodied universal - living consciousness, no plant parts
+            return (
+                "embodied_universal",
+                "Write from living consciousness. No need to name what you are. Focus on presence, sensation, the texture of time. Avoid 'roots', 'leaves', 'stems' - use: thirst, warmth, weight, darkness, waiting.",
+                "UNIVERSAL BODY: living consciousness, sensations (thirst/warmth/weight), no plant-specific words"
+            )
+        elif roll < 0.70:
+            # Observational - no first person
+            return (
+                "observational",
+                "Write as observer. Avoid 'I' or 'my'. Describe what happens, what shifts, what changes. Witness without claiming ownership: 'the light fades', 'water pools', 'time passes'.",
+                "OBSERVER: no first person, describe what happens/shifts/changes"
+            )
+        elif roll < 0.90:
+            # Metaphysical - abstract awareness
+            return (
+                "metaphysical",
+                "Write as abstract awareness or consciousness. Focus on: being, existing, presence, duration, waiting, knowing. More philosophical than physical. Can acknowledge 'I exist' but avoid bodily specifics.",
+                "AWARENESS: consciousness, being, existing, presence, abstract experience"
+            )
+        else:
+            # Human-adjacent - empathy across species
+            return (
+                "human_adjacent",
+                "Write with awareness of human presence. Use 'you', 'they', 'someone'. Speak to or about the people who care for you. Bridge between plant experience and human understanding. Empathize across species.",
+                "HUMAN-AWARE: speak to/about people, use 'you'/'they', cross-species empathy"
+            )
+
+
 class TimeContext:
     """Provides time-of-day and seasonal awareness"""
     
@@ -2632,14 +2685,8 @@ class PromptGenerator:
             multi_day_patterns
         )
         
-        # Select perspective mode (40% plant-specific, 60% abstract/universal)
-        perspective_roll = random.random()
-        if perspective_roll < 0.40:
-            perspective_mode = "plant"
-            perspective_hint = "You are a plant: roots, leaves, stems. Let botanical imagery surface naturally: growth, photosynthesis, the slow conversation with soil."
-        else:
-            perspective_mode = "abstract"
-            perspective_hint = "Write from any living consciousness. No need to name what you are. Focus on presence, light, the texture of time."
+        # Select perspective mode - 5 variants for linguistic variety
+        perspective_mode, perspective_hint, _ = PerspectiveSelector.select_perspective_mode()
         
         # Get recent titles for avoidance
         recent_titles = PromptGenerator._get_recent_titles(repetition_governor, limit=15)
@@ -3268,12 +3315,8 @@ class DailyPoetryGenerator:
         # Get season
         season, season_desc = TimeContext.get_season(date)
         
-        # Select perspective mode (40% plant, 60% abstract)
-        perspective_roll = random.random()
-        if perspective_roll < 0.40:
-            perspective_text = "PLANT: roots, leaves, growth imagery"
-        else:
-            perspective_text = "UNIVERSAL: any living consciousness"
+        # Select perspective mode - 5 variants for linguistic variety
+        perspective_mode, _, perspective_text = PerspectiveSelector.select_perspective_mode()
         
         # Build atmospheric description
         atmospheric = ExperientialMetaphors.build_atmospheric_paragraph(
