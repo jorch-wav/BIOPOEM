@@ -1311,17 +1311,28 @@ class App:
                         cwd=os.path.dirname(__file__)
                     )
                     
-                    # Push in background to avoid blocking
-                    print("[DEBUG] Starting background push to GitHub...")
-                    push_result = subprocess.Popen(
-                        ['git', 'push', 'origin', 'master'],
-                        stdout=subprocess.PIPE,
-                        stderr=subprocess.PIPE,
-                        text=True,
-                        cwd=os.path.dirname(__file__)
-                    )
-                    # Don't wait for push to complete - it can take a while
-                    print("[DEBUG] ✅ Git push initiated in background (will complete in ~1 minute)")
+                    # Push to GitHub with proper error handling
+                    print("[DEBUG] Pushing to GitHub (this may take 10-30 seconds)...")
+                    try:
+                        push_result = subprocess.run(
+                            ['git', 'push', 'origin', 'master'],
+                            capture_output=True,
+                            text=True,
+                            timeout=60,  # Give it a full minute
+                            cwd=os.path.dirname(__file__)
+                        )
+                        
+                        if push_result.returncode == 0:
+                            print("[DEBUG] ✅ Git push completed successfully!")
+                            print("[DEBUG] Poem will appear on website in 1-2 minutes")
+                        else:
+                            print(f"[DEBUG] ⚠️ Git push failed:")
+                            print(f"[DEBUG] {push_result.stderr}")
+                            print("[DEBUG] Manual push needed: cd /home/biopoem && git push origin master")
+                    except subprocess.TimeoutExpired:
+                        print("[DEBUG] ⚠️ Git push timed out after 60 seconds")
+                        print("[DEBUG] Push may still complete in background")
+                        print("[DEBUG] Check website in 3-5 minutes")
                 else:
                     print("[DEBUG] No changes to commit")
                     
@@ -4033,7 +4044,7 @@ class App:
         # Show quit confirmation message above LOGGING text
         if self.quit_confirm_active:
             quit_msg = "TAP AGAIN TO QUIT"
-            quit_surf = self.font_small.render(quit_msg, True, (255, 100, 100))
+            quit_surf = self.fontS.render(quit_msg, True, (255, 100, 100))
             self.screen.blit(quit_surf, (PANEL_MARGIN, status_y - 25))
         
         # LED button at right side of status bar
