@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-04T20:00:11_cracked_earth_speaking",
+    "title": "Cracked Earth Speaking",
+    "date": "2026-04-04T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/04/cracked_earth_speaking/20260404_32pt_poem_cracked_earth_speaking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/04/cracked_earth_speaking/20260404_30pt_footnote_cracked_earth_speaking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/04/cracked_earth_speaking/20260404_prompt_cracked_earth_speaking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-03T20:00:11_waiting_period",
     "title": "Waiting Period",
     "date": "2026-04-03T20:00:11",
