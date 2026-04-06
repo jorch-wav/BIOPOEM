@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-06T14:08:42_holding_the_line",
+    "title": "Holding The Line",
+    "date": "2026-04-06T14:08:42",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/06/holding_the_line/20260406_32pt_poem_holding_the_line_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/06/holding_the_line/20260406_24pt_footnote_holding_the_line_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/06/holding_the_line/20260406_prompt_holding_the_line_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-06T13:50:50_what_continues_anyway",
     "title": "What Continues Anyway",
     "date": "2026-04-06T13:50:50",
