@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-06T12:18:51_holding_on",
+    "title": "Holding On",
+    "date": "2026-04-06T12:18:51",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/06/holding_on_visual/20260406_32pt_poem_holding_on_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/06/holding_on_visual/20260406_28pt_footnote_holding_on_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/06/holding_on_visual/20260406_prompt_holding_on_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-06T12:14:11_rationing_light",
     "title": "Rationing Light",
     "date": "2026-04-06T12:14:11",
