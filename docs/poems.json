@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-06T12:12:01_rationing_season",
+    "title": "Rationing Season",
+    "date": "2026-04-06T12:12:01",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/06/rationing_season/20260406_32pt_poem_rationing_season_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/06/rationing_season/20260406_24pt_footnote_rationing_season_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/06/rationing_season/20260406_prompt_rationing_season_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-06T12:10:35_low_enough",
     "title": "Low Enough",
     "date": "2026-04-06T12:10:35",
