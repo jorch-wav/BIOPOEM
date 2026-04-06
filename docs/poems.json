@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-06T12:29:17_what_remains_when_nothing_comes",
+    "title": "What Remains When Nothing Comes",
+    "date": "2026-04-06T12:29:17",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_32pt_poem_what_remains_when_nothing_comes_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_30pt_footnote_what_remains_when_nothing_comes_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_prompt_what_remains_when_nothing_comes_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-06T12:24:47_rationing_light",
     "title": "Rationing Light",
     "date": "2026-04-06T12:24:47",
