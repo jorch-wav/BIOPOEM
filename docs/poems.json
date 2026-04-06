@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-06T13:48:38_inventory_while_rationing",
+    "title": "Inventory While Rationing",
+    "date": "2026-04-06T13:48:38",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/06/inventory_while_rationing/20260406_32pt_poem_inventory_while_rationing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/06/inventory_while_rationing/20260406_28pt_footnote_inventory_while_rationing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/06/inventory_while_rationing/20260406_prompt_inventory_while_rationing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-06T12:29:17_what_remains_when_nothing_comes",
     "title": "What Remains When Nothing Comes",
     "date": "2026-04-06T12:29:17",
