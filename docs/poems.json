@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-07T20:14:53_seven_days_enough",
+    "title": "Seven Days Enough",
+    "date": "2026-04-07T20:14:53",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/07/seven_days_enough/20260407_32pt_poem_seven_days_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/07/seven_days_enough/20260407_28pt_footnote_seven_days_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/07/seven_days_enough/20260407_prompt_seven_days_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-07T20:00:13_seven_days_the_same",
     "title": "Seven Days The Same",
     "date": "2026-04-07T20:00:13",
