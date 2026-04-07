@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-08T07:23:28_equilibrium_days",
+    "title": "Equilibrium Days",
+    "date": "2026-04-08T07:23:28",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/08/equilibrium_days/20260408_32pt_poem_equilibrium_days_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/08/equilibrium_days/20260408_28pt_footnote_equilibrium_days_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/08/equilibrium_days/20260408_prompt_equilibrium_days_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-07T20:14:53_seven_days_enough",
     "title": "Seven Days Enough",
     "date": "2026-04-07T20:14:53",
