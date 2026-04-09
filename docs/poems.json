@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-09T20:00:10_seven_quiet_days",
+    "title": "Seven Quiet Days",
+    "date": "2026-04-09T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/09/seven_quiet_days_visual/20260409_32pt_poem_seven_quiet_days_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/09/seven_quiet_days_visual/20260409_30pt_footnote_seven_quiet_days_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/09/seven_quiet_days_visual/20260409_prompt_seven_quiet_days_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-08T07:23:28_equilibrium_days",
     "title": "Equilibrium Days",
     "date": "2026-04-08T07:23:28",
