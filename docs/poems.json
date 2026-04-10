@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-10T20:00:13_adequate",
+    "title": "Adequate",
+    "date": "2026-04-10T20:00:13",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/10/adequate/20260410_32pt_poem_adequate_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/10/adequate/20260410_24pt_footnote_adequate_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/10/adequate/20260410_prompt_adequate_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-09T20:00:10_seven_quiet_days",
     "title": "Seven Quiet Days",
     "date": "2026-04-09T20:00:10",
