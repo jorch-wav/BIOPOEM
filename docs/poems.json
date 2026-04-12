@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-12T20:00:07_holding_pattern",
+    "title": "Holding Pattern",
+    "date": "2026-04-12T20:00:07",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/12/holding_pattern/20260412_32pt_poem_holding_pattern_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/12/holding_pattern/20260412_32pt_footnote_holding_pattern_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/12/holding_pattern/20260412_prompt_holding_pattern_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-11T20:00:08_enough_to_stay",
     "title": "Enough To Stay",
     "date": "2026-04-11T20:00:08",
