@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-13T20:00:07_enough_not_enough",
+    "title": "Enough Not Enough",
+    "date": "2026-04-13T20:00:07",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/13/enough_not_enough_visual/20260413_32pt_poem_enough_not_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/13/enough_not_enough_visual/20260413_28pt_footnote_enough_not_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/13/enough_not_enough_visual/20260413_prompt_enough_not_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-12T20:00:07_holding_pattern",
     "title": "Holding Pattern",
     "date": "2026-04-12T20:00:07",
