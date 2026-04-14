@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-14T20:00:14_equilibrium",
+    "title": "Equilibrium",
+    "date": "2026-04-14T20:00:14",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/14/equilibrium/20260414_32pt_poem_equilibrium_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/14/equilibrium/20260414_32pt_footnote_equilibrium_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/14/equilibrium/20260414_prompt_equilibrium_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-14T17:32:00_enough_for_now",
     "title": "Enough For Now",
     "date": "2026-04-14T17:32:00",
