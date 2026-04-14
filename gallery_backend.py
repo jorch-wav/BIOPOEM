@@ -353,6 +353,7 @@ def export_csv():
     try:
         import csv
         from io import StringIO
+        import re
         
         # Read poem_generations.csv
         csv_path = '/home/biopoem/poem_generations.csv'
@@ -361,6 +362,17 @@ def export_csv():
                 'success': False,
                 'error': 'poem_generations.csv not found'
             }), 404
+        
+        # Load poems.json to get correct poem IDs
+        poems_json_path = '/home/biopoem/docs/poems.json'
+        title_to_id = {}
+        if os.path.exists(poems_json_path):
+            with open(poems_json_path, 'r') as f:
+                poems_list = json.load(f)
+                for poem in poems_list:
+                    # Normalize title for matching (case-insensitive)
+                    title = poem.get('title', '').strip().lower()
+                    title_to_id[title] = poem.get('id', '')
         
         # Get all ratings from database
         conn = get_db()
@@ -383,13 +395,16 @@ def export_csv():
             writer.writeheader()
             
             for row in reader:
-                # Generate poem_id matching the format used in database
-                # Format: YYYY-MM-DDTHH:MM:SS_title_slug
-                import re
-                timestamp = row.get('timestamp', '')[:19]  # Truncate to seconds
-                title = row.get('poem_title', '')
-                title_slug = re.sub(r'[^a-z0-9]+', '_', title.lower()).strip('_')
-                poem_id = f"{timestamp}_{title_slug}"
+                title = row.get('poem_title', '').strip()
+                
+                # Try to get poem_id from poems.json mapping (case-insensitive)
+                poem_id = title_to_id.get(title.lower())
+                
+                # Fallback: generate ID from timestamp and title
+                if not poem_id:
+                    timestamp = row.get('timestamp', '')[:19]  # Truncate to seconds
+                    title_slug = re.sub(r'[^a-z0-9]+', '_', title.lower()).strip('_')
+                    poem_id = f"{timestamp}_{title_slug}"
                 
                 # Add ratings
                 ratings = ratings_dict.get(poem_id, {'likes': 0, 'dislikes': 0})
