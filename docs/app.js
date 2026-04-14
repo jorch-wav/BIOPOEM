@@ -103,11 +103,17 @@ class BioPoem {
         let filteredPoems;
         if (this.currentFilter === 'all') {
             filteredPoems = this.poems;
-        } else if (this.currentFilter === 'rated') {
-            // Show only poems with ratings
+        } else if (this.currentFilter === 'liked') {
+            // Show only poems with thumbs up
             filteredPoems = this.poems.filter(p => {
                 const rating = this.ratings[p.id];
-                return rating && (rating.likes > 0 || rating.dislikes > 0);
+                return rating && rating.likes > 0;
+            });
+        } else if (this.currentFilter === 'disliked') {
+            // Show only poems with thumbs down
+            filteredPoems = this.poems.filter(p => {
+                const rating = this.ratings[p.id];
+                return rating && rating.dislikes > 0;
             });
         } else {
             filteredPoems = this.poems.filter(p => p.theme === this.currentFilter);
@@ -733,6 +739,54 @@ class BioPoem {
             analyzeBtn.disabled = false;
             analyzeBtn.textContent = '📊 Analyze Feedback';
         });
+        
+        // Export CSV button handler
+        const exportBtn = document.getElementById('export-btn');
+        if (exportBtn) {
+            exportBtn.addEventListener('click', async () => {
+                exportBtn.disabled = true;
+                exportBtn.textContent = '⏳ Generating CSV...';
+                
+                try {
+                    const response = await fetch(`${this.apiUrl}/export-csv`);
+                    
+                    if (!response.ok) {
+                        throw new Error('Export failed');
+                    }
+                    
+                    // Get the blob and create download link
+                    const blob = await response.blob();
+                    const url = window.URL.createObjectURL(blob);
+                    const a = document.createElement('a');
+                    a.href = url;
+                    
+                    // Extract filename from response headers or use default
+                    const contentDisposition = response.headers.get('Content-Disposition');
+                    const filename = contentDisposition
+                        ? contentDisposition.split('filename=')[1].replace(/"/g, '')
+                        : `biopoem_export_${new Date().toISOString().split('T')[0]}.csv`;
+                    
+                    a.download = filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    window.URL.revokeObjectURL(url);
+                    document.body.removeChild(a);
+                    
+                    exportBtn.textContent = '✅ Downloaded!';
+                    setTimeout(() => {
+                        exportBtn.textContent = '💾 Download Complete CSV';
+                        exportBtn.disabled = false;
+                    }, 2000);
+                } catch (error) {
+                    console.error('Export error:', error);
+                    exportBtn.textContent = '❌ Export failed';
+                    setTimeout(() => {
+                        exportBtn.textContent = '💾 Download Complete CSV';
+                        exportBtn.disabled = false;
+                    }, 2000);
+                }
+            });
+        }
     }
     
     escapeHtml(text) {

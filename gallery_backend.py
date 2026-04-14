@@ -344,6 +344,74 @@ def trigger_analysis():
             'error': str(e)
         }), 500
 
+@app.route('/api/export-csv', methods=['GET'])
+def export_csv():
+    """
+    Export all poems with sensor data and ratings as CSV
+    Combines poem_generations.csv with ratings from database
+    """
+    try:
+        import csv
+        from io import StringIO
+        
+        # Read poem_generations.csv
+        csv_path = '/home/biopoem/poem_generations.csv'
+        if not os.path.exists(csv_path):
+            return jsonify({
+                'success': False,
+                'error': 'poem_generations.csv not found'
+            }), 404
+        
+        # Get all ratings from database
+        conn = get_db()
+        cursor = conn.cursor()
+        cursor.execute('SELECT poem_id, likes, dislikes FROM ratings')
+        ratings_dict = {row['poem_id']: {'likes': row['likes'], 'dislikes': row['dislikes']} 
+                       for row in cursor.fetchall()}
+        
+        # Get all comments from database
+        cursor.execute('SELECT poem_id, GROUP_CONCAT(text, " | ") as comments FROM comments GROUP BY poem_id')
+        comments_dict = {row['poem_id']: row['comments'] for row in cursor.fetchall()}
+        conn.close()
+        
+        # Read original CSV and add rating columns
+        output = StringIO()
+        with open(csv_path, 'r', encoding='utf-8') as f:
+            reader = csv.DictReader(f)
+            fieldnames = reader.fieldnames + ['likes', 'dislikes', 'comments']
+            writer = csv.DictWriter(output, fieldnames=fieldnames)
+            writer.writeheader()
+            
+            for row in reader:
+                # Extract poem_id from timestamp or use title
+                poem_id = row.get('poem_title', '').lower().replace(' ', '_')
+                
+                # Add ratings
+                ratings = ratings_dict.get(poem_id, {'likes': 0, 'dislikes': 0})
+                row['likes'] = ratings['likes']
+                row['dislikes'] = ratings['dislikes']
+                row['comments'] = comments_dict.get(poem_id, '')
+                
+                writer.writerow(row)
+        
+        # Return CSV as downloadable file
+        from flask import Response
+        csv_data = output.getvalue()
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        filename = f'biopoem_complete_export_{timestamp}.csv'
+        
+        return Response(
+            csv_data,
+            mimetype='text/csv',
+            headers={'Content-Disposition': f'attachment; filename={filename}'}
+        )
+        
+    except Exception as e:
+        return jsonify({
+            'success': False,
+            'error': str(e)
+        }), 500
+
 if __name__ == '__main__':
     print("=" * 60)
     print("BioPoem Gallery Backend")
@@ -365,6 +433,7 @@ if __name__ == '__main__':
     print("  GET  /api/user-rating/<user_id>/<poem_id>")
     print("  GET  /api/stats")
     print("  POST /api/analyze-feedback  [Admin: Trigger AI feedback analysis]")
+    print("  GET  /api/export-csv  [Export all poems + sensor data + ratings as CSV]")
     print("\nListening on http://0.0.0.0:5000")
     print("Press Ctrl+C to stop")
     print("=" * 60)
