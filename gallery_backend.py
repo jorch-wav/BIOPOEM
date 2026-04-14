@@ -383,8 +383,13 @@ def export_csv():
             writer.writeheader()
             
             for row in reader:
-                # Extract poem_id from timestamp or use title
-                poem_id = row.get('poem_title', '').lower().replace(' ', '_')
+                # Generate poem_id matching the format used in database
+                # Format: YYYY-MM-DDTHH:MM:SS_title_slug
+                import re
+                timestamp = row.get('timestamp', '')[:19]  # Truncate to seconds
+                title = row.get('poem_title', '')
+                title_slug = re.sub(r'[^a-z0-9]+', '_', title.lower()).strip('_')
+                poem_id = f"{timestamp}_{title_slug}"
                 
                 # Add ratings
                 ratings = ratings_dict.get(poem_id, {'likes': 0, 'dislikes': 0})
