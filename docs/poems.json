@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-14T17:32:00_enough_for_now",
+    "title": "Enough For Now",
+    "date": "2026-04-14T17:32:00",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/14/enough_for_now/20260414_32pt_poem_enough_for_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/14/enough_for_now/20260414_30pt_footnote_enough_for_now_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/14/enough_for_now/20260414_prompt_enough_for_now_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-13T20:00:07_enough_not_enough",
     "title": "Enough Not Enough",
     "date": "2026-04-13T20:00:07",
