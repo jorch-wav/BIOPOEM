@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-15T20:00:10_being_without_event",
+    "title": "Being Without Event",
+    "date": "2026-04-15T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/15/being_without_event/20260415_32pt_poem_being_without_event_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/15/being_without_event/20260415_32pt_footnote_being_without_event_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/15/being_without_event/20260415_prompt_being_without_event_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-14T20:00:14_equilibrium",
     "title": "Equilibrium",
     "date": "2026-04-14T20:00:14",
