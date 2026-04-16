@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-16T20:00:11_the_weeklong_yes",
+    "title": "The Weeklong Yes",
+    "date": "2026-04-16T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/16/the_weeklong_yes/20260416_32pt_poem_the_weeklong_yes_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/16/the_weeklong_yes/20260416_30pt_footnote_the_weeklong_yes_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/16/the_weeklong_yes/20260416_prompt_the_weeklong_yes_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-15T20:00:10_being_without_event",
     "title": "Being Without Event",
     "date": "2026-04-15T20:00:10",
