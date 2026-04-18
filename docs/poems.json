@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-18T20:00:15_maintenance",
+    "title": "Maintenance",
+    "date": "2026-04-18T20:00:15",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/18/maintenance/20260418_32pt_poem_maintenance_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/18/maintenance/20260418_30pt_footnote_maintenance_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/18/maintenance/20260418_prompt_maintenance_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-17T20:00:14_sufficient_light",
     "title": "Sufficient Light",
     "date": "2026-04-17T20:00:14",
