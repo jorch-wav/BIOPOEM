@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-19T20:00:07_enough_light_enough",
+    "title": "Enough Light Enough",
+    "date": "2026-04-19T20:00:07",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/19/enough_light_enough_visual/20260419_32pt_poem_enough_light_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/19/enough_light_enough_visual/20260419_32pt_footnote_enough_light_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/19/enough_light_enough_visual/20260419_prompt_enough_light_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-18T20:00:15_maintenance",
     "title": "Maintenance",
     "date": "2026-04-18T20:00:15",
