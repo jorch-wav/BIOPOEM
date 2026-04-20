@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-20T20:00:11_seven_days_without_drama",
+    "title": "Seven Days Without Drama",
+    "date": "2026-04-20T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/20/seven_days_without_drama/20260420_32pt_poem_seven_days_without_drama_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/20/seven_days_without_drama/20260420_32pt_footnote_seven_days_without_drama_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/20/seven_days_without_drama/20260420_prompt_seven_days_without_drama_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-19T20:00:07_enough_light_enough",
     "title": "Enough Light Enough",
     "date": "2026-04-19T20:00:07",
