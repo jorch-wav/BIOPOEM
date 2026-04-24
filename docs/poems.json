@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-24T20:00:13_seven_days_the_same",
+    "title": "Seven Days The Same",
+    "date": "2026-04-24T20:00:13",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/24/seven_days_the_same/20260424_32pt_poem_seven_days_the_same_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/24/seven_days_the_same/20260424_30pt_footnote_seven_days_the_same_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/24/seven_days_the_same/20260424_prompt_seven_days_the_same_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-23T20:00:07_enough_light_enough",
     "title": "Enough Light Enough",
     "date": "2026-04-23T20:00:07",
