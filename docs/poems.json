@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-25T20:00:11_sufficient_light",
+    "title": "Sufficient Light",
+    "date": "2026-04-25T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/25/sufficient_light/20260425_32pt_poem_sufficient_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/25/sufficient_light/20260425_30pt_footnote_sufficient_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/25/sufficient_light/20260425_prompt_sufficient_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-24T20:00:13_seven_days_the_same",
     "title": "Seven Days The Same",
     "date": "2026-04-24T20:00:13",
