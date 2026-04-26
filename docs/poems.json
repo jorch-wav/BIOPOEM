@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-26T20:00:11_the_unvisited_room",
+    "title": "The Unvisited Room",
+    "date": "2026-04-26T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/26/the_unvisited_room/20260426_32pt_poem_the_unvisited_room_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/26/the_unvisited_room/20260426_32pt_footnote_the_unvisited_room_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/26/the_unvisited_room/20260426_prompt_the_unvisited_room_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-25T20:00:11_sufficient_light",
     "title": "Sufficient Light",
     "date": "2026-04-25T20:00:11",
