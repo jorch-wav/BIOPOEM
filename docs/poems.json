@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-04-27T20:00:07_seven_unremarkable_days",
+    "title": "Seven Unremarkable Days",
+    "date": "2026-04-27T20:00:07",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/apr/27/seven_unremarkable_days/20260427_32pt_poem_seven_unremarkable_days_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/apr/27/seven_unremarkable_days/20260427_24pt_footnote_seven_unremarkable_days_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/apr/27/seven_unremarkable_days/20260427_prompt_seven_unremarkable_days_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-04-26T20:00:11_the_unvisited_room",
     "title": "The Unvisited Room",
     "date": "2026-04-26T20:00:11",
