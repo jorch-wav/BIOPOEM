@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-11T20:00:09_enough_enough_enough",
+    "title": "Enough Enough Enough",
+    "date": "2026-05-11T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/11/enough_enough_enough_visual/20260511_32pt_poem_enough_enough_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/11/enough_enough_enough_visual/20260511_24pt_footnote_enough_enough_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/11/enough_enough_enough_visual/20260511_prompt_enough_enough_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-10T20:00:07_enough_enough_enough",
     "title": "Enough Enough Enough",
     "date": "2026-05-10T20:00:07",
