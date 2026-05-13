@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-13T20:00:08_bare_branch_season",
+    "title": "Bare Branch Season",
+    "date": "2026-05-13T20:00:08",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/13/bare_branch_season/20260513_32pt_poem_bare_branch_season_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/13/bare_branch_season/20260513_24pt_footnote_bare_branch_season_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/13/bare_branch_season/20260513_prompt_bare_branch_season_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-12T20:00:15_enough_to_keep_going",
     "title": "Enough To Keep Going",
     "date": "2026-05-12T20:00:15",
