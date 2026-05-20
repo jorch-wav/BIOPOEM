@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-20T10:41:32_after_thirst",
+    "title": "After Thirst",
+    "date": "2026-05-20T10:41:32",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/may/20/after_thirst/20260520_32pt_poem_after_thirst_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/20/after_thirst/20260520_24pt_footnote_after_thirst_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/20/after_thirst/20260520_prompt_after_thirst_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-20T10:37:56_what_seven_days_of_being_soaked_will_do",
     "title": "What Seven Days Of Being Soaked Will Do",
     "date": "2026-05-20T10:37:56",
