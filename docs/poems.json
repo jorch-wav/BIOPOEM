@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-20T11:24:25_function_for_late_autumn",
+    "title": "Function For Late Autumn",
+    "date": "2026-05-20T11:24:25",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/20/function_for_late_autumn/20260520_32pt_poem_function_for_late_autumn_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/20/function_for_late_autumn/20260520_28pt_footnote_function_for_late_autumn_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/20/function_for_late_autumn/20260520_prompt_function_for_late_autumn_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-20T11:22:25_sustained",
     "title": "Sustained",
     "date": "2026-05-20T11:22:25",
