@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-20T10:17:39_the_corridor_narrows",
+    "title": "The Corridor Narrows",
+    "date": "2026-05-20T10:17:39",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/20/the_corridor_narrows_visual/20260520_32pt_poem_the_corridor_narrows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/20/the_corridor_narrows_visual/20260520_24pt_footnote_the_corridor_narrows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/20/the_corridor_narrows_visual/20260520_prompt_the_corridor_narrows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-20T10:16:02_what_the_rain_already_knew",
     "title": "What The Rain Already Knew",
     "date": "2026-05-20T10:16:02",
