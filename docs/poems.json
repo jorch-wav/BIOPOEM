@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-20T10:24:35_what_holds_without_spilling",
+    "title": "What Holds Without Spilling",
+    "date": "2026-05-20T10:24:35",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/20/what_holds_without_spilling/20260520_32pt_poem_what_holds_without_spilling_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/20/what_holds_without_spilling/20260520_30pt_footnote_what_holds_without_spilling_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/20/what_holds_without_spilling/20260520_prompt_what_holds_without_spilling_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-20T10:17:39_the_corridor_narrows",
     "title": "The Corridor Narrows",
     "date": "2026-05-20T10:17:39",
