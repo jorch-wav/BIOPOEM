@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-22T08:35:49_waiting_without_weight",
+    "title": "Waiting Without Weight",
+    "date": "2026-05-22T08:35:49",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/22/waiting_without_weight_visual/20260522_32pt_poem_waiting_without_weight_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/22/waiting_without_weight_visual/20260522_24pt_footnote_waiting_without_weight_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/22/waiting_without_weight_visual/20260522_prompt_waiting_without_weight_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-21T23:37:30_the_garden_of_forking_hours",
     "title": "The Garden Of Forking Hours",
     "date": "2026-05-21T23:37:30",
