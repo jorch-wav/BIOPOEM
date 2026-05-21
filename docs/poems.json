@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-21T17:27:59_holding_whats_left",
+    "title": "Holding Whats Left",
+    "date": "2026-05-21T17:27:59",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/21/holding_whats_left/20260521_32pt_poem_holding_whats_left_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/21/holding_whats_left/20260521_32pt_footnote_holding_whats_left_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/21/holding_whats_left/20260521_prompt_holding_whats_left_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-20T20:00:20_holding_without_hunger",
     "title": "Holding Without Hunger",
     "date": "2026-05-20T20:00:20",
