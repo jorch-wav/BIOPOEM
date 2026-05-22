@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-22T14:04:09_the_steady_light",
+    "title": "The Steady Light",
+    "date": "2026-05-22T14:04:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/22/the_steady_light_visual/20260522_32pt_poem_the_steady_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/22/the_steady_light_visual/20260522_32pt_footnote_the_steady_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/22/the_steady_light_visual/20260522_prompt_the_steady_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-22T14:03:15_lean_season",
     "title": "Lean Season",
     "date": "2026-05-22T14:03:15",
