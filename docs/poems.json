@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-24T18:57:36_the_infinite_library",
+    "title": "The Infinite Library",
+    "date": "2026-05-24T18:57:36",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/24/the_infinite_library_visual/20260524_32pt_poem_the_infinite_library_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/24/the_infinite_library_visual/20260524_28pt_footnote_the_infinite_library_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/24/the_infinite_library_visual/20260524_prompt_the_infinite_library_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-24T18:35:39_what_doesnt_need_asking_for",
     "title": "What Doesnt Need Asking For",
     "date": "2026-05-24T18:35:39",
