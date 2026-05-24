@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-24T20:17:43_waiting_without_want",
+    "title": "Waiting Without Want",
+    "date": "2026-05-24T20:17:43",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/may/24/waiting_without_want/20260524_32pt_poem_waiting_without_want_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/24/waiting_without_want/20260524_28pt_footnote_waiting_without_want_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/24/waiting_without_want/20260524_prompt_waiting_without_want_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-24T20:00:23_enough_light_enough",
     "title": "Enough Light Enough",
     "date": "2026-05-24T20:00:23",
