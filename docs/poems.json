@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-24T16:57:36_what_i_tell_you_about_comfort",
+    "title": "What I Tell You About Comfort",
+    "date": "2026-05-24T16:57:36",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/24/what_i_tell_you_about_comfort/20260524_32pt_poem_what_i_tell_you_about_comfort_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/24/what_i_tell_you_about_comfort/20260524_24pt_footnote_what_i_tell_you_about_comfort_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/24/what_i_tell_you_about_comfort/20260524_prompt_what_i_tell_you_about_comfort_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-22T14:08:04_lean_season",
     "title": "Lean Season",
     "date": "2026-05-22T14:08:04",
