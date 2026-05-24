@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-24T18:11:25_enough_light_now",
+    "title": "Enough Light Now",
+    "date": "2026-05-24T18:11:25",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/24/enough_light_now_visual/20260524_32pt_poem_enough_light_now_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/24/enough_light_now_visual/20260524_30pt_footnote_enough_light_now_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/24/enough_light_now_visual/20260524_prompt_enough_light_now_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-24T16:58:35_between_what_falls_and_what_remains",
     "title": "Between What Falls And What Remains",
     "date": "2026-05-24T16:58:35",
