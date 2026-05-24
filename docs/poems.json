@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-24T18:26:31_what_stays",
+    "title": "What Stays",
+    "date": "2026-05-24T18:26:31",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/24/what_stays/20260524_32pt_poem_what_stays_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/24/what_stays/20260524_32pt_footnote_what_stays_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/24/what_stays/20260524_prompt_what_stays_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-24T18:11:25_enough_light_now",
     "title": "Enough Light Now",
     "date": "2026-05-24T18:11:25",
