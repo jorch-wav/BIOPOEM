@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-25T13:37:06_what_stays_level",
+    "title": "What Stays Level",
+    "date": "2026-05-25T13:37:06",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/25/what_stays_level/20260525_32pt_poem_what_stays_level_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/25/what_stays_level/20260525_30pt_footnote_what_stays_level_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/25/what_stays_level/20260525_prompt_what_stays_level_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-24T22:26:59_enough_light_remains",
     "title": "Enough Light Remains",
     "date": "2026-05-24T22:26:59",
