@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-25T20:00:21_enough_and_enough",
+    "title": "Enough And Enough",
+    "date": "2026-05-25T20:00:21",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/25/enough_and_enough_visual/20260525_32pt_poem_enough_and_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/25/enough_and_enough_visual/20260525_32pt_footnote_enough_and_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/25/enough_and_enough_visual/20260525_prompt_enough_and_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-25T14:16:42_roots_in_balance",
     "title": "Roots In Balance",
     "date": "2026-05-25T14:16:42",
