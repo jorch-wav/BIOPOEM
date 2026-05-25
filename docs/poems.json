@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-05-25T14:16:42_roots_in_balance",
+    "title": "Roots In Balance",
+    "date": "2026-05-25T14:16:42",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/may/25/roots_in_balance/20260525_32pt_poem_roots_in_balance_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/may/25/roots_in_balance/20260525_30pt_footnote_roots_in_balance_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/may/25/roots_in_balance/20260525_prompt_roots_in_balance_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-25T13:37:06_what_stays_level",
     "title": "What Stays Level",
     "date": "2026-05-25T13:37:06",
