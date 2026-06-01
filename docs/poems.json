@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-01T20:00:08_between_the_drinking",
+    "title": "Between The Drinking",
+    "date": "2026-06-01T20:00:08",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/01/between_the_drinking_visual/20260601_32pt_poem_between_the_drinking_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/01/between_the_drinking_visual/20260601_24pt_footnote_between_the_drinking_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/01/between_the_drinking_visual/20260601_prompt_between_the_drinking_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-05-31T21:15:43_inventory_of_empty",
     "title": "Inventory Of Empty",
     "date": "2026-05-31T21:15:43",
