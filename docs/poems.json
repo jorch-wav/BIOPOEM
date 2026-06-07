@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-07T20:00:09_waiting_for_weather",
+    "title": "Waiting For Weather",
+    "date": "2026-06-07T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/07/waiting_for_weather_visual/20260607_32pt_poem_waiting_for_weather_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/07/waiting_for_weather_visual/20260607_28pt_footnote_waiting_for_weather_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/07/waiting_for_weather_visual/20260607_prompt_waiting_for_weather_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-06T20:00:08_parched_ground_speaking",
     "title": "Parched Ground Speaking",
     "date": "2026-06-06T20:00:08",
