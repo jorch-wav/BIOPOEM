@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-12T20:00:09_wait_and_wait",
+    "title": "Wait And Wait",
+    "date": "2026-06-12T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/12/wait_and_wait_visual/20260612_32pt_poem_wait_and_wait_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/12/wait_and_wait_visual/20260612_28pt_footnote_wait_and_wait_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/12/wait_and_wait_visual/20260612_prompt_wait_and_wait_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-11T20:00:09_waiting_for_rain",
     "title": "Waiting For Rain",
     "date": "2026-06-11T20:00:09",
