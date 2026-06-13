@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-13T20:00:11_wanting_and_wanting",
+    "title": "Wanting And Wanting",
+    "date": "2026-06-13T20:00:11",
+    "theme": "thirsting",
+    "influence": "unknown",
+    "image": "images/2026/jun/13/wanting_and_wanting_visual/20260613_32pt_poem_wanting_and_wanting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/13/wanting_and_wanting_visual/20260613_30pt_footnote_wanting_and_wanting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/13/wanting_and_wanting_visual/20260613_prompt_wanting_and_wanting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-12T20:00:09_wait_and_wait",
     "title": "Wait And Wait",
     "date": "2026-06-12T20:00:09",
