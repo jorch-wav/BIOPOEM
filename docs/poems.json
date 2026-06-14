@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-14T20:00:09_between_rain_events",
+    "title": "Between Rain Events",
+    "date": "2026-06-14T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/14/between_rain_events_visual/20260614_32pt_poem_between_rain_events_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/14/between_rain_events_visual/20260614_32pt_footnote_between_rain_events_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/14/between_rain_events_visual/20260614_prompt_between_rain_events_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-13T20:00:11_wanting_and_wanting",
     "title": "Wanting And Wanting",
     "date": "2026-06-13T20:00:11",
