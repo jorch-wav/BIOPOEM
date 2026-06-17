@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-17T20:00:17_enough_to_go_on",
+    "title": "Enough To Go On",
+    "date": "2026-06-17T20:00:17",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/17/enough_to_go_on_visual/20260617_32pt_poem_enough_to_go_on_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/17/enough_to_go_on_visual/20260617_28pt_footnote_enough_to_go_on_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/17/enough_to_go_on_visual/20260617_prompt_enough_to_go_on_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-16T20:00:10_waiting_for_nothing",
     "title": "Waiting For Nothing",
     "date": "2026-06-16T20:00:10",
