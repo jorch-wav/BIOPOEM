@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-24T20:00:14_wait",
+    "title": "Wait",
+    "date": "2026-06-24T20:00:14",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/24/wait_visual/20260624_32pt_poem_wait_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/24/wait_visual/20260624_28pt_footnote_wait_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/24/wait_visual/20260624_prompt_wait_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-23T20:00:19_enough_distance_now",
     "title": "Enough Distance Now",
     "date": "2026-06-23T20:00:19",
