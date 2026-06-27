@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-27T20:00:15_between_stones_light",
+    "title": "Between Stones Light",
+    "date": "2026-06-27T20:00:15",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/27/between_stones_light_visual/20260627_32pt_poem_between_stones_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/27/between_stones_light_visual/20260627_30pt_footnote_between_stones_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/27/between_stones_light_visual/20260627_prompt_between_stones_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-26T20:00:20_enough_light_remains",
     "title": "Enough Light Remains",
     "date": "2026-06-26T20:00:20",
