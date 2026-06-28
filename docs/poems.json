@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-06-28T20:00:21_window_left_open",
+    "title": "Window Left Open",
+    "date": "2026-06-28T20:00:21",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jun/28/window_left_open_visual/20260628_32pt_poem_window_left_open_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jun/28/window_left_open_visual/20260628_30pt_footnote_window_left_open_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jun/28/window_left_open_visual/20260628_prompt_window_left_open_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-06-27T20:00:15_between_stones_light",
     "title": "Between Stones Light",
     "date": "2026-06-27T20:00:15",
