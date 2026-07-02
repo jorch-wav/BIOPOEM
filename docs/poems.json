@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-02T20:00:10_labyrinth_of_absence",
+    "title": "Labyrinth Of Absence",
+    "date": "2026-07-02T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_32pt_poem_labyrinth_of_absence_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_28pt_footnote_labyrinth_of_absence_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_prompt_labyrinth_of_absence_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-01T20:00:10_waiting_becomes_water",
     "title": "Waiting Becomes Water",
     "date": "2026-07-01T20:00:10",
