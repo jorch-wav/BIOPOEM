@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-06T20:00:09_the_background_hum",
+    "title": "The Background Hum",
+    "date": "2026-07-06T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/06/the_background_hum_visual/20260706_32pt_poem_the_background_hum_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/06/the_background_hum_visual/20260706_30pt_footnote_the_background_hum_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/06/the_background_hum_visual/20260706_prompt_the_background_hum_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-05T20:00:09_waiting_without_asking",
     "title": "Waiting Without Asking",
     "date": "2026-07-05T20:00:09",
