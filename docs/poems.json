@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-07T20:00:11_waiting_in_mineral_time",
+    "title": "Waiting In Mineral Time",
+    "date": "2026-07-07T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_32pt_poem_waiting_in_mineral_time_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_30pt_footnote_waiting_in_mineral_time_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_prompt_waiting_in_mineral_time_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-06T20:00:09_the_background_hum",
     "title": "The Background Hum",
     "date": "2026-07-06T20:00:09",
