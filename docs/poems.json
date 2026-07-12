@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-12T20:00:09_interior_alphabet",
+    "title": "Interior Alphabet",
+    "date": "2026-07-12T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/12/interior_alphabet_visual/20260712_32pt_poem_interior_alphabet_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/12/interior_alphabet_visual/20260712_32pt_footnote_interior_alphabet_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/12/interior_alphabet_visual/20260712_prompt_interior_alphabet_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-11T20:00:09_what_the_roots_know",
     "title": "What The Roots Know",
     "date": "2026-07-11T20:00:09",
