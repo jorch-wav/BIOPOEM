@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-17T20:00:10_waiting_without_water",
+    "title": "Waiting Without Water",
+    "date": "2026-07-17T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/17/waiting_without_water_visual/20260717_32pt_poem_waiting_without_water_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/17/waiting_without_water_visual/20260717_24pt_footnote_waiting_without_water_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/17/waiting_without_water_visual/20260717_prompt_waiting_without_water_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-16T20:00:11_waiting_without_rain",
     "title": "Waiting Without Rain",
     "date": "2026-07-16T20:00:11",
