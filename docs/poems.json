@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-18T20:00:15_the_library_of_waiting",
+    "title": "The Library Of Waiting",
+    "date": "2026-07-18T20:00:15",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/18/the_library_of_waiting_visual/20260718_32pt_poem_the_library_of_waiting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/18/the_library_of_waiting_visual/20260718_30pt_footnote_the_library_of_waiting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/18/the_library_of_waiting_visual/20260718_prompt_the_library_of_waiting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-17T20:00:10_waiting_without_water",
     "title": "Waiting Without Water",
     "date": "2026-07-17T20:00:10",
