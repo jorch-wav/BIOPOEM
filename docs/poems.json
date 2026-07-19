@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-19T20:00:09_underneath",
+    "title": "Underneath",
+    "date": "2026-07-19T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/19/underneath_visual/20260719_32pt_poem_underneath_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/19/underneath_visual/20260719_32pt_footnote_underneath_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/19/underneath_visual/20260719_prompt_underneath_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-18T20:00:15_the_library_of_waiting",
     "title": "The Library Of Waiting",
     "date": "2026-07-18T20:00:15",
