@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-20T20:00:11_the_room_breathing",
+    "title": "The Room Breathing",
+    "date": "2026-07-20T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/20/the_room_breathing_visual/20260720_32pt_poem_the_room_breathing_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/20/the_room_breathing_visual/20260720_24pt_footnote_the_room_breathing_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/20/the_room_breathing_visual/20260720_prompt_the_room_breathing_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-19T20:00:09_underneath",
     "title": "Underneath",
     "date": "2026-07-19T20:00:09",
