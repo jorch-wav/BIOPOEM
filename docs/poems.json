@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-21T20:00:10_waiting_holds_weight",
+    "title": "Waiting Holds Weight",
+    "date": "2026-07-21T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/21/waiting_holds_weight_visual/20260721_32pt_poem_waiting_holds_weight_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/21/waiting_holds_weight_visual/20260721_24pt_footnote_waiting_holds_weight_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/21/waiting_holds_weight_visual/20260721_prompt_waiting_holds_weight_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-20T20:00:11_the_room_breathing",
     "title": "The Room Breathing",
     "date": "2026-07-20T20:00:11",
