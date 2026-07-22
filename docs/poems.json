@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-22T20:00:10_beneath_the_leaves_skin",
+    "title": "Beneath The Leaves Skin",
+    "date": "2026-07-22T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_32pt_poem_beneath_the_leaves_skin_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_28pt_footnote_beneath_the_leaves_skin_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_prompt_beneath_the_leaves_skin_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-21T20:00:10_waiting_holds_weight",
     "title": "Waiting Holds Weight",
     "date": "2026-07-21T20:00:10",
