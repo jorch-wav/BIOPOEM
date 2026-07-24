@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-24T20:00:09_what_doesnt_stop",
+    "title": "What Doesnt Stop",
+    "date": "2026-07-24T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/24/what_doesnt_stop_visual/20260724_32pt_poem_what_doesnt_stop_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/24/what_doesnt_stop_visual/20260724_30pt_footnote_what_doesnt_stop_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/24/what_doesnt_stop_visual/20260724_prompt_what_doesnt_stop_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-23T20:00:17_the_usual_winter",
     "title": "The Usual Winter",
     "date": "2026-07-23T20:00:17",
