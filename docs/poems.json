@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-26T20:00:10_two_kinds_of_full",
+    "title": "Two Kinds Of Full",
+    "date": "2026-07-26T20:00:10",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/jul/26/two_kinds_of_full_visual/20260726_32pt_poem_two_kinds_of_full_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/26/two_kinds_of_full_visual/20260726_30pt_footnote_two_kinds_of_full_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/26/two_kinds_of_full_visual/20260726_prompt_two_kinds_of_full_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-25T20:00:11_waiting_without_question",
     "title": "Waiting Without Question",
     "date": "2026-07-25T20:00:11",
