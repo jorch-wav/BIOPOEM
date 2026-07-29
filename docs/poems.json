@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-07-29T20:00:18_the_window_left_open",
+    "title": "The Window Left Open",
+    "date": "2026-07-29T20:00:18",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/jul/29/the_window_left_open_visual/20260729_32pt_poem_the_window_left_open_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/jul/29/the_window_left_open_visual/20260729_32pt_footnote_the_window_left_open_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/jul/29/the_window_left_open_visual/20260729_prompt_the_window_left_open_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-28T20:00:32_recursive_waiting",
     "title": "Recursive Waiting",
     "date": "2026-07-28T20:00:32",
