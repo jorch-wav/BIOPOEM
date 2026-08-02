@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-02T20:00:15_field_report_ordinary",
+    "title": "Field Report Ordinary",
+    "date": "2026-08-02T20:00:15",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/02/field_report_ordinary_visual/20260802_32pt_poem_field_report_ordinary_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/02/field_report_ordinary_visual/20260802_30pt_footnote_field_report_ordinary_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/02/field_report_ordinary_visual/20260802_prompt_field_report_ordinary_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-07-31T20:00:11_waiting_without_drama",
     "title": "Waiting Without Drama",
     "date": "2026-07-31T20:00:11",
