@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-05T20:00:11_cracked_waiting",
+    "title": "Cracked Waiting",
+    "date": "2026-08-05T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/05/cracked_waiting_visual/20260805_32pt_poem_cracked_waiting_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/05/cracked_waiting_visual/20260805_28pt_footnote_cracked_waiting_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/05/cracked_waiting_visual/20260805_prompt_cracked_waiting_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-04T20:00:10_beneath_the_waiting",
     "title": "Beneath The Waiting",
     "date": "2026-08-04T20:00:10",
