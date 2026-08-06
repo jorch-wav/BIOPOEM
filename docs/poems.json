@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-06T20:00:11_still_here_still",
+    "title": "Still Here Still",
+    "date": "2026-08-06T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/06/still_here_still_visual/20260806_32pt_poem_still_here_still_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/06/still_here_still_visual/20260806_24pt_footnote_still_here_still_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/06/still_here_still_visual/20260806_prompt_still_here_still_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-05T20:00:11_cracked_waiting",
     "title": "Cracked Waiting",
     "date": "2026-08-05T20:00:11",
