@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-07T20:00:09_waiting_for_rain",
+    "title": "Waiting For Rain",
+    "date": "2026-08-07T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/07/waiting_for_rain_visual/20260807_32pt_poem_waiting_for_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/07/waiting_for_rain_visual/20260807_28pt_footnote_waiting_for_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/07/waiting_for_rain_visual/20260807_prompt_waiting_for_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-06T20:00:11_still_here_still",
     "title": "Still Here Still",
     "date": "2026-08-06T20:00:11",
