@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-13T20:00:11_waiting_in_intervals",
+    "title": "Waiting In Intervals",
+    "date": "2026-08-13T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/13/waiting_in_intervals_visual/20260813_32pt_poem_waiting_in_intervals_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/13/waiting_in_intervals_visual/20260813_32pt_footnote_waiting_in_intervals_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/13/waiting_in_intervals_visual/20260813_prompt_waiting_in_intervals_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-12T20:00:09_mouth_of_dust",
     "title": "Mouth Of Dust",
     "date": "2026-08-12T20:00:09",
