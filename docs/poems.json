@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-14T20:00:10_waiting_for_rain",
+    "title": "Waiting For Rain",
+    "date": "2026-08-14T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/14/waiting_for_rain_visual/20260814_32pt_poem_waiting_for_rain_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/14/waiting_for_rain_visual/20260814_28pt_footnote_waiting_for_rain_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/14/waiting_for_rain_visual/20260814_prompt_waiting_for_rain_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-13T20:00:11_waiting_in_intervals",
     "title": "Waiting In Intervals",
     "date": "2026-08-13T20:00:11",
