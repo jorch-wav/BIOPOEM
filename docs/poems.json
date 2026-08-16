@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-16T20:00:12_waiting_in_the_cells",
+    "title": "Waiting In The Cells",
+    "date": "2026-08-16T20:00:12",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_32pt_poem_waiting_in_the_cells_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_24pt_footnote_waiting_in_the_cells_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_prompt_waiting_in_the_cells_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-15T20:00:10_waiting_for_rain",
     "title": "Waiting For Rain",
     "date": "2026-08-15T20:00:10",
