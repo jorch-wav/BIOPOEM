@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-17T20:00:09_waiting_in_stone",
+    "title": "Waiting In Stone",
+    "date": "2026-08-17T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/17/waiting_in_stone_visual/20260817_32pt_poem_waiting_in_stone_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/17/waiting_in_stone_visual/20260817_32pt_footnote_waiting_in_stone_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/17/waiting_in_stone_visual/20260817_prompt_waiting_in_stone_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-16T20:00:12_waiting_in_the_cells",
     "title": "Waiting In The Cells",
     "date": "2026-08-16T20:00:12",
