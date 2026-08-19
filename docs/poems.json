@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-19T20:00:10_the_labyrinth_recurs",
+    "title": "The Labyrinth Recurs",
+    "date": "2026-08-19T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_32pt_poem_the_labyrinth_recurs_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_32pt_footnote_the_labyrinth_recurs_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_prompt_the_labyrinth_recurs_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-18T20:00:09_waiting_for_rain",
     "title": "Waiting For Rain",
     "date": "2026-08-18T20:00:09",
