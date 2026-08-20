@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-20T20:00:15_throat_of_dust",
+    "title": "Throat Of Dust",
+    "date": "2026-08-20T20:00:15",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/20/throat_of_dust_visual/20260820_32pt_poem_throat_of_dust_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/20/throat_of_dust_visual/20260820_28pt_footnote_throat_of_dust_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/20/throat_of_dust_visual/20260820_prompt_throat_of_dust_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-19T20:00:10_the_labyrinth_recurs",
     "title": "The Labyrinth Recurs",
     "date": "2026-08-19T20:00:10",
