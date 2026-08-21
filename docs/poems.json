@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-21T20:00:20_enough_again_enough",
+    "title": "Enough Again Enough",
+    "date": "2026-08-21T20:00:20",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/21/enough_again_enough_visual/20260821_32pt_poem_enough_again_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/21/enough_again_enough_visual/20260821_32pt_footnote_enough_again_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/21/enough_again_enough_visual/20260821_prompt_enough_again_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-20T20:00:15_throat_of_dust",
     "title": "Throat Of Dust",
     "date": "2026-08-20T20:00:15",
