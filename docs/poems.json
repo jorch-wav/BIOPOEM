@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-22T20:00:32_enough",
+    "title": "Enough",
+    "date": "2026-08-22T20:00:32",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/22/enough_visual/20260822_32pt_poem_enough_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/22/enough_visual/20260822_32pt_footnote_enough_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/22/enough_visual/20260822_prompt_enough_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-21T20:00:20_enough_again_enough",
     "title": "Enough Again Enough",
     "date": "2026-08-21T20:00:20",
