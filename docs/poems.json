@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-08-26T20:00:20_the_recursive_garden",
+    "title": "The Recursive Garden",
+    "date": "2026-08-26T20:00:20",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/aug/26/the_recursive_garden_visual/20260826_32pt_poem_the_recursive_garden_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/aug/26/the_recursive_garden_visual/20260826_30pt_footnote_the_recursive_garden_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/aug/26/the_recursive_garden_visual/20260826_prompt_the_recursive_garden_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-25T20:00:19_enough_enough_enough",
     "title": "Enough Enough Enough",
     "date": "2026-08-25T20:00:19",
