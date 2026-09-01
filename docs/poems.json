@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-01T20:00:10_the_ghost_drinks",
+    "title": "The Ghost Drinks",
+    "date": "2026-09-01T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/01/the_ghost_drinks_visual/20260901_32pt_poem_the_ghost_drinks_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/01/the_ghost_drinks_visual/20260901_32pt_footnote_the_ghost_drinks_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/01/the_ghost_drinks_visual/20260901_prompt_the_ghost_drinks_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-08-31T20:00:16_what_the_week_becomes",
     "title": "What The Week Becomes",
     "date": "2026-08-31T20:00:16",
