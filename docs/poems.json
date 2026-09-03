@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-03T20:00:16_what_the_root_knows",
+    "title": "What The Root Knows",
+    "date": "2026-09-03T20:00:16",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/03/what_the_root_knows_visual/20260903_32pt_poem_what_the_root_knows_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/03/what_the_root_knows_visual/20260903_28pt_footnote_what_the_root_knows_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/03/what_the_root_knows_visual/20260903_prompt_what_the_root_knows_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-02T20:00:23_ordinary_days_unfolding",
     "title": "Ordinary Days Unfolding",
     "date": "2026-09-02T20:00:23",
