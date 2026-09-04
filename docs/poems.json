@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-04T20:00:09_waiting_in_silence",
+    "title": "Waiting In Silence",
+    "date": "2026-09-04T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/04/waiting_in_silence_visual/20260904_32pt_poem_waiting_in_silence_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/04/waiting_in_silence_visual/20260904_24pt_footnote_waiting_in_silence_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/04/waiting_in_silence_visual/20260904_prompt_waiting_in_silence_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-03T20:00:16_what_the_root_knows",
     "title": "What The Root Knows",
     "date": "2026-09-03T20:00:16",
