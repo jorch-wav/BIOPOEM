@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-08T20:00:11_the_fork_decides",
+    "title": "The Fork Decides",
+    "date": "2026-09-08T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/08/the_fork_decides_visual/20260908_32pt_poem_the_fork_decides_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/08/the_fork_decides_visual/20260908_28pt_footnote_the_fork_decides_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/08/the_fork_decides_visual/20260908_prompt_the_fork_decides_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-07T20:00:11_waiting_for_nothing",
     "title": "Waiting For Nothing",
     "date": "2026-09-07T20:00:11",
