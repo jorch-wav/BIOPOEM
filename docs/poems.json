@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-10T20:00:11_waiting_on_the_light",
+    "title": "Waiting On The Light",
+    "date": "2026-09-10T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/10/waiting_on_the_light_visual/20260910_32pt_poem_waiting_on_the_light_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/10/waiting_on_the_light_visual/20260910_32pt_footnote_waiting_on_the_light_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/10/waiting_on_the_light_visual/20260910_prompt_waiting_on_the_light_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-09T20:00:10_waiting_for_mercy",
     "title": "Waiting For Mercy",
     "date": "2026-09-09T20:00:10",
