@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-13T20:00:11_what_the_roots_remember",
+    "title": "What The Roots Remember",
+    "date": "2026-09-13T20:00:11",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/13/what_the_roots_remember_visual/20260913_32pt_poem_what_the_roots_remember_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/13/what_the_roots_remember_visual/20260913_24pt_footnote_what_the_roots_remember_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/13/what_the_roots_remember_visual/20260913_prompt_what_the_roots_remember_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-12T20:00:10_waiting_for_rain",
     "title": "Waiting For Rain",
     "date": "2026-09-12T20:00:10",
