@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-17T20:00:10_the_forking_paths",
+    "title": "The Forking Paths",
+    "date": "2026-09-17T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/17/the_forking_paths_visual/20260917_32pt_poem_the_forking_paths_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/17/the_forking_paths_visual/20260917_28pt_footnote_the_forking_paths_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/17/the_forking_paths_visual/20260917_prompt_the_forking_paths_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-16T20:00:12_waiting_without_rain",
     "title": "Waiting Without Rain",
     "date": "2026-09-16T20:00:12",
