@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-19T20:00:10_what_the_air_forgot",
+    "title": "What The Air Forgot",
+    "date": "2026-09-19T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/19/what_the_air_forgot_visual/20260919_32pt_poem_what_the_air_forgot_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/19/what_the_air_forgot_visual/20260919_28pt_footnote_what_the_air_forgot_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/19/what_the_air_forgot_visual/20260919_prompt_what_the_air_forgot_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-18T20:00:10_waiting_for_rain",
     "title": "Waiting For Rain",
     "date": "2026-09-18T20:00:10",
