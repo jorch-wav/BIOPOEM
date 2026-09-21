@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-21T20:00:09_after_the_pour",
+    "title": "After The Pour",
+    "date": "2026-09-21T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/21/after_the_pour_visual/20260921_32pt_poem_after_the_pour_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/21/after_the_pour_visual/20260921_32pt_footnote_after_the_pour_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/21/after_the_pour_visual/20260921_prompt_after_the_pour_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-19T20:00:10_what_the_air_forgot",
     "title": "What The Air Forgot",
     "date": "2026-09-19T20:00:10",
