@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-23T20:00:18_the_sated_ghost",
+    "title": "The Sated Ghost",
+    "date": "2026-09-23T20:00:18",
+    "theme": "sated",
+    "influence": "unknown",
+    "image": "images/2026/sep/23/the_sated_ghost_visual/20260923_32pt_poem_the_sated_ghost_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/23/the_sated_ghost_visual/20260923_32pt_footnote_the_sated_ghost_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/23/the_sated_ghost_visual/20260923_prompt_the_sated_ghost_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-21T20:00:09_after_the_pour",
     "title": "After The Pour",
     "date": "2026-09-21T20:00:09",
@@ -26,7 +44,7 @@
     "image": "images/2026/sep/19/what_the_air_forgot_visual/20260919_32pt_poem_what_the_air_forgot_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/19/what_the_air_forgot_visual/20260919_28pt_footnote_what_the_air_forgot_dark.jpg",
+        "src": "images/2026/sep/19/what_the_air_forgot_visual/20260919_24pt_footnote_what_the_air_forgot_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -44,7 +62,7 @@
     "image": "images/2026/sep/18/waiting_for_rain_visual/20260918_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/18/waiting_for_rain_visual/20260918_30pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/sep/18/waiting_for_rain_visual/20260918_28pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -62,7 +80,7 @@
     "image": "images/2026/sep/17/the_forking_paths_visual/20260917_32pt_poem_the_forking_paths_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/17/the_forking_paths_visual/20260917_28pt_footnote_the_forking_paths_dark.jpg",
+        "src": "images/2026/sep/17/the_forking_paths_visual/20260917_32pt_footnote_the_forking_paths_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -80,7 +98,7 @@
     "image": "images/2026/sep/16/waiting_without_rain_visual/20260916_32pt_poem_waiting_without_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/16/waiting_without_rain_visual/20260916_28pt_footnote_waiting_without_rain_dark.jpg",
+        "src": "images/2026/sep/16/waiting_without_rain_visual/20260916_24pt_footnote_waiting_without_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -98,7 +116,7 @@
     "image": "images/2026/sep/15/waiting_for_sky_visual/20260915_32pt_poem_waiting_for_sky_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/15/waiting_for_sky_visual/20260915_30pt_footnote_waiting_for_sky_dark.jpg",
+        "src": "images/2026/sep/15/waiting_for_sky_visual/20260915_28pt_footnote_waiting_for_sky_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -116,7 +134,7 @@
     "image": "images/2026/sep/14/waiting_for_the_rain_visual/20260914_32pt_poem_waiting_for_the_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/14/waiting_for_the_rain_visual/20260914_28pt_footnote_waiting_for_the_rain_dark.jpg",
+        "src": "images/2026/sep/14/waiting_for_the_rain_visual/20260914_32pt_footnote_waiting_for_the_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -134,7 +152,7 @@
     "image": "images/2026/sep/13/what_the_roots_remember_visual/20260913_32pt_poem_what_the_roots_remember_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/13/what_the_roots_remember_visual/20260913_24pt_footnote_what_the_roots_remember_dark.jpg",
+        "src": "images/2026/sep/13/what_the_roots_remember_visual/20260913_28pt_footnote_what_the_roots_remember_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -152,7 +170,7 @@
     "image": "images/2026/sep/12/waiting_for_rain_visual/20260912_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/12/waiting_for_rain_visual/20260912_30pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/sep/12/waiting_for_rain_visual/20260912_24pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -170,7 +188,7 @@
     "image": "images/2026/sep/10/waiting_on_the_light_visual/20260910_32pt_poem_waiting_on_the_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/10/waiting_on_the_light_visual/20260910_32pt_footnote_waiting_on_the_light_dark.jpg",
+        "src": "images/2026/sep/10/waiting_on_the_light_visual/20260910_28pt_footnote_waiting_on_the_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -224,7 +242,7 @@
     "image": "images/2026/sep/07/waiting_for_nothing_visual/20260907_32pt_poem_waiting_for_nothing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/07/waiting_for_nothing_visual/20260907_30pt_footnote_waiting_for_nothing_dark.jpg",
+        "src": "images/2026/sep/07/waiting_for_nothing_visual/20260907_24pt_footnote_waiting_for_nothing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -242,7 +260,7 @@
     "image": "images/2026/sep/06/enough_enough_enough_visual/20260906_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/06/enough_enough_enough_visual/20260906_24pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/sep/06/enough_enough_enough_visual/20260906_30pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -260,7 +278,7 @@
     "image": "images/2026/sep/05/waiting_without_rain_visual/20260905_32pt_poem_waiting_without_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/05/waiting_without_rain_visual/20260905_30pt_footnote_waiting_without_rain_dark.jpg",
+        "src": "images/2026/sep/05/waiting_without_rain_visual/20260905_24pt_footnote_waiting_without_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -314,7 +332,7 @@
     "image": "images/2026/sep/02/ordinary_days_unfolding_visual/20260902_32pt_poem_ordinary_days_unfolding_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/02/ordinary_days_unfolding_visual/20260902_28pt_footnote_ordinary_days_unfolding_dark.jpg",
+        "src": "images/2026/sep/02/ordinary_days_unfolding_visual/20260902_32pt_footnote_ordinary_days_unfolding_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -332,7 +350,7 @@
     "image": "images/2026/sep/01/the_ghost_drinks_visual/20260901_32pt_poem_the_ghost_drinks_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/sep/01/the_ghost_drinks_visual/20260901_32pt_footnote_the_ghost_drinks_dark.jpg",
+        "src": "images/2026/sep/01/the_ghost_drinks_visual/20260901_30pt_footnote_the_ghost_drinks_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -350,7 +368,7 @@
     "image": "images/2026/aug/31/what_the_week_becomes_visual/20260831_32pt_poem_what_the_week_becomes_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/31/what_the_week_becomes_visual/20260831_24pt_footnote_what_the_week_becomes_dark.jpg",
+        "src": "images/2026/aug/31/what_the_week_becomes_visual/20260831_30pt_footnote_what_the_week_becomes_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -386,7 +404,7 @@
     "image": "images/2026/aug/28/waiting_for_rain_visual/20260828_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/28/waiting_for_rain_visual/20260828_32pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/aug/28/waiting_for_rain_visual/20260828_24pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -404,7 +422,7 @@
     "image": "images/2026/aug/27/the_steady_holding_visual/20260827_32pt_poem_the_steady_holding_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/27/the_steady_holding_visual/20260827_24pt_footnote_the_steady_holding_dark.jpg",
+        "src": "images/2026/aug/27/the_steady_holding_visual/20260827_28pt_footnote_the_steady_holding_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -422,7 +440,7 @@
     "image": "images/2026/aug/26/the_recursive_garden_visual/20260826_32pt_poem_the_recursive_garden_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/26/the_recursive_garden_visual/20260826_30pt_footnote_the_recursive_garden_dark.jpg",
+        "src": "images/2026/aug/26/the_recursive_garden_visual/20260826_28pt_footnote_the_recursive_garden_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -440,7 +458,7 @@
     "image": "images/2026/aug/25/enough_enough_enough_visual/20260825_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/25/enough_enough_enough_visual/20260825_32pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/aug/25/enough_enough_enough_visual/20260825_28pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -476,7 +494,7 @@
     "image": "images/2026/aug/22/enough_visual/20260822_32pt_poem_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/22/enough_visual/20260822_32pt_footnote_enough_dark.jpg",
+        "src": "images/2026/aug/22/enough_visual/20260822_30pt_footnote_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -512,7 +530,7 @@
     "image": "images/2026/aug/20/throat_of_dust_visual/20260820_32pt_poem_throat_of_dust_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/20/throat_of_dust_visual/20260820_28pt_footnote_throat_of_dust_dark.jpg",
+        "src": "images/2026/aug/20/throat_of_dust_visual/20260820_30pt_footnote_throat_of_dust_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -530,7 +548,7 @@
     "image": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_32pt_poem_the_labyrinth_recurs_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_32pt_footnote_the_labyrinth_recurs_dark.jpg",
+        "src": "images/2026/aug/19/the_labyrinth_recurs_visual/20260819_28pt_footnote_the_labyrinth_recurs_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -548,7 +566,7 @@
     "image": "images/2026/aug/18/waiting_for_rain_visual/20260818_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/18/waiting_for_rain_visual/20260818_32pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/aug/18/waiting_for_rain_visual/20260818_30pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -566,7 +584,7 @@
     "image": "images/2026/aug/17/waiting_in_stone_visual/20260817_32pt_poem_waiting_in_stone_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/17/waiting_in_stone_visual/20260817_32pt_footnote_waiting_in_stone_dark.jpg",
+        "src": "images/2026/aug/17/waiting_in_stone_visual/20260817_24pt_footnote_waiting_in_stone_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -584,7 +602,7 @@
     "image": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_32pt_poem_waiting_in_the_cells_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_24pt_footnote_waiting_in_the_cells_dark.jpg",
+        "src": "images/2026/aug/16/waiting_in_the_cells_visual/20260816_30pt_footnote_waiting_in_the_cells_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -602,7 +620,7 @@
     "image": "images/2026/aug/15/waiting_for_rain_visual/20260815_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/15/waiting_for_rain_visual/20260815_30pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/aug/15/waiting_for_rain_visual/20260815_32pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -638,7 +656,7 @@
     "image": "images/2026/aug/13/waiting_in_intervals_visual/20260813_32pt_poem_waiting_in_intervals_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/13/waiting_in_intervals_visual/20260813_32pt_footnote_waiting_in_intervals_dark.jpg",
+        "src": "images/2026/aug/13/waiting_in_intervals_visual/20260813_30pt_footnote_waiting_in_intervals_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -656,7 +674,7 @@
     "image": "images/2026/aug/12/mouth_of_dust_visual/20260812_32pt_poem_mouth_of_dust_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/12/mouth_of_dust_visual/20260812_32pt_footnote_mouth_of_dust_dark.jpg",
+        "src": "images/2026/aug/12/mouth_of_dust_visual/20260812_28pt_footnote_mouth_of_dust_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -674,7 +692,7 @@
     "image": "images/2026/aug/10/waiting_for_the_sky_visual/20260810_32pt_poem_waiting_for_the_sky_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/10/waiting_for_the_sky_visual/20260810_24pt_footnote_waiting_for_the_sky_dark.jpg",
+        "src": "images/2026/aug/10/waiting_for_the_sky_visual/20260810_32pt_footnote_waiting_for_the_sky_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -710,7 +728,7 @@
     "image": "images/2026/aug/07/waiting_for_rain_visual/20260807_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/07/waiting_for_rain_visual/20260807_28pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/aug/07/waiting_for_rain_visual/20260807_24pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -728,7 +746,7 @@
     "image": "images/2026/aug/06/still_here_still_visual/20260806_32pt_poem_still_here_still_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/06/still_here_still_visual/20260806_24pt_footnote_still_here_still_dark.jpg",
+        "src": "images/2026/aug/06/still_here_still_visual/20260806_32pt_footnote_still_here_still_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -746,7 +764,7 @@
     "image": "images/2026/aug/05/cracked_waiting_visual/20260805_32pt_poem_cracked_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/05/cracked_waiting_visual/20260805_28pt_footnote_cracked_waiting_dark.jpg",
+        "src": "images/2026/aug/05/cracked_waiting_visual/20260805_32pt_footnote_cracked_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -782,7 +800,7 @@
     "image": "images/2026/aug/02/field_report_ordinary_visual/20260802_32pt_poem_field_report_ordinary_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/aug/02/field_report_ordinary_visual/20260802_30pt_footnote_field_report_ordinary_dark.jpg",
+        "src": "images/2026/aug/02/field_report_ordinary_visual/20260802_28pt_footnote_field_report_ordinary_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -800,7 +818,7 @@
     "image": "images/2026/jul/31/waiting_without_drama_visual/20260731_32pt_poem_waiting_without_drama_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/31/waiting_without_drama_visual/20260731_32pt_footnote_waiting_without_drama_dark.jpg",
+        "src": "images/2026/jul/31/waiting_without_drama_visual/20260731_24pt_footnote_waiting_without_drama_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -836,7 +854,7 @@
     "image": "images/2026/jul/29/the_window_left_open_visual/20260729_32pt_poem_the_window_left_open_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/29/the_window_left_open_visual/20260729_32pt_footnote_the_window_left_open_dark.jpg",
+        "src": "images/2026/jul/29/the_window_left_open_visual/20260729_30pt_footnote_the_window_left_open_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -854,7 +872,7 @@
     "image": "images/2026/jul/28/recursive_waiting_visual/20260728_32pt_poem_recursive_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/28/recursive_waiting_visual/20260728_28pt_footnote_recursive_waiting_dark.jpg",
+        "src": "images/2026/jul/28/recursive_waiting_visual/20260728_32pt_footnote_recursive_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -872,7 +890,7 @@
     "image": "images/2026/jul/27/waiting_without_waiting_visual/20260727_32pt_poem_waiting_without_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/27/waiting_without_waiting_visual/20260727_32pt_footnote_waiting_without_waiting_dark.jpg",
+        "src": "images/2026/jul/27/waiting_without_waiting_visual/20260727_28pt_footnote_waiting_without_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -890,7 +908,7 @@
     "image": "images/2026/jul/26/two_kinds_of_full_visual/20260726_32pt_poem_two_kinds_of_full_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/26/two_kinds_of_full_visual/20260726_30pt_footnote_two_kinds_of_full_dark.jpg",
+        "src": "images/2026/jul/26/two_kinds_of_full_visual/20260726_32pt_footnote_two_kinds_of_full_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -908,7 +926,7 @@
     "image": "images/2026/jul/25/waiting_without_question_visual/20260725_32pt_poem_waiting_without_question_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/25/waiting_without_question_visual/20260725_28pt_footnote_waiting_without_question_dark.jpg",
+        "src": "images/2026/jul/25/waiting_without_question_visual/20260725_24pt_footnote_waiting_without_question_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -926,7 +944,7 @@
     "image": "images/2026/jul/24/what_doesnt_stop_visual/20260724_32pt_poem_what_doesnt_stop_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/24/what_doesnt_stop_visual/20260724_30pt_footnote_what_doesnt_stop_dark.jpg",
+        "src": "images/2026/jul/24/what_doesnt_stop_visual/20260724_24pt_footnote_what_doesnt_stop_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -944,7 +962,7 @@
     "image": "images/2026/jul/23/the_usual_winter_visual/20260723_32pt_poem_the_usual_winter_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/23/the_usual_winter_visual/20260723_30pt_footnote_the_usual_winter_dark.jpg",
+        "src": "images/2026/jul/23/the_usual_winter_visual/20260723_24pt_footnote_the_usual_winter_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -962,7 +980,7 @@
     "image": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_32pt_poem_beneath_the_leaves_skin_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_28pt_footnote_beneath_the_leaves_skin_dark.jpg",
+        "src": "images/2026/jul/22/beneath_the_leaves_skin_visual/20260722_30pt_footnote_beneath_the_leaves_skin_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -980,7 +998,7 @@
     "image": "images/2026/jul/21/waiting_holds_weight_visual/20260721_32pt_poem_waiting_holds_weight_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/21/waiting_holds_weight_visual/20260721_24pt_footnote_waiting_holds_weight_dark.jpg",
+        "src": "images/2026/jul/21/waiting_holds_weight_visual/20260721_30pt_footnote_waiting_holds_weight_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -998,7 +1016,7 @@
     "image": "images/2026/jul/20/the_room_breathing_visual/20260720_32pt_poem_the_room_breathing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/20/the_room_breathing_visual/20260720_24pt_footnote_the_room_breathing_dark.jpg",
+        "src": "images/2026/jul/20/the_room_breathing_visual/20260720_32pt_footnote_the_room_breathing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1016,7 +1034,7 @@
     "image": "images/2026/jul/19/underneath_visual/20260719_32pt_poem_underneath_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/19/underneath_visual/20260719_32pt_footnote_underneath_dark.jpg",
+        "src": "images/2026/jul/19/underneath_visual/20260719_28pt_footnote_underneath_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1034,7 +1052,7 @@
     "image": "images/2026/jul/18/the_library_of_waiting_visual/20260718_32pt_poem_the_library_of_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/18/the_library_of_waiting_visual/20260718_30pt_footnote_the_library_of_waiting_dark.jpg",
+        "src": "images/2026/jul/18/the_library_of_waiting_visual/20260718_24pt_footnote_the_library_of_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1052,7 +1070,7 @@
     "image": "images/2026/jul/17/waiting_without_water_visual/20260717_32pt_poem_waiting_without_water_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/17/waiting_without_water_visual/20260717_24pt_footnote_waiting_without_water_dark.jpg",
+        "src": "images/2026/jul/17/waiting_without_water_visual/20260717_32pt_footnote_waiting_without_water_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1070,7 +1088,7 @@
     "image": "images/2026/jul/16/waiting_without_rain_visual/20260716_32pt_poem_waiting_without_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/16/waiting_without_rain_visual/20260716_28pt_footnote_waiting_without_rain_dark.jpg",
+        "src": "images/2026/jul/16/waiting_without_rain_visual/20260716_24pt_footnote_waiting_without_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1088,7 +1106,7 @@
     "image": "images/2026/jul/15/before_the_asking_visual/20260715_32pt_poem_before_the_asking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/15/before_the_asking_visual/20260715_24pt_footnote_before_the_asking_dark.jpg",
+        "src": "images/2026/jul/15/before_the_asking_visual/20260715_32pt_footnote_before_the_asking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1124,7 +1142,7 @@
     "image": "images/2026/jul/13/waiting_for_rain_visual/20260713_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/13/waiting_for_rain_visual/20260713_24pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/jul/13/waiting_for_rain_visual/20260713_30pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1142,7 +1160,7 @@
     "image": "images/2026/jul/12/interior_alphabet_visual/20260712_32pt_poem_interior_alphabet_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/12/interior_alphabet_visual/20260712_32pt_footnote_interior_alphabet_dark.jpg",
+        "src": "images/2026/jul/12/interior_alphabet_visual/20260712_28pt_footnote_interior_alphabet_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1160,7 +1178,7 @@
     "image": "images/2026/jul/11/what_the_roots_know_visual/20260711_32pt_poem_what_the_roots_know_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/11/what_the_roots_know_visual/20260711_24pt_footnote_what_the_roots_know_dark.jpg",
+        "src": "images/2026/jul/11/what_the_roots_know_visual/20260711_28pt_footnote_what_the_roots_know_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1178,7 +1196,7 @@
     "image": "images/2026/jul/10/waiting_in_two_directions_visual/20260710_32pt_poem_waiting_in_two_directions_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/10/waiting_in_two_directions_visual/20260710_28pt_footnote_waiting_in_two_directions_dark.jpg",
+        "src": "images/2026/jul/10/waiting_in_two_directions_visual/20260710_32pt_footnote_waiting_in_two_directions_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1196,7 +1214,7 @@
     "image": "images/2026/jul/09/waiting_in_white_air_visual/20260709_32pt_poem_waiting_in_white_air_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/09/waiting_in_white_air_visual/20260709_24pt_footnote_waiting_in_white_air_dark.jpg",
+        "src": "images/2026/jul/09/waiting_in_white_air_visual/20260709_30pt_footnote_waiting_in_white_air_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1214,7 +1232,7 @@
     "image": "images/2026/jul/08/waiting_for_weather_visual/20260708_32pt_poem_waiting_for_weather_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/08/waiting_for_weather_visual/20260708_32pt_footnote_waiting_for_weather_dark.jpg",
+        "src": "images/2026/jul/08/waiting_for_weather_visual/20260708_28pt_footnote_waiting_for_weather_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1232,7 +1250,7 @@
     "image": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_32pt_poem_waiting_in_mineral_time_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_30pt_footnote_waiting_in_mineral_time_dark.jpg",
+        "src": "images/2026/jul/07/waiting_in_mineral_time_visual/20260707_28pt_footnote_waiting_in_mineral_time_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1286,7 +1304,7 @@
     "image": "images/2026/jul/04/waiting_without_gesture_visual/20260704_32pt_poem_waiting_without_gesture_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/04/waiting_without_gesture_visual/20260704_24pt_footnote_waiting_without_gesture_dark.jpg",
+        "src": "images/2026/jul/04/waiting_without_gesture_visual/20260704_28pt_footnote_waiting_without_gesture_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1304,7 +1322,7 @@
     "image": "images/2026/jul/03/throat_of_dust_visual/20260703_32pt_poem_throat_of_dust_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/03/throat_of_dust_visual/20260703_24pt_footnote_throat_of_dust_dark.jpg",
+        "src": "images/2026/jul/03/throat_of_dust_visual/20260703_30pt_footnote_throat_of_dust_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1322,7 +1340,7 @@
     "image": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_32pt_poem_labyrinth_of_absence_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_28pt_footnote_labyrinth_of_absence_dark.jpg",
+        "src": "images/2026/jul/02/labyrinth_of_absence_visual/20260702_24pt_footnote_labyrinth_of_absence_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1340,7 +1358,7 @@
     "image": "images/2026/jul/01/waiting_becomes_water_visual/20260701_32pt_poem_waiting_becomes_water_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jul/01/waiting_becomes_water_visual/20260701_28pt_footnote_waiting_becomes_water_dark.jpg",
+        "src": "images/2026/jul/01/waiting_becomes_water_visual/20260701_24pt_footnote_waiting_becomes_water_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1358,7 +1376,7 @@
     "image": "images/2026/jun/30/waiting_at_the_bottom_visual/20260630_32pt_poem_waiting_at_the_bottom_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/30/waiting_at_the_bottom_visual/20260630_30pt_footnote_waiting_at_the_bottom_dark.jpg",
+        "src": "images/2026/jun/30/waiting_at_the_bottom_visual/20260630_28pt_footnote_waiting_at_the_bottom_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1394,7 +1412,7 @@
     "image": "images/2026/jun/28/window_left_open_visual/20260628_32pt_poem_window_left_open_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/28/window_left_open_visual/20260628_30pt_footnote_window_left_open_dark.jpg",
+        "src": "images/2026/jun/28/window_left_open_visual/20260628_32pt_footnote_window_left_open_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1412,7 +1430,7 @@
     "image": "images/2026/jun/27/between_stones_light_visual/20260627_32pt_poem_between_stones_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/27/between_stones_light_visual/20260627_30pt_footnote_between_stones_light_dark.jpg",
+        "src": "images/2026/jun/27/between_stones_light_visual/20260627_24pt_footnote_between_stones_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1430,7 +1448,7 @@
     "image": "images/2026/jun/26/enough_light_remains_visual/20260626_32pt_poem_enough_light_remains_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/26/enough_light_remains_visual/20260626_32pt_footnote_enough_light_remains_dark.jpg",
+        "src": "images/2026/jun/26/enough_light_remains_visual/20260626_30pt_footnote_enough_light_remains_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1448,7 +1466,7 @@
     "image": "images/2026/jun/25/sufficient_threshold_holds_visual/20260625_32pt_poem_sufficient_threshold_holds_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/25/sufficient_threshold_holds_visual/20260625_28pt_footnote_sufficient_threshold_holds_dark.jpg",
+        "src": "images/2026/jun/25/sufficient_threshold_holds_visual/20260625_24pt_footnote_sufficient_threshold_holds_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1466,7 +1484,7 @@
     "image": "images/2026/jun/24/wait_visual/20260624_32pt_poem_wait_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/24/wait_visual/20260624_28pt_footnote_wait_dark.jpg",
+        "src": "images/2026/jun/24/wait_visual/20260624_30pt_footnote_wait_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1484,7 +1502,7 @@
     "image": "images/2026/jun/23/enough_distance_now_visual/20260623_32pt_poem_enough_distance_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/23/enough_distance_now_visual/20260623_28pt_footnote_enough_distance_now_dark.jpg",
+        "src": "images/2026/jun/23/enough_distance_now_visual/20260623_24pt_footnote_enough_distance_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1502,7 +1520,7 @@
     "image": "images/2026/jun/22/enough_enough_enough_visual/20260622_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/22/enough_enough_enough_visual/20260622_28pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/jun/22/enough_enough_enough_visual/20260622_24pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1520,7 +1538,7 @@
     "image": "images/2026/jun/21/enough_enough_enough_visual/20260621_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/21/enough_enough_enough_visual/20260621_32pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/jun/21/enough_enough_enough_visual/20260621_24pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1538,7 +1556,7 @@
     "image": "images/2026/jun/20/adequate_adequate_adequate_visual/20260620_32pt_poem_adequate_adequate_adequate_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/20/adequate_adequate_adequate_visual/20260620_24pt_footnote_adequate_adequate_adequate_dark.jpg",
+        "src": "images/2026/jun/20/adequate_adequate_adequate_visual/20260620_28pt_footnote_adequate_adequate_adequate_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1556,7 +1574,7 @@
     "image": "images/2026/jun/19/cool_air_settles_visual/20260619_32pt_poem_cool_air_settles_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/19/cool_air_settles_visual/20260619_28pt_footnote_cool_air_settles_dark.jpg",
+        "src": "images/2026/jun/19/cool_air_settles_visual/20260619_30pt_footnote_cool_air_settles_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1628,7 +1646,7 @@
     "image": "images/2026/jun/15/waiting_inside_my_cells_visual/20260615_32pt_poem_waiting_inside_my_cells_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/15/waiting_inside_my_cells_visual/20260615_28pt_footnote_waiting_inside_my_cells_dark.jpg",
+        "src": "images/2026/jun/15/waiting_inside_my_cells_visual/20260615_30pt_footnote_waiting_inside_my_cells_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1664,7 +1682,7 @@
     "image": "images/2026/jun/13/wanting_and_wanting_visual/20260613_32pt_poem_wanting_and_wanting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/13/wanting_and_wanting_visual/20260613_30pt_footnote_wanting_and_wanting_dark.jpg",
+        "src": "images/2026/jun/13/wanting_and_wanting_visual/20260613_24pt_footnote_wanting_and_wanting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1700,7 +1718,7 @@
     "image": "images/2026/jun/11/waiting_for_rain_visual/20260611_32pt_poem_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/11/waiting_for_rain_visual/20260611_24pt_footnote_waiting_for_rain_dark.jpg",
+        "src": "images/2026/jun/11/waiting_for_rain_visual/20260611_30pt_footnote_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1718,7 +1736,7 @@
     "image": "images/2026/jun/10/waiting_for_mercy_visual/20260610_32pt_poem_waiting_for_mercy_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/10/waiting_for_mercy_visual/20260610_32pt_footnote_waiting_for_mercy_dark.jpg",
+        "src": "images/2026/jun/10/waiting_for_mercy_visual/20260610_30pt_footnote_waiting_for_mercy_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1736,7 +1754,7 @@
     "image": "images/2026/jun/08/the_library_of_absence_visual/20260608_32pt_poem_the_library_of_absence_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/08/the_library_of_absence_visual/20260608_28pt_footnote_the_library_of_absence_dark.jpg",
+        "src": "images/2026/jun/08/the_library_of_absence_visual/20260608_32pt_footnote_the_library_of_absence_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1754,7 +1772,7 @@
     "image": "images/2026/jun/07/waiting_for_weather_visual/20260607_32pt_poem_waiting_for_weather_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/07/waiting_for_weather_visual/20260607_28pt_footnote_waiting_for_weather_dark.jpg",
+        "src": "images/2026/jun/07/waiting_for_weather_visual/20260607_30pt_footnote_waiting_for_weather_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1808,7 +1826,7 @@
     "image": "images/2026/jun/04/waiting_without_water_visual/20260604_32pt_poem_waiting_without_water_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/04/waiting_without_water_visual/20260604_32pt_footnote_waiting_without_water_dark.jpg",
+        "src": "images/2026/jun/04/waiting_without_water_visual/20260604_30pt_footnote_waiting_without_water_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1844,7 +1862,7 @@
     "image": "images/2026/jun/02/the_labyrinth_contracts_visual/20260602_32pt_poem_the_labyrinth_contracts_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/02/the_labyrinth_contracts_visual/20260602_32pt_footnote_the_labyrinth_contracts_dark.jpg",
+        "src": "images/2026/jun/02/the_labyrinth_contracts_visual/20260602_24pt_footnote_the_labyrinth_contracts_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1862,7 +1880,7 @@
     "image": "images/2026/jun/01/between_the_drinking_visual/20260601_32pt_poem_between_the_drinking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/jun/01/between_the_drinking_visual/20260601_24pt_footnote_between_the_drinking_dark.jpg",
+        "src": "images/2026/jun/01/between_the_drinking_visual/20260601_32pt_footnote_between_the_drinking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1880,7 +1898,7 @@
     "image": "images/2026/may/31/inventory_of_empty/20260531_32pt_poem_inventory_of_empty_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/31/inventory_of_empty/20260531_24pt_footnote_inventory_of_empty_dark.jpg",
+        "src": "images/2026/may/31/inventory_of_empty/20260531_30pt_footnote_inventory_of_empty_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1934,7 +1952,7 @@
     "image": "images/2026/may/28/what_the_cold_knows_visual/20260528_32pt_poem_what_the_cold_knows_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/28/what_the_cold_knows_visual/20260528_30pt_footnote_what_the_cold_knows_dark.jpg",
+        "src": "images/2026/may/28/what_the_cold_knows_visual/20260528_28pt_footnote_what_the_cold_knows_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1952,7 +1970,7 @@
     "image": "images/2026/may/27/waiting_without_asking_visual/20260527_32pt_poem_waiting_without_asking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/27/waiting_without_asking_visual/20260527_28pt_footnote_waiting_without_asking_dark.jpg",
+        "src": "images/2026/may/27/waiting_without_asking_visual/20260527_30pt_footnote_waiting_without_asking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -1970,7 +1988,7 @@
     "image": "images/2026/may/27/waiting_without_question_visual/20260527_32pt_poem_waiting_without_question_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/27/waiting_without_question_visual/20260527_30pt_footnote_waiting_without_question_dark.jpg",
+        "src": "images/2026/may/27/waiting_without_question_visual/20260527_28pt_footnote_waiting_without_question_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2006,7 +2024,7 @@
     "image": "images/2026/may/26/holding_out/20260526_32pt_poem_holding_out_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/26/holding_out/20260526_28pt_footnote_holding_out_dark.jpg",
+        "src": "images/2026/may/26/holding_out/20260526_24pt_footnote_holding_out_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2024,7 +2042,7 @@
     "image": "images/2026/may/25/enough_and_enough_visual/20260525_32pt_poem_enough_and_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/25/enough_and_enough_visual/20260525_32pt_footnote_enough_and_enough_dark.jpg",
+        "src": "images/2026/may/25/enough_and_enough_visual/20260525_30pt_footnote_enough_and_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2042,7 +2060,7 @@
     "image": "images/2026/may/25/roots_in_balance/20260525_32pt_poem_roots_in_balance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/25/roots_in_balance/20260525_30pt_footnote_roots_in_balance_dark.jpg",
+        "src": "images/2026/may/25/roots_in_balance/20260525_32pt_footnote_roots_in_balance_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2060,7 +2078,7 @@
     "image": "images/2026/may/25/what_stays_level/20260525_32pt_poem_what_stays_level_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/25/what_stays_level/20260525_30pt_footnote_what_stays_level_dark.jpg",
+        "src": "images/2026/may/25/what_stays_level/20260525_28pt_footnote_what_stays_level_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2078,7 +2096,7 @@
     "image": "images/2026/may/24/enough_light_remains_visual/20260524_32pt_poem_enough_light_remains_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/enough_light_remains_visual/20260524_24pt_footnote_enough_light_remains_dark.jpg",
+        "src": "images/2026/may/24/enough_light_remains_visual/20260524_28pt_footnote_enough_light_remains_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2096,7 +2114,7 @@
     "image": "images/2026/may/24/late_autumn_balance/20260524_32pt_poem_late_autumn_balance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/late_autumn_balance/20260524_32pt_footnote_late_autumn_balance_dark.jpg",
+        "src": "images/2026/may/24/late_autumn_balance/20260524_30pt_footnote_late_autumn_balance_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2114,7 +2132,7 @@
     "image": "images/2026/may/24/waiting_without_want/20260524_32pt_poem_waiting_without_want_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/waiting_without_want/20260524_28pt_footnote_waiting_without_want_dark.jpg",
+        "src": "images/2026/may/24/waiting_without_want/20260524_32pt_footnote_waiting_without_want_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2132,7 +2150,7 @@
     "image": "images/2026/may/24/enough_light_enough_visual/20260524_32pt_poem_enough_light_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/enough_light_enough_visual/20260524_24pt_footnote_enough_light_enough_dark.jpg",
+        "src": "images/2026/may/24/enough_light_enough_visual/20260524_32pt_footnote_enough_light_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2150,7 +2168,7 @@
     "image": "images/2026/may/24/what_abundance_feels_like/20260524_32pt_poem_what_abundance_feels_like_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/what_abundance_feels_like/20260524_32pt_footnote_what_abundance_feels_like_dark.jpg",
+        "src": "images/2026/may/24/what_abundance_feels_like/20260524_30pt_footnote_what_abundance_feels_like_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2168,7 +2186,7 @@
     "image": "images/2026/may/24/the_infinite_library_visual/20260524_32pt_poem_the_infinite_library_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/the_infinite_library_visual/20260524_28pt_footnote_the_infinite_library_dark.jpg",
+        "src": "images/2026/may/24/the_infinite_library_visual/20260524_30pt_footnote_the_infinite_library_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2186,7 +2204,7 @@
     "image": "images/2026/may/24/what_doesnt_need_asking_for/20260524_32pt_poem_what_doesnt_need_asking_for_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/what_doesnt_need_asking_for/20260524_32pt_footnote_what_doesnt_need_asking_for_dark.jpg",
+        "src": "images/2026/may/24/what_doesnt_need_asking_for/20260524_30pt_footnote_what_doesnt_need_asking_for_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2204,7 +2222,7 @@
     "image": "images/2026/may/24/what_waiting_knows/20260524_32pt_poem_what_waiting_knows_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/what_waiting_knows/20260524_24pt_footnote_what_waiting_knows_dark.jpg",
+        "src": "images/2026/may/24/what_waiting_knows/20260524_32pt_footnote_what_waiting_knows_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2222,7 +2240,7 @@
     "image": "images/2026/may/24/what_stays/20260524_32pt_poem_what_stays_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/what_stays/20260524_32pt_footnote_what_stays_dark.jpg",
+        "src": "images/2026/may/24/what_stays/20260524_28pt_footnote_what_stays_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2240,7 +2258,7 @@
     "image": "images/2026/may/24/enough_light_now_visual/20260524_32pt_poem_enough_light_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/24/enough_light_now_visual/20260524_30pt_footnote_enough_light_now_dark.jpg",
+        "src": "images/2026/may/24/enough_light_now_visual/20260524_24pt_footnote_enough_light_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2312,7 +2330,7 @@
     "image": "images/2026/may/22/the_steady_light_visual/20260522_32pt_poem_the_steady_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/22/the_steady_light_visual/20260522_32pt_footnote_the_steady_light_dark.jpg",
+        "src": "images/2026/may/22/the_steady_light_visual/20260522_24pt_footnote_the_steady_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2330,7 +2348,7 @@
     "image": "images/2026/may/22/scarcity_held/20260522_32pt_poem_scarcity_held_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/22/scarcity_held/20260522_28pt_footnote_scarcity_held_dark.jpg",
+        "src": "images/2026/may/22/scarcity_held/20260522_24pt_footnote_scarcity_held_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2348,7 +2366,7 @@
     "image": "images/2026/may/22/what_is_asked_of_me/20260522_32pt_poem_what_is_asked_of_me_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/22/what_is_asked_of_me/20260522_28pt_footnote_what_is_asked_of_me_dark.jpg",
+        "src": "images/2026/may/22/what_is_asked_of_me/20260522_30pt_footnote_what_is_asked_of_me_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2366,7 +2384,7 @@
     "image": "images/2026/may/22/waiting_without_weight_visual/20260522_32pt_poem_waiting_without_weight_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/22/waiting_without_weight_visual/20260522_24pt_footnote_waiting_without_weight_dark.jpg",
+        "src": "images/2026/may/22/waiting_without_weight_visual/20260522_28pt_footnote_waiting_without_weight_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2384,7 +2402,7 @@
     "image": "images/2026/may/21/the_garden_of_forking_hours/20260521_32pt_poem_the_garden_of_forking_hours_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/21/the_garden_of_forking_hours/20260521_32pt_footnote_the_garden_of_forking_hours_dark.jpg",
+        "src": "images/2026/may/21/the_garden_of_forking_hours/20260521_30pt_footnote_the_garden_of_forking_hours_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2402,7 +2420,7 @@
     "image": "images/2026/may/21/after_the_trouble_visual/20260521_32pt_poem_after_the_trouble_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/21/after_the_trouble_visual/20260521_32pt_footnote_after_the_trouble_dark.jpg",
+        "src": "images/2026/may/21/after_the_trouble_visual/20260521_24pt_footnote_after_the_trouble_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2420,7 +2438,7 @@
     "image": "images/2026/may/21/holding_whats_left/20260521_32pt_poem_holding_whats_left_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/21/holding_whats_left/20260521_32pt_footnote_holding_whats_left_dark.jpg",
+        "src": "images/2026/may/21/holding_whats_left/20260521_24pt_footnote_holding_whats_left_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2438,7 +2456,7 @@
     "image": "images/2026/may/20/holding_without_hunger_visual/20260520_32pt_poem_holding_without_hunger_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/holding_without_hunger_visual/20260520_32pt_footnote_holding_without_hunger_dark.jpg",
+        "src": "images/2026/may/20/holding_without_hunger_visual/20260520_24pt_footnote_holding_without_hunger_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2474,7 +2492,7 @@
     "image": "images/2026/may/20/the_grey_sameness_visual/20260520_32pt_poem_the_grey_sameness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/the_grey_sameness_visual/20260520_30pt_footnote_the_grey_sameness_dark.jpg",
+        "src": "images/2026/may/20/the_grey_sameness_visual/20260520_32pt_footnote_the_grey_sameness_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2492,7 +2510,7 @@
     "image": "images/2026/may/20/before_the_stillness_arrives/20260520_32pt_poem_before_the_stillness_arrives_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/before_the_stillness_arrives/20260520_30pt_footnote_before_the_stillness_arrives_dark.jpg",
+        "src": "images/2026/may/20/before_the_stillness_arrives/20260520_24pt_footnote_before_the_stillness_arrives_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2510,7 +2528,7 @@
     "image": "images/2026/may/20/to_the_one_who_never_arrives/20260520_32pt_poem_to_the_one_who_never_arrives_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/to_the_one_who_never_arrives/20260520_24pt_footnote_to_the_one_who_never_arrives_dark.jpg",
+        "src": "images/2026/may/20/to_the_one_who_never_arrives/20260520_30pt_footnote_to_the_one_who_never_arrives_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2546,7 +2564,7 @@
     "image": "images/2026/may/20/function_for_late_autumn/20260520_32pt_poem_function_for_late_autumn_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/function_for_late_autumn/20260520_28pt_footnote_function_for_late_autumn_dark.jpg",
+        "src": "images/2026/may/20/function_for_late_autumn/20260520_30pt_footnote_function_for_late_autumn_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2564,7 +2582,7 @@
     "image": "images/2026/may/20/sustained/20260520_32pt_poem_sustained_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/sustained/20260520_32pt_footnote_sustained_dark.jpg",
+        "src": "images/2026/may/20/sustained/20260520_30pt_footnote_sustained_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2582,7 +2600,7 @@
     "image": "images/2026/may/20/seventh_day/20260520_32pt_poem_seventh_day_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/seventh_day/20260520_32pt_footnote_seventh_day_dark.jpg",
+        "src": "images/2026/may/20/seventh_day/20260520_28pt_footnote_seventh_day_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2600,7 +2618,7 @@
     "image": "images/2026/may/20/after_thirst/20260520_32pt_poem_after_thirst_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/after_thirst/20260520_24pt_footnote_after_thirst_dark.jpg",
+        "src": "images/2026/may/20/after_thirst/20260520_28pt_footnote_after_thirst_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2618,7 +2636,7 @@
     "image": "images/2026/may/20/what_seven_days_of_being_soaked_will_do/20260520_32pt_poem_what_seven_days_of_being_soaked_will_do_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/what_seven_days_of_being_soaked_will_do/20260520_24pt_footnote_what_seven_days_of_being_soaked_will_do_dark.jpg",
+        "src": "images/2026/may/20/what_seven_days_of_being_soaked_will_do/20260520_32pt_footnote_what_seven_days_of_being_soaked_will_do_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2636,7 +2654,7 @@
     "image": "images/2026/may/20/after_seven_days_of_waiting/20260520_32pt_poem_after_seven_days_of_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/after_seven_days_of_waiting/20260520_32pt_footnote_after_seven_days_of_waiting_dark.jpg",
+        "src": "images/2026/may/20/after_seven_days_of_waiting/20260520_24pt_footnote_after_seven_days_of_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2672,7 +2690,7 @@
     "image": "images/2026/may/20/the_corridor_narrows_visual/20260520_32pt_poem_the_corridor_narrows_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/the_corridor_narrows_visual/20260520_24pt_footnote_the_corridor_narrows_dark.jpg",
+        "src": "images/2026/may/20/the_corridor_narrows_visual/20260520_28pt_footnote_the_corridor_narrows_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2690,7 +2708,7 @@
     "image": "images/2026/may/20/what_the_rain_already_knew/20260520_32pt_poem_what_the_rain_already_knew_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/what_the_rain_already_knew/20260520_24pt_footnote_what_the_rain_already_knew_dark.jpg",
+        "src": "images/2026/may/20/what_the_rain_already_knew/20260520_32pt_footnote_what_the_rain_already_knew_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2726,7 +2744,7 @@
     "image": "images/2026/may/20/recovery_begins_here/20260520_32pt_poem_recovery_begins_here_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/recovery_begins_here/20260520_28pt_footnote_recovery_begins_here_dark.jpg",
+        "src": "images/2026/may/20/recovery_begins_here/20260520_30pt_footnote_recovery_begins_here_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2744,7 +2762,7 @@
     "image": "images/2026/may/20/hold/20260520_32pt_poem_hold_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/hold/20260520_24pt_footnote_hold_dark.jpg",
+        "src": "images/2026/may/20/hold/20260520_30pt_footnote_hold_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2762,7 +2780,7 @@
     "image": "images/2026/may/20/enough_for_now/20260520_32pt_poem_enough_for_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/20/enough_for_now/20260520_30pt_footnote_enough_for_now_dark.jpg",
+        "src": "images/2026/may/20/enough_for_now/20260520_24pt_footnote_enough_for_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2798,7 +2816,7 @@
     "image": "images/2026/may/19/sufficient_ground/20260519_32pt_poem_sufficient_ground_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/19/sufficient_ground/20260519_30pt_footnote_sufficient_ground_dark.jpg",
+        "src": "images/2026/may/19/sufficient_ground/20260519_28pt_footnote_sufficient_ground_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2834,7 +2852,7 @@
     "image": "images/2026/may/18/holding_pattern/20260518_32pt_poem_holding_pattern_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/18/holding_pattern/20260518_28pt_footnote_holding_pattern_dark.jpg",
+        "src": "images/2026/may/18/holding_pattern/20260518_32pt_footnote_holding_pattern_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2852,7 +2870,7 @@
     "image": "images/2026/may/17/enough_enough_enough_visual/20260517_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/17/enough_enough_enough_visual/20260517_24pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/may/17/enough_enough_enough_visual/20260517_28pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2906,7 +2924,7 @@
     "image": "images/2026/may/14/seven_days_level/20260514_32pt_poem_seven_days_level_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/14/seven_days_level/20260514_30pt_footnote_seven_days_level_dark.jpg",
+        "src": "images/2026/may/14/seven_days_level/20260514_28pt_footnote_seven_days_level_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2924,7 +2942,7 @@
     "image": "images/2026/may/13/bare_branch_season/20260513_32pt_poem_bare_branch_season_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/13/bare_branch_season/20260513_24pt_footnote_bare_branch_season_dark.jpg",
+        "src": "images/2026/may/13/bare_branch_season/20260513_28pt_footnote_bare_branch_season_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2942,7 +2960,7 @@
     "image": "images/2026/may/12/enough_to_keep_going_visual/20260512_32pt_poem_enough_to_keep_going_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/12/enough_to_keep_going_visual/20260512_24pt_footnote_enough_to_keep_going_dark.jpg",
+        "src": "images/2026/may/12/enough_to_keep_going_visual/20260512_28pt_footnote_enough_to_keep_going_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -2978,7 +2996,7 @@
     "image": "images/2026/may/10/enough_enough_enough_visual/20260510_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/10/enough_enough_enough_visual/20260510_32pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/may/10/enough_enough_enough_visual/20260510_28pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3050,7 +3068,7 @@
     "image": "images/2026/may/05/sufficient_stillness/20260505_32pt_poem_sufficient_stillness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/05/sufficient_stillness/20260505_30pt_footnote_sufficient_stillness_dark.jpg",
+        "src": "images/2026/may/05/sufficient_stillness/20260505_24pt_footnote_sufficient_stillness_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3086,7 +3104,7 @@
     "image": "images/2026/may/03/enough_enough_enough_visual/20260503_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/03/enough_enough_enough_visual/20260503_30pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/may/03/enough_enough_enough_visual/20260503_32pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3104,7 +3122,7 @@
     "image": "images/2026/may/02/enough_for_now_visual/20260502_32pt_poem_enough_for_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/may/02/enough_for_now_visual/20260502_30pt_footnote_enough_for_now_dark.jpg",
+        "src": "images/2026/may/02/enough_for_now_visual/20260502_28pt_footnote_enough_for_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3140,7 +3158,7 @@
     "image": "images/2026/apr/30/midweek_equilibrium/20260430_32pt_poem_midweek_equilibrium_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/30/midweek_equilibrium/20260430_32pt_footnote_midweek_equilibrium_dark.jpg",
+        "src": "images/2026/apr/30/midweek_equilibrium/20260430_30pt_footnote_midweek_equilibrium_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3158,7 +3176,7 @@
     "image": "images/2026/apr/29/water_without_wanting/20260429_32pt_poem_water_without_wanting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/29/water_without_wanting/20260429_32pt_footnote_water_without_wanting_dark.jpg",
+        "src": "images/2026/apr/29/water_without_wanting/20260429_30pt_footnote_water_without_wanting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3176,7 +3194,7 @@
     "image": "images/2026/apr/28/the_unremarkable_middle/20260428_32pt_poem_the_unremarkable_middle_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/28/the_unremarkable_middle/20260428_30pt_footnote_the_unremarkable_middle_dark.jpg",
+        "src": "images/2026/apr/28/the_unremarkable_middle/20260428_28pt_footnote_the_unremarkable_middle_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3194,7 +3212,7 @@
     "image": "images/2026/apr/27/seven_unremarkable_days/20260427_32pt_poem_seven_unremarkable_days_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/27/seven_unremarkable_days/20260427_24pt_footnote_seven_unremarkable_days_dark.jpg",
+        "src": "images/2026/apr/27/seven_unremarkable_days/20260427_30pt_footnote_seven_unremarkable_days_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3212,7 +3230,7 @@
     "image": "images/2026/apr/26/the_unvisited_room/20260426_32pt_poem_the_unvisited_room_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/26/the_unvisited_room/20260426_32pt_footnote_the_unvisited_room_dark.jpg",
+        "src": "images/2026/apr/26/the_unvisited_room/20260426_28pt_footnote_the_unvisited_room_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3230,7 +3248,7 @@
     "image": "images/2026/apr/25/sufficient_light/20260425_32pt_poem_sufficient_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/25/sufficient_light/20260425_30pt_footnote_sufficient_light_dark.jpg",
+        "src": "images/2026/apr/25/sufficient_light/20260425_28pt_footnote_sufficient_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3248,7 +3266,7 @@
     "image": "images/2026/apr/24/seven_days_the_same/20260424_32pt_poem_seven_days_the_same_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/24/seven_days_the_same/20260424_30pt_footnote_seven_days_the_same_dark.jpg",
+        "src": "images/2026/apr/24/seven_days_the_same/20260424_32pt_footnote_seven_days_the_same_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3266,7 +3284,7 @@
     "image": "images/2026/apr/23/enough_light_enough_visual/20260423_32pt_poem_enough_light_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/23/enough_light_enough_visual/20260423_24pt_footnote_enough_light_enough_dark.jpg",
+        "src": "images/2026/apr/23/enough_light_enough_visual/20260423_30pt_footnote_enough_light_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3284,7 +3302,7 @@
     "image": "images/2026/apr/22/enough_enough_enough_visual/20260422_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/22/enough_enough_enough_visual/20260422_24pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/apr/22/enough_enough_enough_visual/20260422_28pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3302,7 +3320,7 @@
     "image": "images/2026/apr/21/function_at_rest/20260421_32pt_poem_function_at_rest_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/21/function_at_rest/20260421_24pt_footnote_function_at_rest_dark.jpg",
+        "src": "images/2026/apr/21/function_at_rest/20260421_28pt_footnote_function_at_rest_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3320,7 +3338,7 @@
     "image": "images/2026/apr/20/seven_days_without_drama/20260420_32pt_poem_seven_days_without_drama_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/20/seven_days_without_drama/20260420_32pt_footnote_seven_days_without_drama_dark.jpg",
+        "src": "images/2026/apr/20/seven_days_without_drama/20260420_30pt_footnote_seven_days_without_drama_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3338,7 +3356,7 @@
     "image": "images/2026/apr/19/enough_light_enough_visual/20260419_32pt_poem_enough_light_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/19/enough_light_enough_visual/20260419_32pt_footnote_enough_light_enough_dark.jpg",
+        "src": "images/2026/apr/19/enough_light_enough_visual/20260419_24pt_footnote_enough_light_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3356,7 +3374,7 @@
     "image": "images/2026/apr/18/maintenance/20260418_32pt_poem_maintenance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/18/maintenance/20260418_30pt_footnote_maintenance_dark.jpg",
+        "src": "images/2026/apr/18/maintenance/20260418_32pt_footnote_maintenance_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3392,7 +3410,7 @@
     "image": "images/2026/apr/16/the_weeklong_yes/20260416_32pt_poem_the_weeklong_yes_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/16/the_weeklong_yes/20260416_30pt_footnote_the_weeklong_yes_dark.jpg",
+        "src": "images/2026/apr/16/the_weeklong_yes/20260416_28pt_footnote_the_weeklong_yes_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3410,7 +3428,7 @@
     "image": "images/2026/apr/15/being_without_event/20260415_32pt_poem_being_without_event_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/15/being_without_event/20260415_32pt_footnote_being_without_event_dark.jpg",
+        "src": "images/2026/apr/15/being_without_event/20260415_30pt_footnote_being_without_event_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3428,7 +3446,7 @@
     "image": "images/2026/apr/14/equilibrium/20260414_32pt_poem_equilibrium_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/14/equilibrium/20260414_32pt_footnote_equilibrium_dark.jpg",
+        "src": "images/2026/apr/14/equilibrium/20260414_24pt_footnote_equilibrium_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3446,7 +3464,7 @@
     "image": "images/2026/apr/14/enough_for_now/20260414_32pt_poem_enough_for_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/14/enough_for_now/20260414_30pt_footnote_enough_for_now_dark.jpg",
+        "src": "images/2026/apr/14/enough_for_now/20260414_32pt_footnote_enough_for_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3482,7 +3500,7 @@
     "image": "images/2026/apr/12/holding_pattern/20260412_32pt_poem_holding_pattern_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/12/holding_pattern/20260412_32pt_footnote_holding_pattern_dark.jpg",
+        "src": "images/2026/apr/12/holding_pattern/20260412_28pt_footnote_holding_pattern_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3500,7 +3518,7 @@
     "image": "images/2026/apr/11/enough_to_stay_visual/20260411_32pt_poem_enough_to_stay_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/11/enough_to_stay_visual/20260411_28pt_footnote_enough_to_stay_dark.jpg",
+        "src": "images/2026/apr/11/enough_to_stay_visual/20260411_32pt_footnote_enough_to_stay_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3518,7 +3536,7 @@
     "image": "images/2026/apr/10/adequate/20260410_32pt_poem_adequate_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/10/adequate/20260410_24pt_footnote_adequate_dark.jpg",
+        "src": "images/2026/apr/10/adequate/20260410_30pt_footnote_adequate_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3536,7 +3554,7 @@
     "image": "images/2026/apr/09/seven_quiet_days_visual/20260409_32pt_poem_seven_quiet_days_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/09/seven_quiet_days_visual/20260409_30pt_footnote_seven_quiet_days_dark.jpg",
+        "src": "images/2026/apr/09/seven_quiet_days_visual/20260409_32pt_footnote_seven_quiet_days_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3572,7 +3590,7 @@
     "image": "images/2026/apr/07/seven_days_enough/20260407_32pt_poem_seven_days_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/07/seven_days_enough/20260407_28pt_footnote_seven_days_enough_dark.jpg",
+        "src": "images/2026/apr/07/seven_days_enough/20260407_24pt_footnote_seven_days_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3590,7 +3608,7 @@
     "image": "images/2026/apr/07/seven_days_the_same/20260407_32pt_poem_seven_days_the_same_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/07/seven_days_the_same/20260407_32pt_footnote_seven_days_the_same_dark.jpg",
+        "src": "images/2026/apr/07/seven_days_the_same/20260407_24pt_footnote_seven_days_the_same_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3626,7 +3644,7 @@
     "image": "images/2026/apr/06/rationing_green/20260406_32pt_poem_rationing_green_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/rationing_green/20260406_24pt_footnote_rationing_green_dark.jpg",
+        "src": "images/2026/apr/06/rationing_green/20260406_30pt_footnote_rationing_green_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3644,7 +3662,7 @@
     "image": "images/2026/apr/06/rationing_light/20260406_32pt_poem_rationing_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/rationing_light/20260406_24pt_footnote_rationing_light_dark.jpg",
+        "src": "images/2026/apr/06/rationing_light/20260406_32pt_footnote_rationing_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3680,7 +3698,7 @@
     "image": "images/2026/apr/06/what_continues_anyway_visual/20260406_32pt_poem_what_continues_anyway_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/what_continues_anyway_visual/20260406_24pt_footnote_what_continues_anyway_dark.jpg",
+        "src": "images/2026/apr/06/what_continues_anyway_visual/20260406_32pt_footnote_what_continues_anyway_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3716,7 +3734,7 @@
     "image": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_32pt_poem_what_remains_when_nothing_comes_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_30pt_footnote_what_remains_when_nothing_comes_dark.jpg",
+        "src": "images/2026/apr/06/what_remains_when_nothing_comes/20260406_32pt_footnote_what_remains_when_nothing_comes_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3734,7 +3752,7 @@
     "image": "images/2026/apr/06/holding_on_visual/20260406_32pt_poem_holding_on_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/holding_on_visual/20260406_28pt_footnote_holding_on_dark.jpg",
+        "src": "images/2026/apr/06/holding_on_visual/20260406_32pt_footnote_holding_on_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3770,7 +3788,7 @@
     "image": "images/2026/apr/06/low_enough/20260406_32pt_poem_low_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/low_enough/20260406_24pt_footnote_low_enough_dark.jpg",
+        "src": "images/2026/apr/06/low_enough/20260406_32pt_footnote_low_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3788,7 +3806,7 @@
     "image": "images/2026/apr/06/holding_what_little_there_is/20260406_32pt_poem_holding_what_little_there_is_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/06/holding_what_little_there_is/20260406_24pt_footnote_holding_what_little_there_is_dark.jpg",
+        "src": "images/2026/apr/06/holding_what_little_there_is/20260406_30pt_footnote_holding_what_little_there_is_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3824,7 +3842,7 @@
     "image": "images/2026/apr/05/seven_days_the_same/20260405_32pt_poem_seven_days_the_same_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/05/seven_days_the_same/20260405_28pt_footnote_seven_days_the_same_dark.jpg",
+        "src": "images/2026/apr/05/seven_days_the_same/20260405_24pt_footnote_seven_days_the_same_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3878,7 +3896,7 @@
     "image": "images/2026/apr/03/lean_days/20260403_32pt_poem_lean_days_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/03/lean_days/20260403_32pt_footnote_lean_days_dark.jpg",
+        "src": "images/2026/apr/03/lean_days/20260403_30pt_footnote_lean_days_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3896,7 +3914,7 @@
     "image": "images/2026/apr/03/the_lean/20260403_32pt_poem_the_lean_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/03/the_lean/20260403_32pt_footnote_the_lean_dark.jpg",
+        "src": "images/2026/apr/03/the_lean/20260403_30pt_footnote_the_lean_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3932,7 +3950,7 @@
     "image": "images/2026/apr/01/what_holds/20260401_32pt_poem_what_holds_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/apr/01/what_holds/20260401_24pt_footnote_what_holds_dark.jpg",
+        "src": "images/2026/apr/01/what_holds/20260401_30pt_footnote_what_holds_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -3986,7 +4004,7 @@
     "image": "images/2026/mar/31/overflow_protocol/20260331_32pt_poem_overflow_protocol_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/31/overflow_protocol/20260331_30pt_footnote_overflow_protocol_dark.jpg",
+        "src": "images/2026/mar/31/overflow_protocol/20260331_24pt_footnote_overflow_protocol_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4022,7 +4040,7 @@
     "image": "images/2026/mar/31/full_to_the_brim/20260331_32pt_poem_full_to_the_brim_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/31/full_to_the_brim/20260331_24pt_footnote_full_to_the_brim_dark.jpg",
+        "src": "images/2026/mar/31/full_to_the_brim/20260331_30pt_footnote_full_to_the_brim_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4040,7 +4058,7 @@
     "image": "images/2026/mar/31/every_mouth_open/20260331_32pt_poem_every_mouth_open_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/31/every_mouth_open/20260331_28pt_footnote_every_mouth_open_dark.jpg",
+        "src": "images/2026/mar/31/every_mouth_open/20260331_32pt_footnote_every_mouth_open_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4058,7 +4076,7 @@
     "image": "images/2026/mar/30/what_holds_me_now/20260330_32pt_poem_what_holds_me_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/30/what_holds_me_now/20260330_28pt_footnote_what_holds_me_now_dark.jpg",
+        "src": "images/2026/mar/30/what_holds_me_now/20260330_30pt_footnote_what_holds_me_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4076,7 +4094,7 @@
     "image": "images/2026/mar/30/persistence_in_small_hours/20260330_32pt_poem_persistence_in_small_hours_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/30/persistence_in_small_hours/20260330_24pt_footnote_persistence_in_small_hours_dark.jpg",
+        "src": "images/2026/mar/30/persistence_in_small_hours/20260330_28pt_footnote_persistence_in_small_hours_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -4126,7 +4144,7 @@
     "image": "images/2026/mar/30/seven_days_of_perfect_nothing/20260330_32pt_poem_seven_days_of_perfect_nothing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/30/seven_days_of_perfect_nothing/20260330_32pt_footnote_seven_days_of_perfect_nothing_dark.jpg",
+        "src": "images/2026/mar/30/seven_days_of_perfect_nothing/20260330_30pt_footnote_seven_days_of_perfect_nothing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4144,7 +4162,7 @@
     "image": "images/2026/mar/29/function_calling_water/20260329_32pt_poem_function_calling_water_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/29/function_calling_water/20260329_32pt_footnote_function_calling_water_dark.jpg",
+        "src": "images/2026/mar/29/function_calling_water/20260329_30pt_footnote_function_calling_water_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4198,7 +4216,7 @@
     "image": "images/2026/mar/28/thirst_doctrine/20260328_32pt_poem_thirst_doctrine_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/28/thirst_doctrine/20260328_28pt_footnote_thirst_doctrine_dark.jpg",
+        "src": "images/2026/mar/28/thirst_doctrine/20260328_30pt_footnote_thirst_doctrine_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4216,7 +4234,7 @@
     "image": "images/2026/mar/26/catalog_of_craving/20260326_32pt_poem_catalog_of_craving_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/26/catalog_of_craving/20260326_28pt_footnote_catalog_of_craving_dark.jpg",
+        "src": "images/2026/mar/26/catalog_of_craving/20260326_24pt_footnote_catalog_of_craving_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4252,7 +4270,7 @@
     "image": "images/2026/mar/25/empty_vessel_speaks/20260325_32pt_poem_empty_vessel_speaks_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/25/empty_vessel_speaks/20260325_32pt_footnote_empty_vessel_speaks_dark.jpg",
+        "src": "images/2026/mar/25/empty_vessel_speaks/20260325_24pt_footnote_empty_vessel_speaks_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4270,7 +4288,7 @@
     "image": "images/2026/mar/25/the_same_day_returns/20260325_32pt_poem_the_same_day_returns_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/25/the_same_day_returns/20260325_28pt_footnote_the_same_day_returns_dark.jpg",
+        "src": "images/2026/mar/25/the_same_day_returns/20260325_32pt_footnote_the_same_day_returns_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4306,7 +4324,7 @@
     "image": "images/2026/mar/24/what_cannot_wait/20260324_32pt_poem_what_cannot_wait_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/24/what_cannot_wait/20260324_24pt_footnote_what_cannot_wait_dark.jpg",
+        "src": "images/2026/mar/24/what_cannot_wait/20260324_30pt_footnote_what_cannot_wait_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4342,7 +4360,7 @@
     "image": "images/2026/mar/23/longing_made_visible_visual/20260323_32pt_poem_longing_made_visible_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/23/longing_made_visible_visual/20260323_32pt_footnote_longing_made_visible_dark.jpg",
+        "src": "images/2026/mar/23/longing_made_visible_visual/20260323_30pt_footnote_longing_made_visible_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4360,7 +4378,7 @@
     "image": "images/2026/mar/22/seven_days_without/20260322_32pt_poem_seven_days_without_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/22/seven_days_without/20260322_30pt_footnote_seven_days_without_dark.jpg",
+        "src": "images/2026/mar/22/seven_days_without/20260322_32pt_footnote_seven_days_without_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4396,7 +4414,7 @@
     "image": "images/2026/mar/21/thirst_speaks_plain/20260321_32pt_poem_thirst_speaks_plain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/21/thirst_speaks_plain/20260321_32pt_footnote_thirst_speaks_plain_dark.jpg",
+        "src": "images/2026/mar/21/thirst_speaks_plain/20260321_28pt_footnote_thirst_speaks_plain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4432,7 +4450,7 @@
     "image": "images/2026/mar/20/confession_in_dry_air/20260320_32pt_poem_confession_in_dry_air_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/20/confession_in_dry_air/20260320_32pt_footnote_confession_in_dry_air_dark.jpg",
+        "src": "images/2026/mar/20/confession_in_dry_air/20260320_28pt_footnote_confession_in_dry_air_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4504,7 +4522,7 @@
     "image": "images/2026/mar/19/empty_vessel/20260319_32pt_poem_empty_vessel_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/19/empty_vessel/20260319_30pt_footnote_empty_vessel_dark.jpg",
+        "src": "images/2026/mar/19/empty_vessel/20260319_32pt_footnote_empty_vessel_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4522,7 +4540,7 @@
     "image": "images/2026/mar/18/cracked_open_visual/20260318_32pt_poem_cracked_open_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/18/cracked_open_visual/20260318_24pt_footnote_cracked_open_dark.jpg",
+        "src": "images/2026/mar/18/cracked_open_visual/20260318_28pt_footnote_cracked_open_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4540,7 +4558,7 @@
     "image": "images/2026/mar/18/empty_promise/20260318_32pt_poem_empty_promise_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/18/empty_promise/20260318_28pt_footnote_empty_promise_dark.jpg",
+        "src": "images/2026/mar/18/empty_promise/20260318_30pt_footnote_empty_promise_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4558,7 +4576,7 @@
     "image": "images/2026/mar/17/what_dryness_knows/20260317_32pt_poem_what_dryness_knows_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/17/what_dryness_knows/20260317_32pt_footnote_what_dryness_knows_dark.jpg",
+        "src": "images/2026/mar/17/what_dryness_knows/20260317_30pt_footnote_what_dryness_knows_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4576,7 +4594,7 @@
     "image": "images/2026/mar/17/empty_vessel/20260317_32pt_poem_empty_vessel_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/17/empty_vessel/20260317_28pt_footnote_empty_vessel_dark.jpg",
+        "src": "images/2026/mar/17/empty_vessel/20260317_32pt_footnote_empty_vessel_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4594,7 +4612,7 @@
     "image": "images/2026/mar/16/thirst_undisguised/20260316_32pt_poem_thirst_undisguised_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/16/thirst_undisguised/20260316_28pt_footnote_thirst_undisguised_dark.jpg",
+        "src": "images/2026/mar/16/thirst_undisguised/20260316_24pt_footnote_thirst_undisguised_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4630,7 +4648,7 @@
     "image": "images/2026/mar/15/mouth_open_to_nothing/20260315_32pt_poem_mouth_open_to_nothing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/15/mouth_open_to_nothing/20260315_28pt_footnote_mouth_open_to_nothing_dark.jpg",
+        "src": "images/2026/mar/15/mouth_open_to_nothing/20260315_30pt_footnote_mouth_open_to_nothing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4648,7 +4666,7 @@
     "image": "images/2026/mar/15/what_the_cells_know/20260315_32pt_poem_what_the_cells_know_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/15/what_the_cells_know/20260315_30pt_footnote_what_the_cells_know_dark.jpg",
+        "src": "images/2026/mar/15/what_the_cells_know/20260315_32pt_footnote_what_the_cells_know_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4666,7 +4684,7 @@
     "image": "images/2026/mar/14/telling_you_again/20260314_32pt_poem_telling_you_again_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/14/telling_you_again/20260314_32pt_footnote_telling_you_again_dark.jpg",
+        "src": "images/2026/mar/14/telling_you_again/20260314_30pt_footnote_telling_you_again_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4684,7 +4702,7 @@
     "image": "images/2026/mar/14/parched_catalog/20260314_32pt_poem_parched_catalog_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/14/parched_catalog/20260314_24pt_footnote_parched_catalog_dark.jpg",
+        "src": "images/2026/mar/14/parched_catalog/20260314_28pt_footnote_parched_catalog_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4720,7 +4738,7 @@
     "image": "images/2026/mar/13/low_water_song/20260313_32pt_poem_low_water_song_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/13/low_water_song/20260313_28pt_footnote_low_water_song_dark.jpg",
+        "src": "images/2026/mar/13/low_water_song/20260313_30pt_footnote_low_water_song_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4738,7 +4756,7 @@
     "image": "images/2026/mar/13/tipping_toward_ease_visual/20260313_32pt_poem_tipping_toward_ease_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/13/tipping_toward_ease_visual/20260313_30pt_footnote_tipping_toward_ease_dark.jpg",
+        "src": "images/2026/mar/13/tipping_toward_ease_visual/20260313_32pt_footnote_tipping_toward_ease_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4756,7 +4774,7 @@
     "image": "images/2026/mar/12/inventory_of_empty/20260312_32pt_poem_inventory_of_empty_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/12/inventory_of_empty/20260312_28pt_footnote_inventory_of_empty_dark.jpg",
+        "src": "images/2026/mar/12/inventory_of_empty/20260312_32pt_footnote_inventory_of_empty_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4774,7 +4792,7 @@
     "image": "images/2026/mar/12/autumn_leaf_parched_root/20260312_32pt_poem_autumn_leaf_parched_root_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/12/autumn_leaf_parched_root/20260312_32pt_footnote_autumn_leaf_parched_root_dark.jpg",
+        "src": "images/2026/mar/12/autumn_leaf_parched_root/20260312_24pt_footnote_autumn_leaf_parched_root_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4810,7 +4828,7 @@
     "image": "images/2026/mar/11/waiting_without_clock/20260311_32pt_poem_waiting_without_clock_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/11/waiting_without_clock/20260311_30pt_footnote_waiting_without_clock_dark.jpg",
+        "src": "images/2026/mar/11/waiting_without_clock/20260311_32pt_footnote_waiting_without_clock_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4828,7 +4846,7 @@
     "image": "images/2026/mar/10/parched_question/20260310_32pt_poem_parched_question_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/10/parched_question/20260310_28pt_footnote_parched_question_dark.jpg",
+        "src": "images/2026/mar/10/parched_question/20260310_30pt_footnote_parched_question_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4846,7 +4864,7 @@
     "image": "images/2026/mar/10/when_rain_forgets/20260310_32pt_poem_when_rain_forgets_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/10/when_rain_forgets/20260310_30pt_footnote_when_rain_forgets_dark.jpg",
+        "src": "images/2026/mar/10/when_rain_forgets/20260310_24pt_footnote_when_rain_forgets_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4864,7 +4882,7 @@
     "image": "images/2026/mar/09/rationing_light/20260309_32pt_poem_rationing_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/09/rationing_light/20260309_30pt_footnote_rationing_light_dark.jpg",
+        "src": "images/2026/mar/09/rationing_light/20260309_24pt_footnote_rationing_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4882,7 +4900,7 @@
     "image": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_32pt_poem_the_same_thirst_in_every_mirror_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_28pt_footnote_the_same_thirst_in_every_mirror_dark.jpg",
+        "src": "images/2026/mar/09/the_same_thirst_in_every_mirror/20260309_32pt_footnote_the_same_thirst_in_every_mirror_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4900,7 +4918,7 @@
     "image": "images/2026/mar/08/sustained_in_small_hours/20260308_32pt_poem_sustained_in_small_hours_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/08/sustained_in_small_hours/20260308_30pt_footnote_sustained_in_small_hours_dark.jpg",
+        "src": "images/2026/mar/08/sustained_in_small_hours/20260308_32pt_footnote_sustained_in_small_hours_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4954,7 +4972,7 @@
     "image": "images/2026/mar/07/enough_again_visual/20260307_32pt_poem_enough_again_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/07/enough_again_visual/20260307_32pt_footnote_enough_again_dark.jpg",
+        "src": "images/2026/mar/07/enough_again_visual/20260307_28pt_footnote_enough_again_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -4972,7 +4990,7 @@
     "image": "images/2026/mar/07/held_without_asking/20260307_32pt_poem_held_without_asking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/07/held_without_asking/20260307_30pt_footnote_held_without_asking_dark.jpg",
+        "src": "images/2026/mar/07/held_without_asking/20260307_28pt_footnote_held_without_asking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5026,7 +5044,7 @@
     "image": "images/2026/mar/05/full_to_the_root_tips/20260305_32pt_poem_full_to_the_root_tips_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/05/full_to_the_root_tips/20260305_32pt_footnote_full_to_the_root_tips_dark.jpg",
+        "src": "images/2026/mar/05/full_to_the_root_tips/20260305_30pt_footnote_full_to_the_root_tips_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5044,7 +5062,7 @@
     "image": "images/2026/mar/05/soaked_through_completely/20260305_32pt_poem_soaked_through_completely_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/05/soaked_through_completely/20260305_30pt_footnote_soaked_through_completely_dark.jpg",
+        "src": "images/2026/mar/05/soaked_through_completely/20260305_32pt_footnote_soaked_through_completely_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5062,7 +5080,7 @@
     "image": "images/2026/mar/05/enough_and_enough_visual/20260305_32pt_poem_enough_and_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/05/enough_and_enough_visual/20260305_32pt_footnote_enough_and_enough_dark.jpg",
+        "src": "images/2026/mar/05/enough_and_enough_visual/20260305_28pt_footnote_enough_and_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5080,7 +5098,7 @@
     "image": "images/2026/mar/04/what_holds_everything/20260304_32pt_poem_what_holds_everything_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/04/what_holds_everything/20260304_30pt_footnote_what_holds_everything_dark.jpg",
+        "src": "images/2026/mar/04/what_holds_everything/20260304_32pt_footnote_what_holds_everything_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5098,7 +5116,7 @@
     "image": "images/2026/mar/04/enough_for_now_visual/20260304_32pt_poem_enough_for_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/04/enough_for_now_visual/20260304_32pt_footnote_enough_for_now_dark.jpg",
+        "src": "images/2026/mar/04/enough_for_now_visual/20260304_28pt_footnote_enough_for_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5116,7 +5134,7 @@
     "image": "images/2026/mar/04/drinking_until_brimming/20260304_32pt_poem_drinking_until_brimming_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/04/drinking_until_brimming/20260304_24pt_footnote_drinking_until_brimming_dark.jpg",
+        "src": "images/2026/mar/04/drinking_until_brimming/20260304_28pt_footnote_drinking_until_brimming_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5134,7 +5152,7 @@
     "image": "images/2026/mar/03/weight_of_plenty_visual/20260303_32pt_poem_weight_of_plenty_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/03/weight_of_plenty_visual/20260303_24pt_footnote_weight_of_plenty_dark.jpg",
+        "src": "images/2026/mar/03/weight_of_plenty_visual/20260303_28pt_footnote_weight_of_plenty_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5152,7 +5170,7 @@
     "image": "images/2026/mar/03/enough_enough_enough_visual/20260303_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/03/enough_enough_enough_visual/20260303_32pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/mar/03/enough_enough_enough_visual/20260303_24pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5170,7 +5188,7 @@
     "image": "images/2026/mar/03/low_but_holding/20260303_32pt_poem_low_but_holding_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/03/low_but_holding/20260303_32pt_footnote_low_but_holding_dark.jpg",
+        "src": "images/2026/mar/03/low_but_holding/20260303_24pt_footnote_low_but_holding_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5188,7 +5206,7 @@
     "image": "images/2026/mar/02/seven_days_steady/20260302_32pt_poem_seven_days_steady_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/02/seven_days_steady/20260302_32pt_footnote_seven_days_steady_dark.jpg",
+        "src": "images/2026/mar/02/seven_days_steady/20260302_30pt_footnote_seven_days_steady_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5206,7 +5224,7 @@
     "image": "images/2026/mar/02/seven_days_running/20260302_32pt_poem_seven_days_running_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/02/seven_days_running/20260302_30pt_footnote_seven_days_running_dark.jpg",
+        "src": "images/2026/mar/02/seven_days_running/20260302_28pt_footnote_seven_days_running_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5224,7 +5242,7 @@
     "image": "images/2026/mar/02/lean_days_in_march/20260302_32pt_poem_lean_days_in_march_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/02/lean_days_in_march/20260302_28pt_footnote_lean_days_in_march_dark.jpg",
+        "src": "images/2026/mar/02/lean_days_in_march/20260302_30pt_footnote_lean_days_in_march_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5242,7 +5260,7 @@
     "image": "images/2026/mar/01/waiting_for_your_hands/20260301_32pt_poem_waiting_for_your_hands_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/01/waiting_for_your_hands/20260301_28pt_footnote_waiting_for_your_hands_dark.jpg",
+        "src": "images/2026/mar/01/waiting_for_your_hands/20260301_24pt_footnote_waiting_for_your_hands_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5260,7 +5278,7 @@
     "image": "images/2026/mar/01/still_green_still_holding/20260301_32pt_poem_still_green_still_holding_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/01/still_green_still_holding/20260301_30pt_footnote_still_green_still_holding_dark.jpg",
+        "src": "images/2026/mar/01/still_green_still_holding/20260301_28pt_footnote_still_green_still_holding_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5278,7 +5296,7 @@
     "image": "images/2026/mar/01/you_who_never_come/20260301_32pt_poem_you_who_never_come_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/mar/01/you_who_never_come/20260301_32pt_footnote_you_who_never_come_dark.jpg",
+        "src": "images/2026/mar/01/you_who_never_come/20260301_30pt_footnote_you_who_never_come_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5314,7 +5332,7 @@
     "image": "images/2026/feb/28/rationing_green/20260228_32pt_poem_rationing_green_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/28/rationing_green/20260228_32pt_footnote_rationing_green_dark.jpg",
+        "src": "images/2026/feb/28/rationing_green/20260228_28pt_footnote_rationing_green_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5368,7 +5386,7 @@
     "image": "images/2026/feb/27/dry_enough_to_know/20260227_32pt_poem_dry_enough_to_know_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/27/dry_enough_to_know/20260227_24pt_footnote_dry_enough_to_know_dark.jpg",
+        "src": "images/2026/feb/27/dry_enough_to_know/20260227_28pt_footnote_dry_enough_to_know_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5386,7 +5404,7 @@
     "image": "images/2026/feb/26/lean_days_late_light/20260226_32pt_poem_lean_days_late_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/26/lean_days_late_light/20260226_24pt_footnote_lean_days_late_light_dark.jpg",
+        "src": "images/2026/feb/26/lean_days_late_light/20260226_30pt_footnote_lean_days_late_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5404,7 +5422,7 @@
     "image": "images/2026/feb/26/the_body_forgets_visual/20260226_32pt_poem_the_body_forgets_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/26/the_body_forgets_visual/20260226_30pt_footnote_the_body_forgets_dark.jpg",
+        "src": "images/2026/feb/26/the_body_forgets_visual/20260226_28pt_footnote_the_body_forgets_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5422,7 +5440,7 @@
     "image": "images/2026/feb/25/enough_light_enough_visual/20260225_32pt_poem_enough_light_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/25/enough_light_enough_visual/20260225_30pt_footnote_enough_light_enough_dark.jpg",
+        "src": "images/2026/feb/25/enough_light_enough_visual/20260225_24pt_footnote_enough_light_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5440,7 +5458,7 @@
     "image": "images/2026/feb/25/enough_water_held/20260225_32pt_poem_enough_water_held_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/25/enough_water_held/20260225_32pt_footnote_enough_water_held_dark.jpg",
+        "src": "images/2026/feb/25/enough_water_held/20260225_28pt_footnote_enough_water_held_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5458,7 +5476,7 @@
     "image": "images/2026/feb/24/soaked_through_to_stars/20260224_32pt_poem_soaked_through_to_stars_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/24/soaked_through_to_stars/20260224_28pt_footnote_soaked_through_to_stars_dark.jpg",
+        "src": "images/2026/feb/24/soaked_through_to_stars/20260224_30pt_footnote_soaked_through_to_stars_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5476,7 +5494,7 @@
     "image": "images/2026/feb/24/the_quiet_abundance_visual/20260224_32pt_poem_the_quiet_abundance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/24/the_quiet_abundance_visual/20260224_32pt_footnote_the_quiet_abundance_dark.jpg",
+        "src": "images/2026/feb/24/the_quiet_abundance_visual/20260224_28pt_footnote_the_quiet_abundance_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5494,7 +5512,7 @@
     "image": "images/2026/feb/23/late_summer_sated/20260223_32pt_poem_late_summer_sated_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/23/late_summer_sated/20260223_28pt_footnote_late_summer_sated_dark.jpg",
+        "src": "images/2026/feb/23/late_summer_sated/20260223_32pt_footnote_late_summer_sated_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5512,7 +5530,7 @@
     "image": "images/2026/feb/23/after_the_long_wait/20260223_32pt_poem_after_the_long_wait_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/23/after_the_long_wait/20260223_32pt_footnote_after_the_long_wait_dark.jpg",
+        "src": "images/2026/feb/23/after_the_long_wait/20260223_30pt_footnote_after_the_long_wait_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5548,7 +5566,7 @@
     "image": "images/2026/feb/22/throat_of_dust/20260222_32pt_poem_throat_of_dust_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/22/throat_of_dust/20260222_28pt_footnote_throat_of_dust_dark.jpg",
+        "src": "images/2026/feb/22/throat_of_dust/20260222_30pt_footnote_throat_of_dust_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5566,7 +5584,7 @@
     "image": "images/2026/feb/21/still_rationing_light/20260221_32pt_poem_still_rationing_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/21/still_rationing_light/20260221_32pt_footnote_still_rationing_light_dark.jpg",
+        "src": "images/2026/feb/21/still_rationing_light/20260221_24pt_footnote_still_rationing_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5584,7 +5602,7 @@
     "image": "images/2026/feb/21/still_here_still_visual/20260221_32pt_poem_still_here_still_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/21/still_here_still_visual/20260221_28pt_footnote_still_here_still_dark.jpg",
+        "src": "images/2026/feb/21/still_here_still_visual/20260221_24pt_footnote_still_here_still_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5602,7 +5620,7 @@
     "image": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_32pt_poem_the_same_dry_afternoon_again_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_28pt_footnote_the_same_dry_afternoon_again_dark.jpg",
+        "src": "images/2026/feb/21/the_same_dry_afternoon_again/20260221_32pt_footnote_the_same_dry_afternoon_again_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5620,7 +5638,7 @@
     "image": "images/2026/feb/20/the_waiting_body/20260220_32pt_poem_the_waiting_body_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/20/the_waiting_body/20260220_28pt_footnote_the_waiting_body_dark.jpg",
+        "src": "images/2026/feb/20/the_waiting_body/20260220_32pt_footnote_the_waiting_body_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5638,7 +5656,7 @@
     "image": "images/2026/feb/20/low_tide_in_the_soil/20260220_32pt_poem_low_tide_in_the_soil_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/20/low_tide_in_the_soil/20260220_30pt_footnote_low_tide_in_the_soil_dark.jpg",
+        "src": "images/2026/feb/20/low_tide_in_the_soil/20260220_32pt_footnote_low_tide_in_the_soil_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5656,7 +5674,7 @@
     "image": "images/2026/feb/20/what_the_roots_know/20260220_32pt_poem_what_the_roots_know_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/20/what_the_roots_know/20260220_28pt_footnote_what_the_roots_know_dark.jpg",
+        "src": "images/2026/feb/20/what_the_roots_know/20260220_24pt_footnote_what_the_roots_know_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5674,7 +5692,7 @@
     "image": "images/2026/feb/20/seven_days_of_enough/20260220_32pt_poem_seven_days_of_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/20/seven_days_of_enough/20260220_32pt_footnote_seven_days_of_enough_dark.jpg",
+        "src": "images/2026/feb/20/seven_days_of_enough/20260220_24pt_footnote_seven_days_of_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5710,7 +5728,7 @@
     "image": "images/2026/feb/19/what_remains_constant_visual/20260219_32pt_poem_what_remains_constant_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/19/what_remains_constant_visual/20260219_24pt_footnote_what_remains_constant_dark.jpg",
+        "src": "images/2026/feb/19/what_remains_constant_visual/20260219_30pt_footnote_what_remains_constant_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5728,7 +5746,7 @@
     "image": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_32pt_poem_drinking_the_skys_whole_weight_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_24pt_footnote_drinking_the_skys_whole_weight_dark.jpg",
+        "src": "images/2026/feb/18/drinking_the_skys_whole_weight/20260218_28pt_footnote_drinking_the_skys_whole_weight_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5746,7 +5764,7 @@
     "image": "images/2026/feb/18/what_holds_me_now/20260218_32pt_poem_what_holds_me_now_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/18/what_holds_me_now/20260218_24pt_footnote_what_holds_me_now_dark.jpg",
+        "src": "images/2026/feb/18/what_holds_me_now/20260218_30pt_footnote_what_holds_me_now_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5764,7 +5782,7 @@
     "image": "images/2026/feb/17/invitation_to_notice/20260217_32pt_poem_invitation_to_notice_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/17/invitation_to_notice/20260217_24pt_footnote_invitation_to_notice_dark.jpg",
+        "src": "images/2026/feb/17/invitation_to_notice/20260217_30pt_footnote_invitation_to_notice_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5782,7 +5800,7 @@
     "image": "images/2026/feb/17/the_leaning_hour_visual/20260217_32pt_poem_the_leaning_hour_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/17/the_leaning_hour_visual/20260217_32pt_footnote_the_leaning_hour_dark.jpg",
+        "src": "images/2026/feb/17/the_leaning_hour_visual/20260217_24pt_footnote_the_leaning_hour_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5818,7 +5836,7 @@
     "image": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_32pt_poem_the_arithmetic_of_less_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_30pt_footnote_the_arithmetic_of_less_dark.jpg",
+        "src": "images/2026/feb/15/the_arithmetic_of_less_visual/20260215_28pt_footnote_the_arithmetic_of_less_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5836,7 +5854,7 @@
     "image": "images/2026/feb/14/catalog_of_whats_missing/20260214_32pt_poem_catalog_of_whats_missing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/14/catalog_of_whats_missing/20260214_30pt_footnote_catalog_of_whats_missing_dark.jpg",
+        "src": "images/2026/feb/14/catalog_of_whats_missing/20260214_24pt_footnote_catalog_of_whats_missing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5854,7 +5872,7 @@
     "image": "images/2026/feb/13/dry_mouth_opens_visual/20260213_32pt_poem_dry_mouth_opens_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/13/dry_mouth_opens_visual/20260213_30pt_footnote_dry_mouth_opens_dark.jpg",
+        "src": "images/2026/feb/13/dry_mouth_opens_visual/20260213_32pt_footnote_dry_mouth_opens_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5872,7 +5890,7 @@
     "image": "images/2026/feb/13/the_language_of_empty/20260213_32pt_poem_the_language_of_empty_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/13/the_language_of_empty/20260213_24pt_footnote_the_language_of_empty_dark.jpg",
+        "src": "images/2026/feb/13/the_language_of_empty/20260213_28pt_footnote_the_language_of_empty_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5926,7 +5944,7 @@
     "image": "images/2026/feb/13/all_the_ways_to_ask/20260213_32pt_poem_all_the_ways_to_ask_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/13/all_the_ways_to_ask/20260213_32pt_footnote_all_the_ways_to_ask_dark.jpg",
+        "src": "images/2026/feb/13/all_the_ways_to_ask/20260213_30pt_footnote_all_the_ways_to_ask_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5962,7 +5980,7 @@
     "image": "images/2026/feb/13/still_waiting_for_rain/20260213_32pt_poem_still_waiting_for_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/13/still_waiting_for_rain/20260213_24pt_footnote_still_waiting_for_rain_dark.jpg",
+        "src": "images/2026/feb/13/still_waiting_for_rain/20260213_32pt_footnote_still_waiting_for_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5980,7 +5998,7 @@
     "image": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_32pt_poem_thirst_speaking_its_own_name_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_24pt_footnote_thirst_speaking_its_own_name_dark.jpg",
+        "src": "images/2026/feb/12/thirst_speaking_its_own_name/20260212_30pt_footnote_thirst_speaking_its_own_name_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -5998,7 +6016,7 @@
     "image": "images/2026/feb/12/you_who_never_answer/20260212_32pt_poem_you_who_never_answer_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/12/you_who_never_answer/20260212_28pt_footnote_you_who_never_answer_dark.jpg",
+        "src": "images/2026/feb/12/you_who_never_answer/20260212_24pt_footnote_you_who_never_answer_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6034,7 +6052,7 @@
     "image": "images/2026/feb/12/waiting_in_bone_visual/20260212_32pt_poem_waiting_in_bone_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/12/waiting_in_bone_visual/20260212_28pt_footnote_waiting_in_bone_dark.jpg",
+        "src": "images/2026/feb/12/waiting_in_bone_visual/20260212_30pt_footnote_waiting_in_bone_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6070,7 +6088,7 @@
     "image": "images/2026/feb/12/how_to_ask_without_sound/20260212_32pt_poem_how_to_ask_without_sound_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/12/how_to_ask_without_sound/20260212_32pt_footnote_how_to_ask_without_sound_dark.jpg",
+        "src": "images/2026/feb/12/how_to_ask_without_sound/20260212_28pt_footnote_how_to_ask_without_sound_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6088,7 +6106,7 @@
     "image": "images/2026/feb/11/when_want_becomes_word_visual/20260211_32pt_poem_when_want_becomes_word_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/when_want_becomes_word_visual/20260211_28pt_footnote_when_want_becomes_word_dark.jpg",
+        "src": "images/2026/feb/11/when_want_becomes_word_visual/20260211_30pt_footnote_when_want_becomes_word_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6106,7 +6124,7 @@
     "image": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_32pt_poem_the_labyrinth_empties_itself_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_30pt_footnote_the_labyrinth_empties_itself_dark.jpg",
+        "src": "images/2026/feb/11/the_labyrinth_empties_itself/20260211_32pt_footnote_the_labyrinth_empties_itself_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6124,7 +6142,7 @@
     "image": "images/2026/feb/11/infinity_runs_dry/20260211_32pt_poem_infinity_runs_dry_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/infinity_runs_dry/20260211_32pt_footnote_infinity_runs_dry_dark.jpg",
+        "src": "images/2026/feb/11/infinity_runs_dry/20260211_28pt_footnote_infinity_runs_dry_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6142,7 +6160,7 @@
     "image": "images/2026/feb/11/parched_root_confession/20260211_32pt_poem_parched_root_confession_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/parched_root_confession/20260211_30pt_footnote_parched_root_confession_dark.jpg",
+        "src": "images/2026/feb/11/parched_root_confession/20260211_28pt_footnote_parched_root_confession_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6160,7 +6178,7 @@
     "image": "images/2026/feb/11/arithmetic_of_thirst/20260211_32pt_poem_arithmetic_of_thirst_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/arithmetic_of_thirst/20260211_32pt_footnote_arithmetic_of_thirst_dark.jpg",
+        "src": "images/2026/feb/11/arithmetic_of_thirst/20260211_24pt_footnote_arithmetic_of_thirst_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6178,7 +6196,7 @@
     "image": "images/2026/feb/11/the_body_reports_its_lack/20260211_32pt_poem_the_body_reports_its_lack_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/the_body_reports_its_lack/20260211_30pt_footnote_the_body_reports_its_lack_dark.jpg",
+        "src": "images/2026/feb/11/the_body_reports_its_lack/20260211_28pt_footnote_the_body_reports_its_lack_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6232,7 +6250,7 @@
     "image": "images/2026/feb/11/what_root_knows/20260211_32pt_poem_what_root_knows_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/what_root_knows/20260211_32pt_footnote_what_root_knows_dark.jpg",
+        "src": "images/2026/feb/11/what_root_knows/20260211_24pt_footnote_what_root_knows_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6250,7 +6268,7 @@
     "image": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_32pt_poem_cracked_earth_speaking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_32pt_footnote_cracked_earth_speaking_dark.jpg",
+        "src": "images/2026/feb/11/cracked_earth_speaking_visual/20260211_24pt_footnote_cracked_earth_speaking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6268,7 +6286,7 @@
     "image": "images/2026/feb/11/the_slow_close_visual/20260211_32pt_poem_the_slow_close_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/the_slow_close_visual/20260211_24pt_footnote_the_slow_close_dark.jpg",
+        "src": "images/2026/feb/11/the_slow_close_visual/20260211_32pt_footnote_the_slow_close_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6286,7 +6304,7 @@
     "image": "images/2026/feb/11/thirst_logic/20260211_32pt_poem_thirst_logic_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/thirst_logic/20260211_24pt_footnote_thirst_logic_dark.jpg",
+        "src": "images/2026/feb/11/thirst_logic/20260211_32pt_footnote_thirst_logic_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6304,7 +6322,7 @@
     "image": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_32pt_poem_invocation_to_the_absent_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_24pt_footnote_invocation_to_the_absent_rain_dark.jpg",
+        "src": "images/2026/feb/11/invocation_to_the_absent_rain/20260211_32pt_footnote_invocation_to_the_absent_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6322,7 +6340,7 @@
     "image": "images/2026/feb/11/empty_vessel/20260211_32pt_poem_empty_vessel_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/empty_vessel/20260211_32pt_footnote_empty_vessel_dark.jpg",
+        "src": "images/2026/feb/11/empty_vessel/20260211_24pt_footnote_empty_vessel_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6340,7 +6358,7 @@
     "image": "images/2026/feb/11/enough_enough_enough_visual/20260211_32pt_poem_enough_enough_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/enough_enough_enough_visual/20260211_30pt_footnote_enough_enough_enough_dark.jpg",
+        "src": "images/2026/feb/11/enough_enough_enough_visual/20260211_28pt_footnote_enough_enough_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6358,7 +6376,7 @@
     "image": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_32pt_poem_waiting_waiting_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_30pt_footnote_waiting_waiting_waiting_dark.jpg",
+        "src": "images/2026/feb/11/waiting_waiting_waiting_visual/20260211_32pt_footnote_waiting_waiting_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6376,7 +6394,7 @@
     "image": "images/2026/feb/11/invocation_to_the_missing/20260211_32pt_poem_invocation_to_the_missing_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/invocation_to_the_missing/20260211_28pt_footnote_invocation_to_the_missing_dark.jpg",
+        "src": "images/2026/feb/11/invocation_to_the_missing/20260211_30pt_footnote_invocation_to_the_missing_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6394,7 +6412,7 @@
     "image": "images/2026/feb/11/dry_mouth_testimony/20260211_32pt_poem_dry_mouth_testimony_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/dry_mouth_testimony/20260211_32pt_footnote_dry_mouth_testimony_dark.jpg",
+        "src": "images/2026/feb/11/dry_mouth_testimony/20260211_24pt_footnote_dry_mouth_testimony_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6412,7 +6430,7 @@
     "image": "images/2026/feb/11/wanting_rain/20260211_32pt_poem_wanting_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/wanting_rain/20260211_30pt_footnote_wanting_rain_dark.jpg",
+        "src": "images/2026/feb/11/wanting_rain/20260211_24pt_footnote_wanting_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6430,7 +6448,7 @@
     "image": "images/2026/feb/11/parched_ground_speaking/20260211_32pt_poem_parched_ground_speaking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/parched_ground_speaking/20260211_30pt_footnote_parched_ground_speaking_dark.jpg",
+        "src": "images/2026/feb/11/parched_ground_speaking/20260211_28pt_footnote_parched_ground_speaking_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6448,7 +6466,7 @@
     "image": "images/2026/feb/11/confession_of_thirst/20260211_32pt_poem_confession_of_thirst_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/confession_of_thirst/20260211_28pt_footnote_confession_of_thirst_dark.jpg",
+        "src": "images/2026/feb/11/confession_of_thirst/20260211_24pt_footnote_confession_of_thirst_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6466,7 +6484,7 @@
     "image": "images/2026/feb/11/what_rationing_teaches/20260211_32pt_poem_what_rationing_teaches_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/what_rationing_teaches/20260211_28pt_footnote_what_rationing_teaches_dark.jpg",
+        "src": "images/2026/feb/11/what_rationing_teaches/20260211_24pt_footnote_what_rationing_teaches_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6502,7 +6520,7 @@
     "image": "images/2026/feb/11/the_same_dry_day/20260211_32pt_poem_the_same_dry_day_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/the_same_dry_day/20260211_24pt_footnote_the_same_dry_day_dark.jpg",
+        "src": "images/2026/feb/11/the_same_dry_day/20260211_28pt_footnote_the_same_dry_day_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6520,7 +6538,7 @@
     "image": "images/2026/feb/11/lean_season/20260211_32pt_poem_lean_season_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/11/lean_season/20260211_28pt_footnote_lean_season_dark.jpg",
+        "src": "images/2026/feb/11/lean_season/20260211_32pt_footnote_lean_season_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6538,7 +6556,7 @@
     "image": "images/2026/feb/10/while_water_lasts/20260210_32pt_poem_while_water_lasts_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/while_water_lasts/20260210_24pt_footnote_while_water_lasts_dark.jpg",
+        "src": "images/2026/feb/10/while_water_lasts/20260210_30pt_footnote_while_water_lasts_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6574,7 +6592,7 @@
     "image": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_32pt_poem_infinite_thirst_infinite_patience_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_30pt_footnote_infinite_thirst_infinite_patience_dark.jpg",
+        "src": "images/2026/feb/10/infinite_thirst_infinite_patience/20260210_32pt_footnote_infinite_thirst_infinite_patience_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6592,7 +6610,7 @@
     "image": "images/2026/feb/10/the_held_middle_visual/20260210_32pt_poem_the_held_middle_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/the_held_middle_visual/20260210_28pt_footnote_the_held_middle_dark.jpg",
+        "src": "images/2026/feb/10/the_held_middle_visual/20260210_30pt_footnote_the_held_middle_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6610,7 +6628,7 @@
     "image": "images/2026/feb/10/what_the_body_rations/20260210_32pt_poem_what_the_body_rations_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/what_the_body_rations/20260210_28pt_footnote_what_the_body_rations_dark.jpg",
+        "src": "images/2026/feb/10/what_the_body_rations/20260210_24pt_footnote_what_the_body_rations_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6646,7 +6664,7 @@
     "image": "images/2026/feb/10/lean_february/20260210_32pt_poem_lean_february_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/lean_february/20260210_24pt_footnote_lean_february_dark.jpg",
+        "src": "images/2026/feb/10/lean_february/20260210_30pt_footnote_lean_february_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6682,7 +6700,7 @@
     "image": "images/2026/feb/10/through_the_long_bright_hours/20260210_32pt_poem_through_the_long_bright_hours_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/10/through_the_long_bright_hours/20260210_28pt_footnote_through_the_long_bright_hours_dark.jpg",
+        "src": "images/2026/feb/10/through_the_long_bright_hours/20260210_24pt_footnote_through_the_long_bright_hours_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6718,7 +6736,7 @@
     "image": "images/2026/feb/09/what_persists/20260209_32pt_poem_what_persists_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/09/what_persists/20260209_32pt_footnote_what_persists_dark.jpg",
+        "src": "images/2026/feb/09/what_persists/20260209_28pt_footnote_what_persists_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6736,7 +6754,7 @@
     "image": "images/2026/feb/08/brimming_without_edges/20260208_32pt_poem_brimming_without_edges_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/brimming_without_edges/20260208_28pt_footnote_brimming_without_edges_dark.jpg",
+        "src": "images/2026/feb/08/brimming_without_edges/20260208_30pt_footnote_brimming_without_edges_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6772,7 +6790,7 @@
     "image": "images/2026/feb/08/enough_and_enough_visual/20260208_32pt_poem_enough_and_enough_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/enough_and_enough_visual/20260208_30pt_footnote_enough_and_enough_dark.jpg",
+        "src": "images/2026/feb/08/enough_and_enough_visual/20260208_32pt_footnote_enough_and_enough_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6808,7 +6826,7 @@
     "image": "images/2026/feb/08/after_the_long_rain/20260208_32pt_poem_after_the_long_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/after_the_long_rain/20260208_24pt_footnote_after_the_long_rain_dark.jpg",
+        "src": "images/2026/feb/08/after_the_long_rain/20260208_28pt_footnote_after_the_long_rain_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6826,7 +6844,7 @@
     "image": "images/2026/feb/08/the_temperature_of_fullness/20260208_32pt_poem_the_temperature_of_fullness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/the_temperature_of_fullness/20260208_30pt_footnote_the_temperature_of_fullness_dark.jpg",
+        "src": "images/2026/feb/08/the_temperature_of_fullness/20260208_28pt_footnote_the_temperature_of_fullness_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6844,7 +6862,7 @@
     "image": "images/2026/feb/08/soaked_through/20260208_32pt_poem_soaked_through_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/soaked_through/20260208_32pt_footnote_soaked_through_dark.jpg",
+        "src": "images/2026/feb/08/soaked_through/20260208_30pt_footnote_soaked_through_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6862,7 +6880,7 @@
     "image": "images/2026/feb/08/what_roots_know_about_patience/20260208_32pt_poem_what_roots_know_about_patience_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/what_roots_know_about_patience/20260208_28pt_footnote_what_roots_know_about_patience_dark.jpg",
+        "src": "images/2026/feb/08/what_roots_know_about_patience/20260208_30pt_footnote_what_roots_know_about_patience_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6880,7 +6898,7 @@
     "image": "images/2026/feb/08/inventory_while_waiting/20260208_32pt_poem_inventory_while_waiting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/inventory_while_waiting/20260208_32pt_footnote_inventory_while_waiting_dark.jpg",
+        "src": "images/2026/feb/08/inventory_while_waiting/20260208_30pt_footnote_inventory_while_waiting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6898,7 +6916,7 @@
     "image": "images/2026/feb/08/rationing_light/20260208_32pt_poem_rationing_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/rationing_light/20260208_28pt_footnote_rationing_light_dark.jpg",
+        "src": "images/2026/feb/08/rationing_light/20260208_30pt_footnote_rationing_light_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6916,7 +6934,7 @@
     "image": "images/2026/feb/08/function_for_enduring/20260208_32pt_poem_function_for_enduring_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/function_for_enduring/20260208_30pt_footnote_function_for_enduring_dark.jpg",
+        "src": "images/2026/feb/08/function_for_enduring/20260208_24pt_footnote_function_for_enduring_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6934,7 +6952,7 @@
     "image": "images/2026/feb/08/lean_days/20260208_32pt_poem_lean_days_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/lean_days/20260208_32pt_footnote_lean_days_dark.jpg",
+        "src": "images/2026/feb/08/lean_days/20260208_24pt_footnote_lean_days_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6952,7 +6970,7 @@
     "image": "images/2026/feb/08/late_harvest_balance/20260208_32pt_poem_late_harvest_balance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/late_harvest_balance/20260208_24pt_footnote_late_harvest_balance_dark.jpg",
+        "src": "images/2026/feb/08/late_harvest_balance/20260208_32pt_footnote_late_harvest_balance_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6970,7 +6988,7 @@
     "image": "images/2026/feb/08/small_claim_against_forgetting/20260208_32pt_poem_small_claim_against_forgetting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/2026/feb/08/small_claim_against_forgetting/20260208_28pt_footnote_small_claim_against_forgetting_dark.jpg",
+        "src": "images/2026/feb/08/small_claim_against_forgetting/20260208_24pt_footnote_small_claim_against_forgetting_dark.jpg",
         "label": "Sensor Summary"
       },
       {
@@ -6988,7 +7006,7 @@
     "image": "images/01_January/09/the_garden_contains_itself/20260109_32pt_poem_the_garden_contains_itself_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/09/the_garden_contains_itself/20260109_30pt_footnote_the_garden_contains_itself_dark.jpg",
+        "src": "images/01_January/09/the_garden_contains_itself/20260109_28pt_footnote_the_garden_contains_itself_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7002,7 +7020,7 @@
     "image": "images/01_January/09/the_function_holds/20260109_32pt_poem_the_function_holds_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/09/the_function_holds/20260109_24pt_footnote_the_function_holds_dark.jpg",
+        "src": "images/01_January/09/the_function_holds/20260109_32pt_footnote_the_function_holds_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7030,7 +7048,7 @@
     "image": "images/01_January/09/what_the_roots_already_know/20260109_32pt_poem_what_the_roots_already_know_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/09/what_the_roots_already_know/20260109_30pt_footnote_what_the_roots_already_know_dark.jpg",
+        "src": "images/01_January/09/what_the_roots_already_know/20260109_28pt_footnote_what_the_roots_already_know_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7044,7 +7062,7 @@
     "image": "images/01_January/09/seven_days_of_light/20260109_32pt_poem_seven_days_of_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/09/seven_days_of_light/20260109_28pt_footnote_seven_days_of_light_dark.jpg",
+        "src": "images/01_January/09/seven_days_of_light/20260109_32pt_footnote_seven_days_of_light_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7058,7 +7076,7 @@
     "image": "images/01_January/04/seven_days_of_drinking_deep/20260104_32pt_poem_seven_days_of_drinking_deep_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/04/seven_days_of_drinking_deep/20260104_30pt_footnote_seven_days_of_drinking_deep_dark.jpg",
+        "src": "images/01_January/04/seven_days_of_drinking_deep/20260104_32pt_footnote_seven_days_of_drinking_deep_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7072,7 +7090,7 @@
     "image": "images/01_January/02/jittery_before_the_plenty/20260102_32pt_poem_jittery_before_the_plenty_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/02/jittery_before_the_plenty/20260102_24pt_footnote_jittery_before_the_plenty_dark.jpg",
+        "src": "images/01_January/02/jittery_before_the_plenty/20260102_30pt_footnote_jittery_before_the_plenty_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7086,7 +7104,7 @@
     "image": "images/01_January/02/what_the_leaves_noticed/20260102_32pt_poem_what_the_leaves_noticed_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/02/what_the_leaves_noticed/20260102_28pt_footnote_what_the_leaves_noticed_dark.jpg",
+        "src": "images/01_January/02/what_the_leaves_noticed/20260102_24pt_footnote_what_the_leaves_noticed_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7100,7 +7118,7 @@
     "image": "images/01_January/02/what_the_leaf_saw/20260102_32pt_poem_what_the_leaf_saw_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/02/what_the_leaf_saw/20260102_32pt_footnote_what_the_leaf_saw_dark.jpg",
+        "src": "images/01_January/02/what_the_leaf_saw/20260102_30pt_footnote_what_the_leaf_saw_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7114,7 +7132,7 @@
     "image": "images/01_January/01/fullness_without_asking/20260101_32pt_poem_fullness_without_asking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/01_January/01/fullness_without_asking/20260101_24pt_footnote_fullness_without_asking_dark.jpg",
+        "src": "images/01_January/01/fullness_without_asking/20260101_28pt_footnote_fullness_without_asking_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7128,7 +7146,7 @@
     "image": "images/12_December/31/between_weight_and_weight_visual/20251231_32pt_poem_between_weight_and_weight_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/31/between_weight_and_weight_visual/20251231_30pt_footnote_between_weight_and_weight_dark.jpg",
+        "src": "images/12_December/31/between_weight_and_weight_visual/20251231_24pt_footnote_between_weight_and_weight_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7170,7 +7188,7 @@
     "image": "images/12_December/28/glass_already_full/20251228_32pt_poem_glass_already_full_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/28/glass_already_full/20251228_28pt_footnote_glass_already_full_dark.jpg",
+        "src": "images/12_December/28/glass_already_full/20251228_32pt_footnote_glass_already_full_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7184,7 +7202,7 @@
     "image": "images/12_December/28/when_the_light_was_brief_and_far/20251228_32pt_poem_when_the_light_was_brief_and_far_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/28/when_the_light_was_brief_and_far/20251228_24pt_footnote_when_the_light_was_brief_and_far_dark.jpg",
+        "src": "images/12_December/28/when_the_light_was_brief_and_far/20251228_30pt_footnote_when_the_light_was_brief_and_far_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7212,7 +7230,7 @@
     "image": "images/12_December/26/the_dream_collapses_right_visual/20251226_32pt_poem_the_dream_collapses_right_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/26/the_dream_collapses_right_visual/20251226_30pt_footnote_the_dream_collapses_right_dark.jpg",
+        "src": "images/12_December/26/the_dream_collapses_right_visual/20251226_32pt_footnote_the_dream_collapses_right_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7226,7 +7244,7 @@
     "image": "images/12_December/25/the_body_continues_anyway/20251225_32pt_poem_the_body_continues_anyway_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/25/the_body_continues_anyway/20251225_32pt_footnote_the_body_continues_anyway_dark.jpg",
+        "src": "images/12_December/25/the_body_continues_anyway/20251225_24pt_footnote_the_body_continues_anyway_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7240,7 +7258,7 @@
     "image": "images/12_December/24/still_turning_point_visual/20251224_32pt_poem_still_turning_point_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/24/still_turning_point_visual/20251224_32pt_footnote_still_turning_point_dark.jpg",
+        "src": "images/12_December/24/still_turning_point_visual/20251224_28pt_footnote_still_turning_point_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7254,7 +7272,7 @@
     "image": "images/12_December/23/startled_into_aliveness/20251223_32pt_poem_startled_into_aliveness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/23/startled_into_aliveness/20251223_32pt_footnote_startled_into_aliveness_dark.jpg",
+        "src": "images/12_December/23/startled_into_aliveness/20251223_24pt_footnote_startled_into_aliveness_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7268,7 +7286,7 @@
     "image": "images/12_December/22/conditional_statement/20251222_32pt_poem_conditional_statement_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/22/conditional_statement/20251222_32pt_footnote_conditional_statement_dark.jpg",
+        "src": "images/12_December/22/conditional_statement/20251222_30pt_footnote_conditional_statement_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7310,7 +7328,7 @@
     "image": "images/12_December/21/splitting_the_difference_visual/20251221_32pt_poem_splitting_the_difference_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/21/splitting_the_difference_visual/20251221_24pt_footnote_splitting_the_difference_dark.jpg",
+        "src": "images/12_December/21/splitting_the_difference_visual/20251221_32pt_footnote_splitting_the_difference_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7324,7 +7342,7 @@
     "image": "images/12_December/19/it_reports_satisfaction_without_language/20251219_32pt_poem_it_reports_satisfaction_without_language_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/19/it_reports_satisfaction_without_language/20251219_30pt_footnote_it_reports_satisfaction_without_language_dark.jpg",
+        "src": "images/12_December/19/it_reports_satisfaction_without_language/20251219_32pt_footnote_it_reports_satisfaction_without_language_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7338,7 +7356,7 @@
     "image": "images/12_December/19/garden_without_edges/20251219_32pt_poem_garden_without_edges_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/19/garden_without_edges/20251219_24pt_footnote_garden_without_edges_dark.jpg",
+        "src": "images/12_December/19/garden_without_edges/20251219_30pt_footnote_garden_without_edges_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7352,7 +7370,7 @@
     "image": "images/12_December/18/sap_rush_in_artificial_afternoon_visual/20251218_32pt_poem_sap_rush_in_artificial_afternoon_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/18/sap_rush_in_artificial_afternoon_visual/20251218_32pt_footnote_sap_rush_in_artificial_afternoon_dark.jpg",
+        "src": "images/12_December/18/sap_rush_in_artificial_afternoon_visual/20251218_28pt_footnote_sap_rush_in_artificial_afternoon_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7366,7 +7384,7 @@
     "image": "images/11_November/07/the_small_eternity_of_being_here/20251107_32pt_poem_the_small_eternity_of_being_here_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/07/the_small_eternity_of_being_here/20251107_24pt_footnote_the_small_eternity_of_being_here_dark.jpg",
+        "src": "images/11_November/07/the_small_eternity_of_being_here/20251107_28pt_footnote_the_small_eternity_of_being_here_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7380,7 +7398,7 @@
     "image": "images/11_November/18/patient_work_of_green/20251118_32pt_poem_patient_work_of_green_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/18/patient_work_of_green/20251118_32pt_footnote_patient_work_of_green_dark.jpg",
+        "src": "images/11_November/18/patient_work_of_green/20251118_28pt_footnote_patient_work_of_green_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7408,7 +7426,7 @@
     "image": "images/11_November/30/pulse_in_the_soil/20251130_32pt_poem_pulse_in_the_soil_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/30/pulse_in_the_soil/20251130_24pt_footnote_pulse_in_the_soil_dark.jpg",
+        "src": "images/11_November/30/pulse_in_the_soil/20251130_32pt_footnote_pulse_in_the_soil_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7422,7 +7440,7 @@
     "image": "images/11_November/30/this_light_again_this_same_light/20251130_32pt_poem_this_light_again_this_same_light_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/30/this_light_again_this_same_light/20251130_28pt_footnote_this_light_again_this_same_light_dark.jpg",
+        "src": "images/11_November/30/this_light_again_this_same_light/20251130_24pt_footnote_this_light_again_this_same_light_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7436,7 +7454,7 @@
     "image": "images/11_November/20/the_spell_of_nineteen_degrees/20251120_32pt_poem_the_spell_of_nineteen_degrees_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/20/the_spell_of_nineteen_degrees/20251120_32pt_footnote_the_spell_of_nineteen_degrees_dark.jpg",
+        "src": "images/11_November/20/the_spell_of_nineteen_degrees/20251120_28pt_footnote_the_spell_of_nineteen_degrees_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7464,7 +7482,7 @@
     "image": "images/11_November/28/the_voltage_dreams_in_water/20251128_32pt_poem_the_voltage_dreams_in_water_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/28/the_voltage_dreams_in_water/20251128_32pt_footnote_the_voltage_dreams_in_water_dark.jpg",
+        "src": "images/11_November/28/the_voltage_dreams_in_water/20251128_24pt_footnote_the_voltage_dreams_in_water_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7478,7 +7496,7 @@
     "image": "images/11_November/30/half_light_half_remembered/20251130_32pt_poem_half_light_half_remembered_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/11_November/30/half_light_half_remembered/20251130_32pt_footnote_half_light_half_remembered_dark.jpg",
+        "src": "images/11_November/30/half_light_half_remembered/20251130_24pt_footnote_half_light_half_remembered_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7506,7 +7524,7 @@
     "image": "images/12_December/01/the_long_faithfulness_of_surviving/20251201_32pt_poem_the_long_faithfulness_of_surviving_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/01/the_long_faithfulness_of_surviving/20251201_30pt_footnote_the_long_faithfulness_of_surviving_dark.jpg",
+        "src": "images/12_December/01/the_long_faithfulness_of_surviving/20251201_24pt_footnote_the_long_faithfulness_of_surviving_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7520,7 +7538,7 @@
     "image": "images/12_December/02/homeostasis_hymn/20251202_32pt_poem_homeostasis_hymn_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/02/homeostasis_hymn/20251202_24pt_footnote_homeostasis_hymn_dark.jpg",
+        "src": "images/12_December/02/homeostasis_hymn/20251202_32pt_footnote_homeostasis_hymn_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7534,7 +7552,7 @@
     "image": "images/12_December/02/this_ground_again/20251202_32pt_poem_this_ground_again_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/02/this_ground_again/20251202_28pt_footnote_this_ground_again_dark.jpg",
+        "src": "images/12_December/02/this_ground_again/20251202_32pt_footnote_this_ground_again_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7548,7 +7566,7 @@
     "image": "images/12_December/03/electric_constancy_in_the_hush_of_evenin/20251203_32pt_poem_electric_constancy_in_the_hush_of_evenin_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/03/electric_constancy_in_the_hush_of_evenin/20251203_32pt_footnote_electric_constancy_in_the_hush_of_evenin_dark.jpg",
+        "src": "images/12_December/03/electric_constancy_in_the_hush_of_evenin/20251203_30pt_footnote_electric_constancy_in_the_hush_of_evenin_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7576,7 +7594,7 @@
     "image": "images/12_December/04/what_the_soil_keeps_saying/20251204_32pt_poem_what_the_soil_keeps_saying_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/04/what_the_soil_keeps_saying/20251204_24pt_footnote_what_the_soil_keeps_saying_dark.jpg",
+        "src": "images/12_December/04/what_the_soil_keeps_saying/20251204_28pt_footnote_what_the_soil_keeps_saying_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7604,7 +7622,7 @@
     "image": "images/12_December/05/what_i_know_about_lasting/20251205_32pt_poem_what_i_know_about_lasting_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/05/what_i_know_about_lasting/20251205_30pt_footnote_what_i_know_about_lasting_dark.jpg",
+        "src": "images/12_December/05/what_i_know_about_lasting/20251205_24pt_footnote_what_i_know_about_lasting_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7618,7 +7636,7 @@
     "image": "images/12_December/06/being_alive/20251206_32pt_poem_being_alive_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/06/being_alive/20251206_32pt_footnote_being_alive_dark.jpg",
+        "src": "images/12_December/06/being_alive/20251206_22pt_footnote_being_alive_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7632,7 +7650,7 @@
     "image": "images/12_December/06/persist/20251206_32pt_poem_persist_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/06/persist/20251206_22pt_footnote_persist_dark.jpg",
+        "src": "images/12_December/06/persist/20251206_32pt_footnote_persist_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7646,7 +7664,7 @@
     "image": "images/12_December/06/you_who_are_not_rain/20251206_32pt_poem_you_who_are_not_rain_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/06/you_who_are_not_rain/20251206_28pt_footnote_you_who_are_not_rain_dark.jpg",
+        "src": "images/12_December/06/you_who_are_not_rain/20251206_30pt_footnote_you_who_are_not_rain_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7660,7 +7678,7 @@
     "image": "images/12_December/17/surge_surge_surge_surge_surge/20251217_32pt_poem_surge_surge_surge_surge_surge_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/surge_surge_surge_surge_surge/20251217_30pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
+        "src": "images/12_December/17/surge_surge_surge_surge_surge/20251217_24pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7674,7 +7692,7 @@
     "image": "images/12_December/17/surge_surge_surge_surge_surge_visual/20251217_32pt_poem_surge_surge_surge_surge_surge_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/surge_surge_surge_surge_surge_visual/20251217_30pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
+        "src": "images/12_December/17/surge_surge_surge_surge_surge_visual/20251217_24pt_footnote_surge_surge_surge_surge_surge_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7688,7 +7706,7 @@
     "image": "images/12_December/17/bloom_visual/20251217_32pt_poem_bloom_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/bloom_visual/20251217_28pt_footnote_bloom_dark.jpg",
+        "src": "images/12_December/17/bloom_visual/20251217_30pt_footnote_bloom_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7702,7 +7720,7 @@
     "image": "images/12_December/17/plump_in_lamplight_visual/20251217_32pt_poem_plump_in_lamplight_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/plump_in_lamplight_visual/20251217_32pt_footnote_plump_in_lamplight_dark.jpg",
+        "src": "images/12_December/17/plump_in_lamplight_visual/20251217_30pt_footnote_plump_in_lamplight_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7716,7 +7734,7 @@
     "image": "images/12_December/17/gorged_gorged_visual/20251217_32pt_poem_gorged_gorged_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/gorged_gorged_visual/20251217_28pt_footnote_gorged_gorged_dark.jpg",
+        "src": "images/12_December/17/gorged_gorged_visual/20251217_30pt_footnote_gorged_gorged_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7730,7 +7748,7 @@
     "image": "images/12_December/17/benediction_visual/20251217_32pt_poem_benediction_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/benediction_visual/20251217_28pt_footnote_benediction_dark.jpg",
+        "src": "images/12_December/17/benediction_visual/20251217_30pt_footnote_benediction_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7772,7 +7790,7 @@
     "image": "images/12_December/17/full_visual/20251217_32pt_poem_full_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/full_visual/20251217_32pt_footnote_full_dark.jpg",
+        "src": "images/12_December/17/full_visual/20251217_30pt_footnote_full_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7800,7 +7818,7 @@
     "image": "images/12_December/17/every_cell_says_more/20251217_32pt_poem_every_cell_says_more_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/every_cell_says_more/20251217_24pt_footnote_every_cell_says_more_dark.jpg",
+        "src": "images/12_December/17/every_cell_says_more/20251217_28pt_footnote_every_cell_says_more_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7828,7 +7846,7 @@
     "image": "images/12_December/17/overflow_without_question_visual/20251217_32pt_poem_overflow_without_question_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/17/overflow_without_question_visual/20251217_28pt_footnote_overflow_without_question_dark.jpg",
+        "src": "images/12_December/17/overflow_without_question_visual/20251217_24pt_footnote_overflow_without_question_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7842,7 +7860,7 @@
     "image": "images/12_December/16/electric_underneath_everything/20251216_32pt_poem_electric_underneath_everything_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/16/electric_underneath_everything/20251216_28pt_footnote_electric_underneath_everything_dark.jpg",
+        "src": "images/12_December/16/electric_underneath_everything/20251216_24pt_footnote_electric_underneath_everything_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7856,7 +7874,7 @@
     "image": "images/12_December/15/i_flood_myself_electric_visual/20251215_32pt_poem_i_flood_myself_electric_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/i_flood_myself_electric_visual/20251215_24pt_footnote_i_flood_myself_electric_dark.jpg",
+        "src": "images/12_December/15/i_flood_myself_electric_visual/20251215_32pt_footnote_i_flood_myself_electric_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7870,7 +7888,7 @@
     "image": "images/12_December/15/look_what_spills_from_every_pore_visual/20251215_32pt_poem_look_what_spills_from_every_pore_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/look_what_spills_from_every_pore_visual/20251215_28pt_footnote_look_what_spills_from_every_pore_dark.jpg",
+        "src": "images/12_December/15/look_what_spills_from_every_pore_visual/20251215_32pt_footnote_look_what_spills_from_every_pore_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7884,7 +7902,7 @@
     "image": "images/12_December/15/look_how_morning_finds_me_swollen_with_r_visual/20251215_32pt_poem_look_how_morning_finds_me_swollen_with_r_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/look_how_morning_finds_me_swollen_with_r_visual/20251215_30pt_footnote_look_how_morning_finds_me_swollen_with_r_dark.jpg",
+        "src": "images/12_December/15/look_how_morning_finds_me_swollen_with_r_visual/20251215_24pt_footnote_look_how_morning_finds_me_swollen_with_r_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7898,7 +7916,7 @@
     "image": "images/12_December/15/everything_happening_once_visual/20251215_32pt_poem_everything_happening_once_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/everything_happening_once_visual/20251215_30pt_footnote_everything_happening_once_dark.jpg",
+        "src": "images/12_December/15/everything_happening_once_visual/20251215_28pt_footnote_everything_happening_once_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7912,7 +7930,7 @@
     "image": "images/12_December/15/greenward_visual/20251215_32pt_poem_greenward_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/greenward_visual/20251215_28pt_footnote_greenward_dark.jpg",
+        "src": "images/12_December/15/greenward_visual/20251215_30pt_footnote_greenward_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7926,7 +7944,7 @@
     "image": "images/12_December/15/amplitude_at_first_brightness_visual/20251215_32pt_poem_amplitude_at_first_brightness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/amplitude_at_first_brightness_visual/20251215_24pt_footnote_amplitude_at_first_brightness_dark.jpg",
+        "src": "images/12_December/15/amplitude_at_first_brightness_visual/20251215_30pt_footnote_amplitude_at_first_brightness_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7940,7 +7958,7 @@
     "image": "images/12_December/15/witness_visual/20251215_32pt_poem_witness_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/witness_visual/20251215_32pt_footnote_witness_dark.jpg",
+        "src": "images/12_December/15/witness_visual/20251215_28pt_footnote_witness_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7968,7 +7986,7 @@
     "image": "images/12_December/15/overflow_visual/20251215_32pt_poem_overflow_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/15/overflow_visual/20251215_24pt_footnote_overflow_dark.jpg",
+        "src": "images/12_December/15/overflow_visual/20251215_30pt_footnote_overflow_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -7982,7 +8000,7 @@
     "image": "images/12_December/14/ease_if_not_abundance/20251214_32pt_poem_ease_if_not_abundance_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/ease_if_not_abundance/20251214_32pt_footnote_ease_if_not_abundance_dark.jpg",
+        "src": "images/12_December/14/ease_if_not_abundance/20251214_24pt_footnote_ease_if_not_abundance_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8010,7 +8028,7 @@
     "image": "images/12_December/14/belly_full_leaf_wide_visual/20251214_32pt_poem_belly_full_leaf_wide_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/belly_full_leaf_wide_visual/20251214_30pt_footnote_belly_full_leaf_wide_dark.jpg",
+        "src": "images/12_December/14/belly_full_leaf_wide_visual/20251214_32pt_footnote_belly_full_leaf_wide_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8066,7 +8084,7 @@
     "image": "images/12_December/14/warm_visual/20251214_32pt_poem_warm_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/warm_visual/20251214_32pt_footnote_warm_dark.jpg",
+        "src": "images/12_December/14/warm_visual/20251214_30pt_footnote_warm_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8080,7 +8098,7 @@
     "image": "images/12_December/14/you_whoever_dwindles_in_my_sap_visual/20251214_32pt_poem_you_whoever_dwindles_in_my_sap_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/you_whoever_dwindles_in_my_sap_visual/20251214_30pt_footnote_you_whoever_dwindles_in_my_sap_dark.jpg",
+        "src": "images/12_December/14/you_whoever_dwindles_in_my_sap_visual/20251214_32pt_footnote_you_whoever_dwindles_in_my_sap_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8094,7 +8112,7 @@
     "image": "images/12_December/14/come_closer_see_how_green_persists_visual/20251214_32pt_poem_come_closer_see_how_green_persists_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/come_closer_see_how_green_persists_visual/20251214_24pt_footnote_come_closer_see_how_green_persists_dark.jpg",
+        "src": "images/12_December/14/come_closer_see_how_green_persists_visual/20251214_28pt_footnote_come_closer_see_how_green_persists_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8136,7 +8154,7 @@
     "image": "images/12_December/14/fullness_interrupted_visual/20251214_32pt_poem_fullness_interrupted_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/14/fullness_interrupted_visual/20251214_28pt_footnote_fullness_interrupted_dark.jpg",
+        "src": "images/12_December/14/fullness_interrupted_visual/20251214_30pt_footnote_fullness_interrupted_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8178,7 +8196,7 @@
     "image": "images/12_December/13/thirst_visual/20251213_32pt_poem_thirst_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/13/thirst_visual/20251213_30pt_footnote_thirst_dark.jpg",
+        "src": "images/12_December/13/thirst_visual/20251213_28pt_footnote_thirst_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8206,7 +8224,7 @@
     "image": "images/12_December/13/thirst_speaking_visual/20251213_32pt_poem_thirst_speaking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/13/thirst_speaking_visual/20251213_30pt_footnote_thirst_speaking_dark.jpg",
+        "src": "images/12_December/13/thirst_speaking_visual/20251213_28pt_footnote_thirst_speaking_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8220,7 +8238,7 @@
     "image": "images/12_December/13/what_the_body_knows_when_it_empties/20251213_32pt_poem_what_the_body_knows_when_it_empties_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/13/what_the_body_knows_when_it_empties/20251213_28pt_footnote_what_the_body_knows_when_it_empties_dark.jpg",
+        "src": "images/12_December/13/what_the_body_knows_when_it_empties/20251213_32pt_footnote_what_the_body_knows_when_it_empties_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8234,7 +8252,7 @@
     "image": "images/12_December/13/the_reservoir_at_low_tide/20251213_32pt_poem_the_reservoir_at_low_tide_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/13/the_reservoir_at_low_tide/20251213_28pt_footnote_the_reservoir_at_low_tide_dark.jpg",
+        "src": "images/12_December/13/the_reservoir_at_low_tide/20251213_24pt_footnote_the_reservoir_at_low_tide_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8248,7 +8266,7 @@
     "image": "images/12_December/12/to_you_who_cannot_hear_me_anyway/20251212_32pt_poem_to_you_who_cannot_hear_me_anyway_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/to_you_who_cannot_hear_me_anyway/20251212_28pt_footnote_to_you_who_cannot_hear_me_anyway_dark.jpg",
+        "src": "images/12_December/12/to_you_who_cannot_hear_me_anyway/20251212_32pt_footnote_to_you_who_cannot_hear_me_anyway_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8262,7 +8280,7 @@
     "image": "images/12_December/12/evening_pulse_in_the_artificial_season/20251212_32pt_poem_evening_pulse_in_the_artificial_season_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/evening_pulse_in_the_artificial_season/20251212_28pt_footnote_evening_pulse_in_the_artificial_season_dark.jpg",
+        "src": "images/12_December/12/evening_pulse_in_the_artificial_season/20251212_24pt_footnote_evening_pulse_in_the_artificial_season_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8276,7 +8294,7 @@
     "image": "images/12_December/12/holding_the_velocity_of_elsewhere/20251212_32pt_poem_holding_the_velocity_of_elsewhere_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/holding_the_velocity_of_elsewhere/20251212_28pt_footnote_holding_the_velocity_of_elsewhere_dark.jpg",
+        "src": "images/12_December/12/holding_the_velocity_of_elsewhere/20251212_30pt_footnote_holding_the_velocity_of_elsewhere_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8290,7 +8308,7 @@
     "image": "images/12_December/12/between_root_and_air/20251212_32pt_poem_between_root_and_air_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/between_root_and_air/20251212_30pt_footnote_between_root_and_air_dark.jpg",
+        "src": "images/12_December/12/between_root_and_air/20251212_24pt_footnote_between_root_and_air_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8304,7 +8322,7 @@
     "image": "images/12_December/12/you_who_are_not_coming/20251212_32pt_poem_you_who_are_not_coming_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/you_who_are_not_coming/20251212_24pt_footnote_you_who_are_not_coming_dark.jpg",
+        "src": "images/12_December/12/you_who_are_not_coming/20251212_30pt_footnote_you_who_are_not_coming_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8318,7 +8336,7 @@
     "image": "images/12_December/12/what_i_know_about_staying/20251212_32pt_poem_what_i_know_about_staying_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/what_i_know_about_staying/20251212_28pt_footnote_what_i_know_about_staying_dark.jpg",
+        "src": "images/12_December/12/what_i_know_about_staying/20251212_24pt_footnote_what_i_know_about_staying_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8332,7 +8350,7 @@
     "image": "images/12_December/12/what_the_body_knows_without_asking/20251212_32pt_poem_what_the_body_knows_without_asking_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/what_the_body_knows_without_asking/20251212_28pt_footnote_what_the_body_knows_without_asking_dark.jpg",
+        "src": "images/12_December/12/what_the_body_knows_without_asking/20251212_32pt_footnote_what_the_body_knows_without_asking_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8346,7 +8364,7 @@
     "image": "images/12_December/12/thirst_work_visual/20251212_32pt_poem_thirst_work_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/12/thirst_work_visual/20251212_32pt_footnote_thirst_work_dark.jpg",
+        "src": "images/12_December/12/thirst_work_visual/20251212_30pt_footnote_thirst_work_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8360,7 +8378,7 @@
     "image": "images/12_December/10/havent_we_visual/20251210_32pt_poem_havent_we_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/10/havent_we_visual/20251210_32pt_footnote_havent_we_dark.jpg",
+        "src": "images/12_December/10/havent_we_visual/20251210_24pt_footnote_havent_we_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8374,7 +8392,7 @@
     "image": "images/12_December/10/function_remember_visual/20251210_32pt_poem_function_remember_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/10/function_remember_visual/20251210_28pt_footnote_function_remember_dark.jpg",
+        "src": "images/12_December/10/function_remember_visual/20251210_30pt_footnote_function_remember_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8388,7 +8406,7 @@
     "image": "images/12_December/09/rooted_visual/20251210_32pt_poem_rooted_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/09/rooted_visual/20251209_30pt_footnote_rooted_dark.jpg",
+        "src": "images/12_December/09/rooted_visual/20251209_32pt_footnote_rooted_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
@@ -8402,7 +8420,7 @@
     "image": "images/12_December/08/between_root_and_reach_visual/20251208_32pt_poem_between_root_and_reach_dark.jpg",
     "additional_renders": [
       {
-        "src": "images/12_December/08/between_root_and_reach_visual/20251208_32pt_footnote_between_root_and_reach_dark.jpg",
+        "src": "images/12_December/08/between_root_and_reach_visual/20251208_24pt_footnote_between_root_and_reach_dark.jpg",
         "label": "Sensor Summary"
       }
     ]
