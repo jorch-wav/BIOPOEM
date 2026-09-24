@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-09-24T20:00:09_adequate_light_adequate_water",
+    "title": "Adequate Light Adequate Water",
+    "date": "2026-09-24T20:00:09",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/sep/24/adequate_light_adequate_water_visual/20260924_32pt_poem_adequate_light_adequate_water_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/sep/24/adequate_light_adequate_water_visual/20260924_28pt_footnote_adequate_light_adequate_water_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/sep/24/adequate_light_adequate_water_visual/20260924_prompt_adequate_light_adequate_water_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-09-23T20:00:18_the_sated_ghost",
     "title": "The Sated Ghost",
     "date": "2026-09-23T20:00:18",
