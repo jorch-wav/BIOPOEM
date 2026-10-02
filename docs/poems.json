@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026-10-02T20:00:10_split_register",
+    "title": "Split Register",
+    "date": "2026-10-02T20:00:10",
+    "theme": "sustained",
+    "influence": "unknown",
+    "image": "images/2026/oct/02/split_register_visual/20261002_32pt_poem_split_register_dark.jpg",
+    "additional_renders": [
+      {
+        "src": "images/2026/oct/02/split_register_visual/20261002_24pt_footnote_split_register_dark.jpg",
+        "label": "Sensor Summary"
+      },
+      {
+        "src": "images/2026/oct/02/split_register_visual/20261002_prompt_split_register_dark.jpg",
+        "label": "AI Prompt"
+      }
+    ]
+  },
+  {
     "id": "2026-10-01T20:00:19_enough_light_enough",
     "title": "Enough Light Enough",
     "date": "2026-10-01T20:00:19",
