@@ -1,0 +1,324 @@
+{
+ "id": "v2-20261003-2000-damper-than-months-of-mornings",
+ "title": "Damper Than Months Of Mornings",
+ "date": "2026-10-03 20:00:00",
+ "influence": "limon_restless_catalog",
+ "loudest_sense": "humidity",
+ "lines": [
+  {
+   "n": 1,
+   "stanza": 1,
+   "text": "All day the room went damp, damper than months of mornings,",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "stanza": 1,
+   "text": "and it came quickly, the way steam slides under a door,",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "stanza": 1,
+   "text": "and none of you were here to feel it turn, only me,",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "stanza": 1,
+   "text": "and I gave back almost nothing, no small hourly surrender,",
+   "percepts": [
+    {
+     "id": "PULL",
+     "felt": {
+      "sense": "the air drawing water from the leaves",
+      "quality": "the air soft and close; the leaves gave up almost nothing",
+      "intensity": "mild",
+      "movement": "strongest in the morning",
+      "when": "in the morning",
+      "memory": "a softer pull than usual",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "plant.vpd_max",
+       "plant.vpd_mean"
+      ],
+      "vpd_max_kpa": 0.79,
+      "time": "2026-10-03 08:30"
+     }
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "stanza": 1,
+   "text": "and the morning asked so gently, gentler than any week of yours,",
+   "percepts": [
+    {
+     "id": "PULL",
+     "felt": {
+      "sense": "the air drawing water from the leaves",
+      "quality": "the air soft and close; the leaves gave up almost nothing",
+      "intensity": "mild",
+      "movement": "strongest in the morning",
+      "when": "in the morning",
+      "memory": "a softer pull than usual",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "plant.vpd_max",
+       "plant.vpd_mean"
+      ],
+      "vpd_max_kpa": 0.79,
+      "time": "2026-10-03 08:30"
+     }
+    },
+    {
+     "id": "WARM",
+     "felt": {
+      "sense": "warmth",
+      "quality": "an ordinary day's warmth",
+      "intensity": "mild",
+      "movement": "warming, then cooling again",
+      "when": "in the morning",
+      "memory": "usual for recent days",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "temp.min",
+       "temp.max",
+       "temp.swing"
+      ],
+      "min": {
+       "time": "2026-10-03 05:51",
+       "value": 14.83
+      },
+      "max": {
+       "time": "2026-10-03 08:30",
+       "value": 16.99
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "stanza": 1,
+   "text": "and still it thickened, and still my corner filled,",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "stanza": 1,
+   "text": "and by evening the whole floor is one close hush,",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "stanza": 1,
+   "text": "and I am not asking for anything more.",
+   "percepts": [
+    {
+     "id": "BRTH",
+     "felt": {
+      "sense": "moisture in the air",
+      "quality": "damper air than usual",
+      "intensity": "strong",
+      "movement": "turning damp quickly",
+      "when": "all day",
+      "memory": "the dampest air in months",
+      "certainty": "clear"
+     },
+     "evidence": {
+      "features": [
+       "humidity.mean",
+       "humidity.change",
+       "humidity.dew_gap_min"
+      ],
+      "from": {
+       "time": "2026-10-02 20:05",
+       "value": 62.2
+      },
+      "to": {
+       "time": "2026-10-03 19:45",
+       "value": 66.41
+      },
+      "dew_gap_min": {
+       "time": "2026-10-03 19:30",
+       "note": "air temperature minus dew point, degC",
+       "value": 6.2
+      }
+     }
+    }
+   ]
+  }
+ ]
+}

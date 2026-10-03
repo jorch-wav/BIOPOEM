@@ -1,5 +1,25 @@
 [
   {
+    "id": "v2-20261003-2000-damper-than-months-of-mornings",
+    "title": "Damper Than Months Of Mornings",
+    "date": "2026-10-03T20:00:00",
+    "theme": "humidity",
+    "influence": "limon_restless_catalog",
+    "era": "v2",
+    "image": "images/v2/2026/10/03/v2-20261003-2000-damper-than-months-of-mornings/poem.jpg",
+    "additional_renders": [
+      {
+        "src": "images/v2/2026/10/03/v2-20261003-2000-damper-than-months-of-mornings/art.jpg",
+        "label": "Visual poem"
+      },
+      {
+        "src": "images/v2/2026/10/03/v2-20261003-2000-damper-than-months-of-mornings/felt.jpg",
+        "label": "Behind the poem"
+      }
+    ],
+    "detail": "v2/v2-20261003-2000-damper-than-months-of-mornings.json"
+  },
+  {
     "id": "2026-10-02T20:00:10_split_register",
     "title": "Split Register",
     "date": "2026-10-02T20:00:10",
